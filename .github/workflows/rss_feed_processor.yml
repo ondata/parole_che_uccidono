@@ -1,0 +1,45 @@
+name: RSS Feed Processor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Esecuzione ogni 6 ore
+  workflow_dispatch:  # Consente l'attivazione manuale
+
+jobs:
+  process-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Storia completa per operazioni git corrette
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Installa dipendenze
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests lxml
+
+    - name: Configura utente Git
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+
+    - name: Elabora feed RSS
+      run: |
+        chmod +x ./scripts/extract_feed_simple.py
+        python ./scripts/extract_feed_simple.py
+
+    - name: Commit e push in caso di modifiche
+      run: |
+        git add data/feed_entries.jsonl
+        if git diff --staged --quiet; then
+          echo "Nessuna modifica da committare"
+        else
+          git commit -m "Aggiorna feed entries [skip ci]"
+          git push
+        fi
