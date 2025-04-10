@@ -69,6 +69,22 @@ def ensure_directories():
 
     logger.debug("Directory verificate e scrivibili")
 
+def cleanup_temp_files():
+    """Rimuove tutti i file temporanei dalla directory tmp."""
+    logger.info("Pulizia dei file temporanei")
+    try:
+        temp_files = list(TMP_DIR.glob(f"{TMP_FEED_PREFIX}*"))
+        if temp_files:
+            for temp_file in temp_files:
+                if temp_file.exists():
+                    temp_file.unlink()
+                    logger.debug(f"Rimosso file temporaneo: {temp_file}")
+            logger.info(f"Rimossi {len(temp_files)} file temporanei")
+        else:
+            logger.debug("Nessun file temporaneo da rimuovere")
+    except Exception as e:
+        logger.error(f"Errore durante la pulizia dei file temporanei: {e}")
+
 def download_feed(feed_url, temp_file):
     """Scarica il feed RSS e lo salva in un file temporaneo."""
     logger.info(f"Scaricamento del feed RSS da {feed_url}")
@@ -103,8 +119,12 @@ def clean_google_redirect_link(link):
     - all'inizio "https://www.google.com/url?rct=j&sa=t&url="
     - alla fine da "&ct=" in poi
 
+    Esegue anche il decoding degli URL codificati (es. %3F diventa ?, %3D diventa =)
+
     Ritorna il link URL reale a cui punta l'articolo.
     """
+    import urllib.parse
+
     if not link:
         return link
 
@@ -115,7 +135,13 @@ def clean_google_redirect_link(link):
     if match:
         # URL decodificato dal link di reindirizzamento
         real_url = match.group(1)
+        # Applica URL decode per trasformare caratteri codificati come %3F in ?
+        real_url = urllib.parse.unquote(real_url)
         return real_url
+
+    # Se non è un link di reindirizzamento di Google, verifica comunque se è necessario decodificare
+    if '%' in link:
+        return urllib.parse.unquote(link)
 
     return link  # Ritorna il link originale se non corrisponde al pattern
 
@@ -307,6 +333,9 @@ def main():
     except Exception as e:
         logger.error(f"Errore fatale durante l'esecuzione: {e}")
         return 1
+    finally:
+        # Pulizia dei file temporanei sempre, anche in caso di errore
+        cleanup_temp_files()
 
 if __name__ == "__main__":
     sys.exit(main())
