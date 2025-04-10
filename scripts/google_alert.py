@@ -42,7 +42,8 @@ TMP_FEED_PREFIX = "feed_temp"
 # Lista di URL dei feed RSS di Google Alerts
 RSS_FEED_URLS = [
     "https://www.google.com/alerts/feeds/15244278077982194024/11541540114411201767",
-    "https://www.google.com/alerts/feeds/15244278077982194024/10845276624304286453"
+    "https://www.google.com/alerts/feeds/15244278077982194024/10845276624304286453",
+    "https://www.google.com/alerts/feeds/15244278077982194024/17765292186956738605"
 ]
 
 # Namespace per il parsing XML
