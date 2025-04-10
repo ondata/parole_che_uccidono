@@ -31,8 +31,8 @@ jobs:
 
     - name: Elabora feed RSS
       run: |
-        chmod +x ./scripts/extract_feed_simple.py
-        python ./scripts/extract_feed_simple.py
+        chmod +x ./scripts/google_alert.py
+        python ./scripts/google_alert.py
 
     - name: Commit e push in caso di modifiche
       run: |
