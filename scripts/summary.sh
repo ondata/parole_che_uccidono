@@ -9,9 +9,6 @@ set -o pipefail
 check_mlr_installation() {
     if ! command -v mlr &> /dev/null; then
         echo "Errore: mlr (Miller) non è installato."
-        echo "Installa Miller con uno dei seguenti comandi:"
-        echo "  - Debian/Ubuntu: sudo apt-get install miller"
-        echo "  - MacOS: brew install miller"
         echo "  - Altri sistemi: https://github.com/johnkerl/miller/releases"
         exit 1
     fi
