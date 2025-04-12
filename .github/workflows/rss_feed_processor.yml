@@ -33,6 +33,11 @@ jobs:
       run: |
         chmod +x ./scripts/google_alert.py
         python ./scripts/google_alert.py
+        
+    - name: Esegui script di riepilogo
+      run: |
+        chmod +x ./scripts/summary.sh
+        ./scripts/summary.sh
 
     - name: Commit e push in caso di modifiche
       run: |
