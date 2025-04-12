@@ -48,10 +48,10 @@ jobs:
 
     - name: Commit e push in caso di modifiche
       run: |
-        git add data/feed_entries.jsonl
+        git add data/feed_entries.jsonl data/url_summary.csv
         if git diff --staged --quiet; then
           echo "Nessuna modifica da committare"
         else
-          git commit -m "Aggiorna feed entries [skip ci]"
+          git commit -m "Aggiorna feed entries e riepilogo [skip ci]"
           git push
         fi
