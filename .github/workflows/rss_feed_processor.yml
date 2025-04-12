@@ -25,11 +25,11 @@ jobs:
         pip install requests lxml
 
     - name: crea cartella utente bin, copia dentro l'eseguibile di mlr
-      run: |-
-          mkdir -p ~/bin
-          cp bin/mlr ~/bin/mlr
-          cd ~/bin
-          chmod +x mlr
+      run: |
+          mkdir -p "$HOME/bin"
+          cp bin/mlr "$HOME/bin/mlr"
+          chmod +x "$HOME/bin/mlr"
+          echo "$HOME/bin" >> "$GITHUB_PATH"
 
     - name: Configura utente Git
       run: |
