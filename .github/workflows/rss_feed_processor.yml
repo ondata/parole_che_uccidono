@@ -24,6 +24,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests lxml
 
+    - name: crea cartella utente bin, copia dentro l'eseguibile di mlr
+      run: |-
+          mkdir -p ~/bin
+          cp bin/mlrgo ~/bin/mlr
+          cd ~/bin
+          chmod +x mlr
+
     - name: Configura utente Git
       run: |
         git config --global user.name "GitHub Action"
@@ -33,7 +40,7 @@ jobs:
       run: |
         chmod +x ./scripts/google_alert.py
         python ./scripts/google_alert.py
-        
+
     - name: Esegui script di riepilogo
       run: |
         chmod +x ./scripts/summary.sh
