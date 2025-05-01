@@ -1,5 +1,5 @@
 fonte,count
-https://www.youtube.com/,177
+https://www.youtube.com/,180
 https://www.virgilio.it/,71
 https://www.ilrestodelcarlino.it/,56
 https://www.rainews.it/,41
@@ -7,17 +7,17 @@ https://www.ansa.it/,38
 https://www.instagram.com/,30
 https://x.com/,30
 https://www.ilfattoquotidiano.it/,28
-https://www.fanpage.it/,26
+https://www.fanpage.it/,27
 https://www.lanazione.it/,22
+https://www.open.online/,22
 https://tg24.sky.it/,21
-https://www.open.online/,21
 https://m.facebook.com/,20
 https://www.lastampa.it/,19
+https://www.msn.com/,15
 https://www.palermotoday.it/,15
+https://www.romatoday.it/,15
 https://prefettura.interno.gov.it/,14
 https://www.ilgiorno.it/,14
-https://www.msn.com/,14
-https://www.romatoday.it/,14
 https://www.ilmessaggero.it/,13
 https://agenparl.eu/,12
 https://www.facebook.com/,12
@@ -93,6 +93,7 @@ https://www.avvenire.it/,5
 https://www.centropagina.it/,5
 https://www.corriereadriatico.it/,5
 https://www.corrierealpi.it/,5
+https://www.giornaledibrescia.it/,5
 https://www.giustiziainsieme.it/,5
 https://www.ildolomiti.it/,5
 https://www.siracusanews.it/,5
@@ -120,7 +121,6 @@ https://www.friulioggi.it/,4
 https://www.gaeta.it/,4
 https://www.gazzettadimantova.it/,4
 https://www.gazzettadimodena.it/,4
-https://www.giornaledibrescia.it/,4
 https://www.giornalelavoce.it/,4
 https://www.giornalelora.it/,4
 https://www.ilbustese.it/,4
@@ -249,6 +249,7 @@ https://ilcaffe.tv/,2
 https://ilcorriere.net/,2
 https://infomedianews.com/,2
 https://internapoli.it/,2
+https://it.insideover.com/,2
 https://laprovinciapavese.gelocal.it/,2
 https://laziotv.it/,2
 https://lecconotizie.com/,2
@@ -327,6 +328,7 @@ https://www.forumdiplomatico.com/,2
 https://www.gazzettadireggio.it/,2
 https://www.gazzettadisiena.it/,2
 https://www.gazzettasarda.com/,2
+https://www.gazzettinonline.it/,2
 https://www.giornaleinfocastelliromani.it/,2
 https://www.gonews.it/,2
 https://www.greenme.it/,2
@@ -426,6 +428,7 @@ http://www.ilpiacenza.it/,1
 http://www.ingenere.it/,1
 http://www.metalhammer.it/,1
 http://www.montalcinonews.com/,1
+http://www.msn.com/,1
 http://www.umbriadomani.it/,1
 https://24live.it/,1
 https://2man.be/,1
@@ -520,7 +523,6 @@ https://insegreto.com/,1
 https://integrazionemigranti.gov.it/,1
 https://iris.uniroma1.it/,1
 https://it.euronews.com/,1
-https://it.insideover.com/,1
 https://itacanotizie.it/,1
 https://ivl24.it/,1
 https://labusa.info/,1
@@ -750,6 +752,7 @@ https://www.difesapopolo.it/,1
 https://www.dimensioneinfermiere.it/,1
 https://www.diocesidicremona.it/,1
 https://www.diocesitn.it/,1
+https://www.direttasicilia.it/,1
 https://www.dirittodicronaca.it/,1
 https://www.doctor33.it/,1
 https://www.donnealtri.it/,1
@@ -779,7 +782,6 @@ https://www.gazzettadalba.it/,1
 https://www.gazzettadellaspezia.it/,1
 https://www.gazzettadellirpinia.it/,1
 https://www.gazzettaufficiale.it/,1
-https://www.gazzettinonline.it/,1
 https://www.genova24.it/,1
 https://www.genovatoday.it/,1
 https://www.geronimo.news/,1
@@ -811,10 +813,12 @@ https://www.ildifforme.it/,1
 https://www.ildomanibleo.com/,1
 https://www.ilfaroonline.it/,1
 https://www.ilfoglio.it/,1
+https://www.ilfriuli.it/,1
 https://www.ilgazzettinometropolitano.it/,1
 https://www.ilgazzettinonuovo.it/,1
 https://www.ilgiornaledelmolise.it/,1
 https://www.ilgiornaleditrani.net/,1
+https://www.ilgiornaledivicenza.it/,1
 https://www.ilmamilio.it/,1
 https://www.ilmercoledi.news/,1
 https://www.ilmondonuovo.club/,1
@@ -1001,11 +1005,13 @@ https://www.redacon.it/,1
 https://www.redazionenews.it/,1
 https://www.reggionelpallone.it/,1
 https://www.reggionline.com/,1
+https://www.regione.sicilia.it/,1
 https://www.regione.umbria.it/,1
 https://www.regione.veneto.it/,1
 https://www.reportpistoia.com/,1
 https://www.reportsardegna24.it/,1
 https://www.reportweb.tv/,1
+https://www.researchgate.net/,1
 https://www.rete8.it/,1
 https://www.reteabruzzo.com/,1
 https://www.retegargano.it/,1
@@ -1122,5 +1128,6 @@ https://www.wltv.it/,1
 https://www.womenews.net/,1
 https://www.zerottounonews.it/,1
 https://www.zeroventiquattro.it/,1
+https://www1.prefettura.it/,1
 https://yesmagazine.it/,1
 https://zonawrestling.net/,1
