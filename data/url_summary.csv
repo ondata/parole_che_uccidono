@@ -1,29 +1,29 @@
 fonte,count
 https://www.youtube.com/,252
 https://www.virgilio.it/,101
-https://www.ilrestodelcarlino.it/,83
+https://www.ilrestodelcarlino.it/,85
 https://www.rainews.it/,64
 https://www.ansa.it/,54
 https://m.facebook.com/,40
 https://www.ilgiorno.it/,40
 https://www.fanpage.it/,39
 https://www.open.online/,38
+https://x.com/,38
 https://www.ilfattoquotidiano.it/,37
 https://www.instagram.com/,37
+https://www.lanazione.it/,36
 https://www.lastampa.it/,36
-https://www.lanazione.it/,34
-https://x.com/,34
 https://tg24.sky.it/,31
 https://www.romatoday.it/,23
 https://agenparl.eu/,22
-https://www.msn.com/,21
+https://www.msn.com/,22
 https://www.ilgazzettino.it/,20
 https://www.ilmessaggero.it/,20
 https://www.vanityfair.it/,20
 https://www.facebook.com/,19
 https://notizie.tiscali.it/,18
+https://www.iltirreno.it/,18
 https://www.dailymotion.com/,17
-https://www.iltirreno.it/,17
 https://www.palermotoday.it/,17
 https://www.unionesarda.it/,17
 https://www.tgcom24.mediaset.it/,16
@@ -93,6 +93,7 @@ https://tg.la7.it/,7
 https://video.sky.it/,7
 https://www.9colonne.it/,7
 https://www.adnkronos.com/,7
+https://www.antennasud.com/,7
 https://www.cataniatoday.it/,7
 https://www.chietitoday.it/,7
 https://www.forlitoday.it/,7
@@ -109,7 +110,6 @@ https://mediasetinfinity.mediaset.it/,6
 https://messina.gazzettadelsud.it/,6
 https://napoli.repubblica.it/,6
 https://unr.edu.ar/,6
-https://www.antennasud.com/,6
 https://www.avellinotoday.it/,6
 https://www.brindisireport.it/,6
 https://www.castellinotizie.it/,6
@@ -211,6 +211,7 @@ https://www.luccagiovane.it/,4
 https://www.milanopavia.news/,4
 https://www.milanopost.info/,4
 https://www.modenatoday.it/,4
+https://www.mondadoristore.it/,4
 https://www.napolitoday.it/,4
 https://www.newtuscia.it/,4
 https://www.nuovavenezia.it/,4
@@ -300,7 +301,6 @@ https://www.malpensanews.it/,3
 https://www.marieclaire.it/,3
 https://www.mattinopadova.it/,3
 https://www.mbnews.it/,3
-https://www.mondadoristore.it/,3
 https://www.mondopalermo.it/,3
 https://www.monzatoday.it/,3
 https://www.nigrizia.it/,3
@@ -361,6 +361,7 @@ https://ilcorriere.net/,2
 https://ilfattodimolfetta.it/,2
 https://ilnuovotorrazzo.it/,2
 https://ilsalvagente.it/,2
+https://iltaccodibacco.it/,2
 https://infomedianews.com/,2
 https://it.euronews.com/,2
 https://it.insideover.com/,2
@@ -523,6 +524,7 @@ https://www.molisenetwork.net/,2
 https://www.nordest24.it/,2
 https://www.numerozero.org/,2
 https://www.ondanews.it/,2
+https://www.ondarossa.info/,2
 https://www.ondatv.tv/,2
 https://www.orticalab.it/,2
 https://www.osservatoreromano.va/,2
@@ -615,6 +617,7 @@ http://www.umbriadomani.it/,1
 https://24live.it/,1
 https://2man.be/,1
 https://abitarearoma.it/,1
+https://abrescia.giornaledibrescia.it/,1
 https://abruzzoweb.it/,1
 https://agenziastampaitalia.it/,1
 https://aizkorri.fr/,1
@@ -705,7 +708,6 @@ https://il-catenaccio.it/,1
 https://ildispaccio.it/,1
 https://ilfuturoquotidiano.it/,1
 https://ilpopolopordenone.it/,1
-https://iltaccodibacco.it/,1
 https://incronaca.unibo.it/,1
 https://indico.ict.inaf.it/,1
 https://informareunh.it/,1
@@ -805,6 +807,7 @@ https://studiquestionecriminale.wordpress.com/,1
 https://style.corriere.it/,1
 https://superando.it/,1
 https://telemolise.com/,1
+https://teleromagna.it/,1
 https://temi.camera.it/,1
 https://terninrete.it/,1
 https://terzultimafermata.blog/,1
@@ -865,6 +868,7 @@ https://www.arezzo24.net/,1
 https://www.arona24.it/,1
 https://www.articolo21.org/,1
 https://www.artribune.com/,1
+https://www.ascuolaoggi.com/,1
 https://www.asianews.it/,1
 https://www.asl2.liguria.it/,1
 https://www.aslto3.piemonte.it/,1
@@ -1222,7 +1226,6 @@ https://www.okvaldisieve.it/,1
 https://www.olbia.it/,1
 https://www.omceoisernia.it/,1
 https://www.omceovenezia.it/,1
-https://www.ondarossa.info/,1
 https://www.ontuscia.it/,1
 https://www.openchanneltv.it/,1
 https://www.opl.it/,1
@@ -1335,6 +1338,7 @@ https://www.scuolecefa.it/,1
 https://www.segretaricomunalivighenzi.it/,1
 https://www.senato.it/,1
 https://www.senzacolonnenews.it/,1
+https://www.settenews.it/,1
 https://www.settimanalediocesidicomo.it/,1
 https://www.shmag.it/,1
 https://www.sikilynews.it/,1
@@ -1351,6 +1355,7 @@ https://www.strill.it/,1
 https://www.subito.it/,1
 https://www.svsdad.it/,1
 https://www.tamtamtv.it/,1
+https://www.targatocn.it/,1
 https://www.taxidrivers.it/,1
 https://www.tcftv.it/,1
 https://www.teatroarcobaleno.net/,1
