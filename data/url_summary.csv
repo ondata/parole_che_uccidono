@@ -1,16 +1,16 @@
 fonte,count
 https://www.youtube.com/,291
 https://www.virgilio.it/,132
-https://www.ilrestodelcarlino.it/,108
+https://www.ilrestodelcarlino.it/,109
 https://www.rainews.it/,77
 https://www.ansa.it/,67
 https://x.com/,61
 https://www.fanpage.it/,59
-https://m.facebook.com/,55
+https://m.facebook.com/,56
 https://www.ilgiorno.it/,55
 https://www.open.online/,49
+https://www.lanazione.it/,47
 https://www.lastampa.it/,47
-https://www.lanazione.it/,46
 https://www.ilfattoquotidiano.it/,45
 https://www.instagram.com/,44
 https://tg24.sky.it/,40
@@ -28,6 +28,7 @@ https://www.unionesarda.it/,22
 https://www.corriere.it/,21
 https://www.milanotoday.it/,21
 https://www.repubblica.it/,20
+https://alessandria.today/,19
 https://www.dailymotion.com/,19
 https://www.iltirreno.it/,19
 https://www.palermotoday.it/,19
@@ -36,12 +37,11 @@ https://www.ilgiornale.it/,18
 https://www.ilpiacenza.it/,18
 https://torinocronaca.it/,17
 https://www.editorialedomani.it/,17
-https://alessandria.today/,16
+https://www.notizie.it/,16
 https://www.orizzontescuola.it/,16
 https://mediasetinfinity.mediaset.it/,15
 https://prefettura.interno.gov.it/,15
 https://www.ilmattino.it/,15
-https://www.notizie.it/,15
 https://alleyoop.ilsole24ore.com/,14
 https://questure.poliziadistato.it/,14
 https://www.agensir.it/,14
@@ -84,6 +84,7 @@ https://livesicilia.it/,9
 https://milano.corriere.it/,9
 https://www.9colonne.it/,9
 https://www.avvenire.it/,9
+https://www.civonline.it/,9
 https://www.elle.com/,9
 https://www.gazzettadimodena.it/,9
 https://www.gazzettadireggio.it/,9
@@ -99,7 +100,6 @@ https://www.altalex.com/,8
 https://www.baritoday.it/,8
 https://www.casertanews.it/,8
 https://www.cataniatoday.it/,8
-https://www.civonline.it/,8
 https://www.forlitoday.it/,8
 https://www.gazzettadimantova.it/,8
 https://www.informazione.it/,8
@@ -156,6 +156,7 @@ https://www.giornalelora.it/,6
 https://www.ilreggino.it/,6
 https://www.ladige.it/,6
 https://www.lametino.it/,6
+https://www.laprovinciacv.it/,6
 https://www.liberta.it/,6
 https://www.napolitoday.it/,6
 https://www.poliziadistato.it/,6
@@ -168,6 +169,7 @@ https://www.sulpanaro.net/,6
 https://www.tiktok.com/,6
 https://www.umbria24.it/,6
 https://www.vrsicilia.it/,6
+https://etrurianews.it/,5
 https://liberta.it/,5
 https://mantovauno.it/,5
 https://ntplusdiritto.ilsole24ore.com/,5
@@ -193,7 +195,6 @@ https://www.lacnews24.it/,5
 https://www.lanuovacalabria.it/,5
 https://www.lapiazzaweb.it/,5
 https://www.laprovinciacr.it/,5
-https://www.laprovinciacv.it/,5
 https://www.latinaoggi.eu/,5
 https://www.liberoquotidiano.it/,5
 https://www.milanopost.info/,5
@@ -229,7 +230,6 @@ https://cn24tv.it/,4
 https://corrierediarezzo.it/,4
 https://cremonasera.it/,4
 https://ennapress.it/,4
-https://etrurianews.it/,4
 https://feministpost.it/,4
 https://gds.it/,4
 https://magazine.unibo.it/,4
@@ -395,6 +395,7 @@ https://www.sardegnagol.eu/,3
 https://www.sardegnalive.net/,3
 https://www.savethechildren.it/,3
 https://www.siracusapost.com/,3
+https://www.spazioapertosalento.it/,3
 https://www.stampareggiana.it/,3
 https://www.startmag.it/,3
 https://www.strettoweb.com/,3
@@ -691,7 +692,6 @@ https://www.sassaritoday.it/,2
 https://www.settenews.it/,2
 https://www.sicilia24h.it/,2
 https://www.simlaweb.it/,2
-https://www.spazioapertosalento.it/,2
 https://www.stampalibera.it/,2
 https://www.strisciarossa.it/,2
 https://www.studio93.it/,2
@@ -887,6 +887,7 @@ https://lucerabynight.it/,1
 https://lucysullacultura.com/,1
 https://m.brindisisera.it/,1
 https://m.imdb.com/,1
+https://m.youtube.com/,1
 https://manewspiceno.it/,1
 https://marsicalive.it/,1
 https://massilosa.com/,1
@@ -943,6 +944,7 @@ https://radionbc.it/,1
 https://radionorba.it/,1
 https://radiotaormina.it/,1
 https://realcultura.it/,1
+https://reggio.gazzettadelsud.it/,1
 https://reggiofocus.it/,1
 https://rewriters.it/,1
 https://riflessimag.it/,1
