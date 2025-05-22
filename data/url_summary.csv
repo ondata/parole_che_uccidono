@@ -1,7 +1,7 @@
 fonte,count
 https://www.youtube.com/,306
 https://www.virgilio.it/,143
-https://www.ilrestodelcarlino.it/,123
+https://www.ilrestodelcarlino.it/,124
 https://www.rainews.it/,81
 https://www.ansa.it/,71
 https://x.com/,69
@@ -19,8 +19,8 @@ https://www.romatoday.it/,33
 https://www.facebook.com/,30
 https://agenparl.eu/,29
 https://www.leggo.it/,29
+https://www.agi.it/,27
 https://www.ilmessaggero.it/,27
-https://www.agi.it/,26
 https://www.vanityfair.it/,26
 https://www.ilgazzettino.it/,25
 https://www.tgcom24.mediaset.it/,24
@@ -71,6 +71,7 @@ https://ilmanifesto.it/,11
 https://livesicilia.it/,11
 https://tg.la7.it/,11
 https://www.adnkronos.com/,11
+https://www.corriereadriatico.it/,11
 https://www.forlitoday.it/,11
 https://www.gaeta.it/,11
 https://www.gazzettadimodena.it/,11
@@ -78,14 +79,13 @@ https://www.gazzettadireggio.it/,11
 https://www.la7.it/,11
 https://www.lagazzettadelmezzogiorno.it/,11
 https://www.padovaoggi.it/,11
+https://www.tempostretto.it/,11
 https://buonasera24.it/,10
 https://it.cibercuba.com/,10
 https://milano.corriere.it/,10
 https://www.cdt.ch/,10
-https://www.corriereadriatico.it/,10
 https://www.statoquotidiano.it/,10
 https://www.telefriuli.it/,10
-https://www.tempostretto.it/,10
 https://corrierefiorentino.corriere.it/,9
 https://lespresso.it/,9
 https://roma.corriere.it/,9
@@ -100,6 +100,7 @@ https://www.ildolomiti.it/,9
 https://www.informazione.it/,9
 https://www.larena.it/,9
 https://www.udinetoday.it/,9
+http://www.comune.torino.it/,8
 https://messina.gazzettadelsud.it/,8
 https://partitodemocratico.it/,8
 https://video.sky.it/,8
@@ -117,7 +118,7 @@ https://www.secoloditalia.it/,8
 https://www.sistemapenale.it/,8
 https://www.varesenews.it/,8
 https://www.veneziatoday.it/,8
-http://www.comune.torino.it/,7
+https://27esimaora.corriere.it/,7
 https://corrieredelveneto.corriere.it/,7
 https://giornalesm.com/,7
 https://ilsicilia.it/,7
@@ -145,7 +146,6 @@ https://www.swissinfo.ch/,7
 https://www.tp24.it/,7
 https://www.vrsicilia.it/,7
 https://www.webmarte.tv/,7
-https://27esimaora.corriere.it/,6
 https://bitontolive.it/,6
 https://corrierediarezzo.it/,6
 https://corrieredibologna.corriere.it/,6
@@ -323,6 +323,7 @@ https://esgnews.it/,3
 https://gazzettadelsud.it/,3
 https://gazzettadibologna.it/,3
 https://giornalenews.it/,3
+https://goldtv.it/,3
 https://ilcorriere.net/,3
 https://ilnuovotorrazzo.it/,3
 https://incronaca.unibo.it/,3
@@ -485,7 +486,6 @@ https://fishets.it/,2
 https://friulisera.it/,2
 https://gazzettadellaspezia.com/,2
 https://genova.repubblica.it/,2
-https://goldtv.it/,2
 https://ilbolive.unipd.it/,2
 https://ilcaffe.tv/,2
 https://ilsalvagente.it/,2
@@ -922,6 +922,7 @@ https://il-catenaccio.it/,1
 https://ilcentrotirreno.it/,1
 https://ildispaccio.it/,1
 https://ilfuturoquotidiano.it/,1
+https://ilmeridio.it/,1
 https://ilpopolopordenone.it/,1
 https://indico.ict.inaf.it/,1
 https://informazionecomunicazione.it/,1
@@ -1032,10 +1033,12 @@ https://servizi.comune.milano.it/,1
 https://sicilia.gazzettadelsud.it/,1
 https://siciliamedica.com/,1
 https://siciliatabloid.it/,1
+https://simpliciter.ai/,1
 https://sinofilia.es/,1
 https://site.unibo.it/,1
 https://siusa-archivi.cultura.gov.it/,1
 https://smart.comune.genova.it/,1
+https://soccorsointernazionale.org/,1
 https://sport.quotidiano.net/,1
 https://startupitalia.eu/,1
 https://studiquestionecriminale.wordpress.com/,1
@@ -1096,6 +1099,7 @@ https://www.almablog.it/,1
 https://www.alpauno.com/,1
 https://www.altovicentinonline.it/,1
 https://www.altramantova.it/,1
+https://www.amazon.de/,1
 https://www.amicidicapracotta.com/,1
 https://www.anaao.it/,1
 https://www.ancescao.it/,1
@@ -1298,6 +1302,7 @@ https://www.federprivacy.org/,1
 https://www.figc.it/,1
 https://www.filctemcgil.it/,1
 https://www.finestraperta.it/,1
+https://www.finestresullarte.info/,1
 https://www.firenzedintorni.it/,1
 https://www.firstcisl.it/,1
 https://www.fisac-cgil.it/,1
