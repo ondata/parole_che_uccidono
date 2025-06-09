@@ -1,11 +1,11 @@
 fonte,count
-https://www.youtube.com/,422
+https://www.youtube.com/,423
 https://www.virgilio.it/,198
 https://www.ilrestodelcarlino.it/,167
 https://www.rainews.it/,115
 https://www.ansa.it/,109
-https://x.com/,108
-https://m.facebook.com/,107
+https://x.com/,109
+https://m.facebook.com/,108
 https://tg24.sky.it/,93
 https://www.fanpage.it/,93
 https://www.open.online/,87
@@ -176,6 +176,7 @@ https://www.lacnews24.it/,8
 https://www.lametino.it/,8
 https://www.lapiazzaweb.it/,8
 https://www.laprovinciacr.it/,8
+https://www.libero.it/,8
 https://www.napolitoday.it/,8
 https://www.parmatoday.it/,8
 https://www.quicosenza.it/,8
@@ -212,7 +213,6 @@ https://www.ilgiornaledichieti.it/,7
 https://www.lacronaca24.it/,7
 https://www.ladige.it/,7
 https://www.lanuovacalabria.it/,7
-https://www.libero.it/,7
 https://www.pisatoday.it/,7
 https://www.poliziadistato.it/,7
 https://www.siracusanews.it/,7
@@ -321,6 +321,7 @@ https://www.ilbustese.it/,5
 https://www.ilcapoluogo.it/,5
 https://www.ilcittadino.it/,5
 https://www.ladigetto.it/,5
+https://www.lanovitaonline.it/,5
 https://www.lanuovariviera.it/,5
 https://www.latinaoggi.eu/,5
 https://www.lindipendente.online/,5
@@ -405,7 +406,6 @@ https://www.isnews.it/,4
 https://www.italynews.org.uk/,4
 https://www.labottegadelbarbieri.org/,4
 https://www.lafionda.com/,4
-https://www.lanovitaonline.it/,4
 https://www.laprovinciadicomo.it/,4
 https://www.laprovinciadivarese.it/,4
 https://www.laprovinciaunicatv.it/,4
@@ -568,6 +568,7 @@ https://www.ildifforme.it/,3
 https://www.ilfaroonline.it/,3
 https://www.ilfoglio.it/,3
 https://www.ilsussidiario.net/,3
+https://www.iltempo.it/,3
 https://www.iltquotidiano.it/,3
 https://www.iltrafiletto.it/,3
 https://www.ilvibonese.it/,3
@@ -762,6 +763,7 @@ https://tiburno.tv/,2
 https://torino.repubblica.it/,2
 https://trcmodena.it/,2
 https://trendsanita.it/,2
+https://tv.tiscali.it/,2
 https://tv12.medianordest.it/,2
 https://tvgnews.it/,2
 https://unipd-centrodirittiumani.it/,2
@@ -785,6 +787,7 @@ https://www.aosp.bo.it/,2
 https://www.approdocalabria.it/,2
 https://www.asianews.it/,2
 https://www.assocarenews.it/,2
+https://www.asst-mantova.it/,2
 https://www.asst-settelaghi.it/,2
 https://www.ats-valpadana.it/,2
 https://www.avantionline.it/,2
@@ -878,7 +881,6 @@ https://www.ilmediano.com/,2
 https://www.ilmediterraneo24.it/,2
 https://www.ilmitte.com/,2
 https://www.iltempionews.com/,2
-https://www.iltempo.it/,2
 https://www.indire.it/,2
 https://www.infoans.org/,2
 https://www.infocilento.it/,2
@@ -968,6 +970,7 @@ https://www.research.unipd.it/,2
 https://www.retesei.com/,2
 https://www.rgunotizie.it/,2
 https://www.rivieraweb.it/,2
+https://www.rivisteweb.it/,2
 https://www.romagnanotizie.net/,2
 https://www.salernonotizie.it/,2
 https://www.sanitainformazione.it/,2
@@ -1383,7 +1386,6 @@ https://trasparenza-unito.cineca.it/,1
 https://trattorialefarniole.it/,1
 https://trcbologna.it/,1
 https://trt.global/,1
-https://tv.tiscali.it/,1
 https://tv6onair.com/,1
 https://twitter.com/,1
 https://uilcampania.it/,1
@@ -1454,7 +1456,6 @@ https://www.associazioneedela.it/,1
 https://www.associazionelui.it/,1
 https://www.assogestioni.it/,1
 https://www.asst-lodi.it/,1
-https://www.asst-mantova.it/,1
 https://www.asst-spedalicivili.it/,1
 https://www.atlanteguerre.it/,1
 https://www.atnews.it/,1
@@ -1692,6 +1693,7 @@ https://www.fnsi.it/,1
 https://www.foggiacittaaperta.it/,1
 https://www.folignooggi.it/,1
 https://www.fondazionecsc.it/,1
+https://www.fondazioneossicini.it/,1
 https://www.forensicnews.it/,1
 https://www.formazionepromethes.it/,1
 https://www.forumitalia.info/,1
@@ -1712,6 +1714,7 @@ https://www.gazzettabenevento.it/,1
 https://www.gazzettadellaspezia.it/,1
 https://www.gazzettadellirpinia.it/,1
 https://www.gazzettadimilano.it/,1
+https://www.gazzettadireggio.com/,1
 https://www.gazzettajonica.it/,1
 https://www.gazzettinodelchianti.it/,1
 https://www.genova3000.it/,1
@@ -2050,6 +2053,7 @@ https://www.radiopnr.it/,1
 https://www.radioradio.it/,1
 https://www.radiosapienza.net/,1
 https://www.radiostudio7.net/,1
+https://www.radiostudio90italia.it/,1
 https://www.radiotorremacauda.it/,1
 https://www.ragionierieprevidenza.it/,1
 https://www.ragusah24.it/,1
@@ -2081,7 +2085,6 @@ https://www.rifday.it/,1
 https://www.rightsreporter.org/,1
 https://www.rimininews24.it/,1
 https://www.rivistastudio.com/,1
-https://www.rivisteweb.it/,1
 https://www.rockit.it/,1
 https://www.rockol.it/,1
 https://www.romanews.eu/,1
@@ -2230,6 +2233,7 @@ https://www.ussi.it/,1
 https://www.v-news.it/,1
 https://www.vaccarinews.it/,1
 https://www.valledaostaglocal.it/,1
+https://www.vallesabbianews.it/it/notizie//2025/,1
 https://www.valmisa.com/,1
 https://www.valseriana.eu/,1
 https://www.valseriananews.it/,1
