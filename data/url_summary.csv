@@ -1,7 +1,7 @@
 fonte,count
-https://www.youtube.com/,524
+https://www.youtube.com/,526
 https://www.virgilio.it/,268
-https://www.ilrestodelcarlino.it/,223
+https://www.ilrestodelcarlino.it/,225
 https://www.ansa.it/,160
 https://m.facebook.com/,158
 https://x.com/,158
@@ -38,13 +38,13 @@ https://www.ilgiornale.it/,36
 https://questure.poliziadistato.it/,35
 https://notizie.tiscali.it/,34
 https://www.adnkronos.com/,34
-https://www.tecnicadellascuola.it/,33
+https://www.tecnicadellascuola.it/,34
 https://it.linkedin.com/,32
+https://www.quotidiano.net/,32
 https://stream24.ilsole24ore.com/,31
 https://torinocronaca.it/,31
 https://www.iodonna.it/,31
 https://www.milanotoday.it/,31
-https://www.quotidiano.net/,31
 https://mediasetinfinity.mediaset.it/,30
 https://www.editorialedomani.it/,30
 https://www.palermotoday.it/,29
@@ -105,6 +105,7 @@ https://wesud.it/,15
 https://www.comune.roma.it/,15
 https://www.espansionetv.it/,15
 https://www.larena.it/,15
+https://www.mattinopadova.it/,15
 https://www.messinatoday.it/,15
 https://www.senato.it/,15
 https://it.cibercuba.com/,14
@@ -116,7 +117,6 @@ https://www.gazzettadimodena.it/,14
 https://www.giustiziainsieme.it/,14
 https://www.ilnordest.it/,14
 https://www.lanuovasardegna.it/,14
-https://www.mattinopadova.it/,14
 https://giornalesm.com/,13
 https://m.cronachemaceratesi.it/,13
 https://messina.gazzettadelsud.it/,13
@@ -223,6 +223,7 @@ https://laguida.it/,8
 https://napoli.corriere.it/,8
 https://palermo.gds.it/,8
 https://tuttoggi.info/,8
+https://www.africarivista.it/,8
 https://www.agenziagiornalisticaopinione.it/,8
 https://www.alfemminile.com/,8
 https://www.bergamonews.it/,8
@@ -253,6 +254,7 @@ https://www.siracusanews.it/,8
 https://www.viterbotoday.it/,8
 https://corriereirpinia.it/,7
 https://ecodellojonio.it/,7
+https://esgdata.it/,7
 https://ladiscussione.com/,7
 https://mantovauno.it/,7
 https://marcheinfinite.com/,7
@@ -262,7 +264,6 @@ https://ntplusdiritto.ilsole24ore.com/,7
 https://qds.it/,7
 https://telenord.it/,7
 https://unr.edu.ar/,7
-https://www.africarivista.it/,7
 https://www.anteprima24.it/,7
 https://www.cagliaripad.it/,7
 https://www.ciaocomo.it/,7
@@ -299,7 +300,6 @@ https://bitontolive.it/,6
 https://citynotizie.it/,6
 https://cremonasera.it/,6
 https://ennapress.it/,6
-https://esgdata.it/,6
 https://etvmarche.it/,6
 https://gds.it/,6
 https://ilnuovoterraglio.it/,6
@@ -416,6 +416,7 @@ https://www.cuneodice.it/,5
 https://www.cusanomediaplay.it/,5
 https://www.docsity.com/,5
 https://www.ecodelsannio.it/,5
+https://www.esperienzeconilsud.it/,5
 https://www.fanoinforma.it/,5
 https://www.firstcisl.it/,5
 https://www.friulioggi.it/,5
@@ -526,7 +527,6 @@ https://www.dedalomultimedia.org/,4
 https://www.deputatipd.it/,4
 https://www.digitradio.it/,4
 https://www.dire.it/,4
-https://www.esperienzeconilsud.it/,4
 https://www.espressione24.it/,4
 https://www.fisascat.it/,4
 https://www.genova24.it/,4
@@ -717,6 +717,7 @@ https://www.diario1984.it/,3
 https://www.difesapopolo.it/,3
 https://www.diritto.it/,3
 https://www.donneierioggiedomani.it/,3
+https://www.eleonoramattia.it/,3
 https://www.farmacianews.it/,3
 https://www.farmacista33.it/,3
 https://www.fnsi.it/,3
@@ -760,6 +761,7 @@ https://www.lanotiziagiornale.it/,3
 https://www.laprimalinea.it/,3
 https://www.laprovinciadifermo.com/,3
 https://www.laprovinciaonline.info/,3
+https://www.laspunta.it/,3
 https://www.lavitacattolica.it/,3
 https://www.lecodelsud.it/,3
 https://www.lecronachelucane.it/,3
@@ -1044,7 +1046,6 @@ https://www.dsps.unict.it/,2
 https://www.ecodellalocride.it/,2
 https://www.ecovicentino.it/,2
 https://www.ehabitat.it/,2
-https://www.eleonoramattia.it/,2
 https://www.eunews.it/,2
 https://www.europarl.europa.eu/,2
 https://www.eventbrite.it/,2
@@ -1104,7 +1105,6 @@ https://www.lagone.it/,2
 https://www.lanotteonline.it/,2
 https://www.laprovinciakr.it/,2
 https://www.lasiciliaweb.it/,2
-https://www.laspunta.it/,2
 https://www.latinanews.eu/,2
 https://www.laverita.info/,2
 https://www.lavitadelpopolo.it/,2
@@ -1206,6 +1206,7 @@ https://www.scienzepolitiche.unina.it/,2
 https://www.scuoladonnedigoverno.it/,2
 https://www.scuolainforma.news/,2
 https://www.sempionenews.it/,2
+https://www.senigallianotizie.it/,2
 https://www.simlaweb.it/,2
 https://www.slc-cgil.it/,2
 https://www.sololibri.net/,2
@@ -1307,6 +1308,7 @@ https://agenziastampaitalia.it/,1
 https://aiaf-veneto.it/,1
 https://aizkorri.fr/,1
 https://allestimenti-trasporti.it/,1
+https://almastart.unibo.it/,1
 https://altopascio.info/,1
 https://altreconomia.it/,1
 https://amiciziaitalo-palestinese.org/,1
@@ -1444,6 +1446,7 @@ https://ilcaffequotidiano.online/,1
 https://ilcampoonline.it/,1
 https://ilfattodicatania.it/,1
 https://ilfuturoquotidiano.it/,1
+https://ilglobo.com.au/,1
 https://ilglobo.com/,1
 https://ilmelogranonet.it/,1
 https://ilmeridio.it/,1
@@ -2503,7 +2506,6 @@ https://www.scuolecefa.it/,1
 https://www.segretaricomunalivighenzi.it/,1
 https://www.seguonews.com/,1
 https://www.sellerio.it/,1
-https://www.senigallianotizie.it/,1
 https://www.settegiorniatortona.it/,1
 https://www.settenove.it/,1
 https://www.settimanalediocesidicomo.it/,1
