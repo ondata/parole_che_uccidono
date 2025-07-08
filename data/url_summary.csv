@@ -1,19 +1,19 @@
 fonte,count
-https://www.youtube.com/,551
-https://www.virgilio.it/,296
+https://www.youtube.com/,552
+https://www.virgilio.it/,297
 https://www.ilrestodelcarlino.it/,253
 https://www.ansa.it/,183
-https://x.com/,176
+https://x.com/,178
 https://www.rainews.it/,164
 https://m.facebook.com/,163
 https://www.open.online/,142
 https://www.fanpage.it/,139
 https://www.lanazione.it/,134
-https://tg24.sky.it/,122
-https://www.ilfattoquotidiano.it/,109
+https://tg24.sky.it/,123
+https://www.ilfattoquotidiano.it/,110
 https://www.ilgiorno.it/,108
 https://www.lastampa.it/,107
-https://www.instagram.com/,79
+https://www.instagram.com/,80
 https://agenparl.eu/,74
 https://www.repubblica.it/,72
 https://www.msn.com/,67
@@ -29,13 +29,13 @@ https://www.dailymotion.com/,52
 https://www.ilgazzettino.it/,52
 https://www.vanityfair.it/,52
 https://www.adnkronos.com/,49
-https://www.corriere.it/,48
+https://www.corriere.it/,49
 https://www.ilmattino.it/,44
+https://www.9colonne.it/,43
 https://www.iltirreno.it/,43
 https://www.tecnicadellascuola.it/,43
-https://www.9colonne.it/,42
+https://www.ilsole24ore.com/,41
 https://questure.poliziadistato.it/,40
-https://www.ilsole24ore.com/,40
 https://www.orizzontescuola.it/,40
 https://torinocronaca.it/,37
 https://www.ilgiornale.it/,37
@@ -74,13 +74,13 @@ https://www.ilpiacenza.it/,22
 https://www.ilpost.it/,22
 https://www.lapresse.it/,22
 https://www.mondadoristore.it/,22
+https://www.napolitoday.it/,21
 https://www.sistemapenale.it/,21
 https://www.tempostretto.it/,21
 https://www.tp24.it/,21
 https://buonasera24.it/,20
 https://it.cibercuba.com/,20
 https://www.gaeta.it/,20
-https://www.napolitoday.it/,20
 https://www.notizie.it/,20
 https://www.padovaoggi.it/,20
 https://www.secoloditalia.it/,20
@@ -103,6 +103,7 @@ https://corrieredelveneto.corriere.it/,17
 https://www.borsaitaliana.it/,17
 https://www.la7.it/,17
 https://www.malpensa24.it/,17
+https://www.ravennatoday.it/,17
 https://gazzettadelsud.it/,16
 https://napoli.repubblica.it/,16
 https://partitodemocratico.it/,16
@@ -110,7 +111,6 @@ https://www.antennasud.com/,16
 https://www.espansionetv.it/,16
 https://www.gazzettadimodena.it/,16
 https://www.larena.it/,16
-https://www.ravennatoday.it/,16
 https://www.reggiotoday.it/,16
 https://www.torinotoday.it/,16
 https://ilsicilia.it/,15
@@ -135,6 +135,7 @@ https://www.ildolomiti.it/,14
 https://www.lacnews24.it/,14
 https://www.lanuovasardegna.it/,14
 https://www.laprovinciacr.it/,14
+https://www.polesine24.it/,14
 https://www.radioradicale.it/,14
 https://m.cronachemaceratesi.it/,13
 https://palermo.repubblica.it/,13
@@ -144,14 +145,15 @@ https://www.agenzianova.com/,13
 https://www.arezzonotizie.it/,13
 https://www.casertanews.it/,13
 https://www.gazzettadimantova.it/,13
+https://www.ildubbio.news/,13
 https://www.interno.gov.it/,13
-https://www.polesine24.it/,13
 https://www.poliziadistato.it/,13
 https://www.raiplay.it/,13
 https://www.swissinfo.ch/,13
 https://www.telefriuli.it/,13
 http://www.comune.torino.it/,12
 https://lamilano.it/,12
+https://mantovauno.it/,12
 https://umbria.tag24.it/,12
 https://www.avveniredicalabria.it/,12
 https://www.baritoday.it/,12
@@ -159,7 +161,6 @@ https://www.brindisireport.it/,12
 https://www.castedduonline.it/,12
 https://www.direcontrolaviolenza.it/,12
 https://www.firenzetoday.it/,12
-https://www.ildubbio.news/,12
 https://www.ladige.it/,12
 https://www.lafionda.com/,12
 https://www.lametino.it/,12
@@ -174,7 +175,6 @@ https://www.varesenews.it/,12
 https://www.veneziatoday.it/,12
 https://askanews.it/,11
 https://corrierediarezzo.it/,11
-https://mantovauno.it/,11
 https://www.alfemminile.com/,11
 https://www.blogsicilia.it/,11
 https://www.chietitoday.it/,11
@@ -204,6 +204,8 @@ https://www.anconatoday.it/,10
 https://www.camera.it/,10
 https://www.dagospia.com/,10
 https://www.giornaleinfocastelliromani.it/,10
+https://www.giornalesm.com/,10
+https://www.ilgerme.it/,10
 https://www.laprovinciacv.it/,10
 https://www.laregione.ch/,10
 https://www.luccagiovane.it/,10
@@ -229,8 +231,6 @@ https://www.bresciaoggi.it/,9
 https://www.centropagina.it/,9
 https://www.cgil.it/,9
 https://www.ecodibergamo.it/,9
-https://www.giornalesm.com/,9
-https://www.ilgerme.it/,9
 https://www.ilgiornaledichieti.it/,9
 https://www.ilroma.net/,9
 https://www.latinatoday.it/,9
@@ -310,6 +310,7 @@ https://www.firstcisl.it/,7
 https://www.gazzettadalba.it/,7
 https://www.huffingtonpost.it/,7
 https://www.ilcapoluogo.it/,7
+https://www.ilfattonisseno.it/,7
 https://www.ilfattovesuviano.it/,7
 https://www.ilsecoloxix.it/,7
 https://www.immediato.net/,7
@@ -388,7 +389,6 @@ https://www.gazzettadisiena.it/,6
 https://www.gazzettamatin.com/,6
 https://www.gazzettinonline.it/,6
 https://www.gonews.it/,6
-https://www.ilfattonisseno.it/,6
 https://www.ilpiccolo.it/,6
 https://www.iltquotidiano.it/,6
 https://www.lagazzettadilucca.it/,6
@@ -418,6 +418,7 @@ https://www.sicilia24h.it/,6
 https://www.startmag.it/,6
 https://www.telemontekronio.it/,6
 https://www.trapanisi.it/,6
+https://www.tribunatreviso.it/,6
 https://www.unhcr.org/,6
 https://www.varese7press.it/,6
 https://www.vitatrentina.it/,6
@@ -457,6 +458,7 @@ https://umbria7.it/,5
 https://www.24emilia.com/,5
 https://www.agenpress.it/,5
 https://www.agro24.it/,5
+https://www.anaao.it/,5
 https://www.atlanteguerre.it/,5
 https://www.ats-brescia.it/,5
 https://www.auslromagna.it/,5
@@ -484,6 +486,7 @@ https://www.ilgiornaleditalia.it/,5
 https://www.ilmamilio.it/,5
 https://www.ilpopolano.com/,5
 https://www.ilsussidiario.net/,5
+https://www.informamolise.com/,5
 https://www.intoscana.it/,5
 https://www.isnews.it/,5
 https://www.lacapitale.it/,5
@@ -510,7 +513,6 @@ https://www.spazio50.org/,5
 https://www.spazioapertosalento.it/,5
 https://www.sudnotizie.com/,5
 https://www.torinoggi.it/,5
-https://www.tribunatreviso.it/,5
 https://www.trmtv.it/,5
 https://www.tusciatimes.eu/,5
 https://www.uniroma1.it/,5
@@ -534,8 +536,10 @@ https://documenti.camera.it/,4
 https://ecoaltomolise.net/,4
 https://esgnews.it/,4
 https://etnanews24.it/,4
+https://europaverde.it/,4
 https://firenze.repubblica.it/,4
 https://gazzettadireggio.gelocal.it/,4
+https://genova.repubblica.it/,4
 https://goldtv.it/,4
 https://iltaccodibacco.it/,4
 https://incronaca.unibo.it/,4
@@ -563,10 +567,11 @@ https://www.adn24.it/,4
 https://www.agipress.it/,4
 https://www.agrigentooggi.it/,4
 https://www.aise.it/,4
+https://www.alessandria24.com/,4
 https://www.amnotizie.it/,4
-https://www.anaao.it/,4
 https://www.ancoraonline.it/,4
 https://www.atnews.it/,4
+https://www.belvederenews.net/,4
 https://www.bookdealer.it/,4
 https://www.borderline24.com/,4
 https://www.bresciatoday.it/,4
@@ -585,6 +590,8 @@ https://www.deputatipd.it/,4
 https://www.digitradio.it/,4
 https://www.ecodelchisone.it/,4
 https://www.espressione24.it/,4
+https://www.gay.it/,4
+https://www.gazetaexpress.com/,4
 https://www.genova24.it/,4
 https://www.giornalecentrosicilia.it/,4
 https://www.giornaletrentino.it/,4
@@ -597,7 +604,6 @@ https://www.ildifforme.it/,4
 https://www.ilfaroonline.it/,4
 https://www.ilmediterraneo24.it/,4
 https://www.ilriformista.it/,4
-https://www.informamolise.com/,4
 https://www.informazionescuola.it/,4
 https://www.internazionale.it/,4
 https://www.ipsoa.it/,4
@@ -664,7 +670,9 @@ https://www.triesteallnews.it/,4
 https://www.tvimolise.it/,4
 https://www.ufficiostampa.provincia.tn.it/,4
 https://www.umbriaon.it/,4
+https://www.umbriatv.com/,4
 https://www.unictmagazine.unict.it/,4
+https://www.unime.it/,4
 https://www.unipi.it/,4
 https://www.unita.it/,4
 https://www.uslnordovest.toscana.it/,4
@@ -676,6 +684,7 @@ https://www.volonwrite.org/,4
 https://www.wltv.it/,4
 https://www.zazoom.it/,4
 https://www1.prefettura.it/,4
+http://www.lunanuova.it/,3
 http://www.news.admin.ch/,3
 https://24live.it/,3
 https://abitarearoma.it/,3
@@ -693,11 +702,9 @@ https://corrieretoscano.it/,3
 https://demografica.adnkronos.com/,3
 https://direuomo.it/,3
 https://e-tv.it/,3
-https://europaverde.it/,3
 https://finanza.repubblica.it/,3
 https://forum.alfemminile.com/,3
 https://gazzettadibologna.it/,3
-https://genova.repubblica.it/,3
 https://ilcaffe.tv/,3
 https://ilcentrotirreno.it/,3
 https://ilcorriere.net/,3
@@ -707,6 +714,7 @@ https://it.insideover.com/,3
 https://labusa.info/,3
 https://lastatalenews.unimi.it/,3
 https://libreriamo.it/,3
+https://liguriaday.it/,3
 https://m.cronacheancona.it/,3
 https://m.cronachepicene.it/,3
 https://massilosa.com/,3
@@ -749,7 +757,6 @@ https://www.abi.it/,3
 https://www.abogacia.es/,3
 https://www.aboutamazon.it/,3
 https://www.adista.it/,3
-https://www.alessandria24.com/,3
 https://www.almablog.it/,3
 https://www.alpauno.com/,3
 https://www.altovicentinonline.it/,3
@@ -758,7 +765,6 @@ https://www.ascuolaoggi.com/,3
 https://www.assocarenews.it/,3
 https://www.augustanews.it/,3
 https://www.avantionline.it/,3
-https://www.belvederenews.net/,3
 https://www.bitontoviva.it/,3
 https://www.blunote.it/,3
 https://www.brindisilibera.it/,3
@@ -803,8 +809,6 @@ https://www.foe.it/,3
 https://www.forlinotizie.net/,3
 https://www.garantedetenutilazio.it/,3
 https://www.gardanotizie.it/,3
-https://www.gay.it/,3
-https://www.gazetaexpress.com/,3
 https://www.gazzetta.it/,3
 https://www.gazzettadimilano.it/,3
 https://www.gazzettasarda.com/,3
@@ -912,8 +916,6 @@ https://www.trnews.it/,3
 https://www.tusciaup.com/,3
 https://www.tvprato.it/,3
 https://www.umbriacronaca.it/,3
-https://www.umbriatv.com/,3
-https://www.unime.it/,3
 https://www.unipa.it/,3
 https://www.unive.it/,3
 https://www.unsertirol24.com/,3
@@ -929,7 +931,6 @@ http://consiglio.regione.umbria.it/,2
 http://met.cittametropolitana.fi.it/,2
 http://ragusalibera.it/,2
 http://www.imprese-lavoro.com/,2
-http://www.lunanuova.it/,2
 http://www.mondopadano.it/,2
 http://www.processopenaleegiustizia.it/,2
 https://abruzzolive.it/,2
@@ -984,7 +985,6 @@ https://laragione.eu/,2
 https://lasentinella.gelocal.it/,2
 https://lasesia.vercelli.it/,2
 https://laziotv.it/,2
-https://liguriaday.it/,2
 https://livornopress.it/,2
 https://lokkio.it/,2
 https://lombardia.lamilano.it/,2
@@ -1075,6 +1075,7 @@ https://www.aosp.bo.it/,2
 https://www.approdocalabria.it/,2
 https://www.arcigay.it/,2
 https://www.arezzotv.it/,2
+https://www.art-news.it/,2
 https://www.artemisiacentroantiviolenza.it/,2
 https://www.asianews.it/,2
 https://www.asst-mantova.it/,2
@@ -1339,6 +1340,7 @@ https://www.trasimenonline.it/,2
 https://www.trentinotv.it/,2
 https://www.trgmedia.it/,2
 https://www.triestecafe.it/,2
+https://www.tunews24.it/,2
 https://www.tvrteleitalia.it/,2
 https://www.tvsvizzera.it/,2
 https://www.uilpolizia.com/,2
@@ -1355,6 +1357,7 @@ https://www.vareseinforma.it/,2
 https://www.veglienews.com/,2
 https://www.vicenzareport.it/,2
 https://www.videonotizietv.it/,2
+https://www.visitpistoia.eu/,2
 https://www.viterbonews24.it/,2
 https://www.viveredonnacarpi.com/,2
 https://www.viverejesi.it/,2
@@ -1434,6 +1437,7 @@ https://andi.it/,1
 https://anionews.altervista.org/,1
 https://antichitafiorio.com/,1
 https://apps.unimi.it/,1
+https://architettura.uniroma3.it/,1
 https://archivio.ereditadelledonne.eu/,1
 https://arenadigitale.it/,1
 https://arti.indire.it/,1
@@ -1796,6 +1800,7 @@ https://style.corriere.it/,1
 https://tangoygotan.faitango.it/,1
 https://teatrosocialecomo.it/,1
 https://teleambiente.tv/,1
+https://teleborsa.ansa.it/,1
 https://telenordest.medianordest.it/,1
 https://telequattro.medianordest.it/,1
 https://teleromagna.it/,1
@@ -1819,6 +1824,7 @@ https://trattorialefarniole.it/,1
 https://trcbologna.it/,1
 https://triestecafe.it/,1
 https://trt.global/,1
+https://tuttosesto.net/,1
 https://tv6onair.com/,1
 https://twitter.com/,1
 https://uke.it/,1
@@ -1895,7 +1901,6 @@ https://www.armandoeditore.it/,1
 https://www.arona24.it/,1
 https://www.arpal.liguria.it/,1
 https://www.arsenalecinema.com/,1
-https://www.art-news.it/,1
 https://www.artestv.it/,1
 https://www.artuu.it/,1
 https://www.asl2.liguria.it/,1
@@ -1977,6 +1982,7 @@ https://www.chiesadinapoli.it/,1
 https://www.chiesadiverona.it/,1
 https://www.chiesaluterana.it/,1
 https://www.chioggianews24.it/,1
+https://www.chioggiatv.it/,1
 https://www.chirmed.unict.it/,1
 https://www.ciavula.it/,1
 https://www.cineblog.it/,1
@@ -2208,6 +2214,7 @@ https://www.friulab.it/,1
 https://www.frosinonenews.eu/,1
 https://www.fsitaliane.it/,1
 https://www.fsnews.it/,1
+https://www.fsppolizia.it/,1
 https://www.fuoriluogo.it/,1
 https://www.fvgcafe.it/,1
 https://www.gaetanews24.it/,1
@@ -2510,6 +2517,7 @@ https://www.nordmilano24.it/,1
 https://www.notabilis.it/,1
 https://www.novaradio.info/,1
 https://www.nove.firenze.it/,1
+https://www.nuovocircondarioimolese.it/,1
 https://www.nurse24.it/,1
 https://www.oact.inaf.it/,1
 https://www.oasmolise.it/,1
@@ -2541,6 +2549,7 @@ https://www.ordineostetricipalermo.it/,1
 https://www.ordinepsicologier.it/,1
 https://www.ordinepsicologiveneto.it/,1
 https://www.ore12.net/,1
+https://www.ore12web.it/,1
 https://www.orlandomagazine.it/,1
 https://www.orticaweb.it/,1
 https://www.osimoedintorni.info/,1
@@ -2802,7 +2811,6 @@ https://www.trinacrianews.eu/,1
 https://www.trmweb.it/,1
 https://www.truemetal.it/,1
 https://www.ttv.it/,1
-https://www.tunews24.it/,1
 https://www.turismofvg.it/,1
 https://www.tuttobiciweb.it/,1
 https://www.tuttosanita.com/,1
@@ -2868,7 +2876,6 @@ https://www.vigevano24.it/,1
 https://www.vinonuovo.it/,1
 https://www.violawalkhome.com/,1
 https://www.visitbergamo.net/,1
-https://www.visitpistoia.eu/,1
 https://www.vivereancona.it/,1
 https://www.viverefoligno.it/,1
 https://www.viveremacerata.it/,1
