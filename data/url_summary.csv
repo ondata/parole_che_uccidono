@@ -1,17 +1,17 @@
 fonte,count
 https://www.youtube.com/,653
 https://www.virgilio.it/,365
-https://www.ilrestodelcarlino.it/,283
+https://www.ilrestodelcarlino.it/,284
 https://x.com/,268
 https://www.ansa.it/,223
 https://www.rainews.it/,207
 https://m.facebook.com/,184
 https://www.open.online/,168
-https://www.lanazione.it/,164
+https://www.lanazione.it/,165
 https://www.fanpage.it/,163
 https://tg24.sky.it/,155
-https://www.lastampa.it/,132
-https://www.ilgiorno.it/,131
+https://www.lastampa.it/,133
+https://www.ilgiorno.it/,132
 https://www.ilfattoquotidiano.it/,130
 https://www.instagram.com/,108
 https://agenparl.eu/,100
@@ -44,20 +44,20 @@ https://www.iodonna.it/,46
 https://www.milanotoday.it/,45
 https://questure.poliziadistato.it/,44
 https://www.editorialedomani.it/,42
-https://www.palermotoday.it/,39
+https://www.palermotoday.it/,40
 https://www.quotidiano.net/,38
 https://it.cibercuba.com/,37
 https://it.linkedin.com/,36
 https://mediasetinfinity.mediaset.it/,35
+https://www.agensir.it/,35
 https://notizie.tiscali.it/,34
 https://prefettura.interno.gov.it/,34
-https://www.agensir.it/,34
 https://www.lagazzettadelmezzogiorno.it/,32
 https://tg.la7.it/,31
+https://www.avvenire.it/,31
 https://www.tiktok.com/,31
 https://alleyoop.ilsole24ore.com/,30
 https://roma.repubblica.it/,30
-https://www.avvenire.it/,30
 https://www.bolognatoday.it/,30
 https://www.corriereadriatico.it/,30
 https://www.rsi.ch/,30
@@ -130,6 +130,7 @@ https://www.senato.it/,18
 https://www.statoquotidiano.it/,18
 http://www.comune.torino.it/,17
 https://napoli.repubblica.it/,17
+https://palermo.repubblica.it/,17
 https://partitodemocratico.it/,17
 https://www.actionaid.it/,17
 https://www.altalex.com/,17
@@ -144,7 +145,6 @@ https://www.larena.it/,17
 https://comunicazione.camera.it/,16
 https://luce.lanazione.it/,16
 https://messina.gazzettadelsud.it/,16
-https://palermo.repubblica.it/,16
 https://wesud.it/,16
 https://www.genovatoday.it/,16
 https://www.lanuovacalabria.it/,16
@@ -216,6 +216,7 @@ https://www.scuolalink.it/,12
 https://www.siracusaoggi.it/,12
 https://www.telemia.it/,12
 https://www.veratv.it/,12
+http://www.msn.com/,11
 https://ecodellojonio.it/,11
 https://qds.it/,11
 https://www.agenziacult.it/,11
@@ -248,7 +249,6 @@ https://www.tio.ch/,11
 https://www.unita.tv/,11
 https://www.veronasera.it/,11
 https://www.viterbotoday.it/,11
-http://www.msn.com/,10
 https://27esimaora.corriere.it/,10
 https://corrierefiorentino.corriere.it/,10
 https://napoli.corriere.it/,10
@@ -436,6 +436,7 @@ https://www.vocedellascuola.it/,7
 https://www.webmarte.tv/,7
 https://www.wikimilano.it/,7
 https://www.zarabaza.it/,7
+http://www.osservatoriosullalegalita.org/,6
 https://anagnia.com/,6
 https://aostasera.it/,6
 https://bitontolive.it/,6
@@ -527,7 +528,6 @@ https://www.vitatrentina.it/,6
 https://www.wired.it/,6
 https://www.zazoom.it/,6
 http://www.ingenere.it/,5
-http://www.osservatoriosullalegalita.org/,5
 http://www.siciliaunonews.com/,5
 https://abruzzosera.it/,5
 https://bari.corriere.it/,5
@@ -854,6 +854,7 @@ https://cagliarinews.it/,3
 https://calabria.gazzettadelsud.it/,3
 https://catania.liveuniversity.it/,3
 https://cesvmessina.org/,3
+https://corrieredimaremma.it/,3
 https://corrieretoscano.it/,3
 https://cronachedi.it/,3
 https://donneconloscudo.com/,3
@@ -1151,7 +1152,6 @@ https://comune.castelfranco-piandisco.ar.it/,2
 https://comunicazioneinform.it/,2
 https://cooperativaeva.com/,2
 https://corrieredeltrentino.corriere.it/,2
-https://corrieredimaremma.it/,2
 https://corrieredinovara.it/,2
 https://corriereuniv.it/,2
 https://corsi.tecnicadellascuola.it/,2
@@ -1285,6 +1285,7 @@ https://www.agoranotizia.it/,2
 https://www.agrtv.it/,2
 https://www.aics.gov.it/,2
 https://www.amicodelpopolo.it/,2
+https://www.andriaviva.it/,2
 https://www.anfp.it/,2
 https://www.aosp.bo.it/,2
 https://www.approdocalabria.it/,2
@@ -2191,7 +2192,6 @@ https://www.ancorastore.it/,1
 https://www.andenazionale.it/,1
 https://www.andos-ud.it/,1
 https://www.andreazanoni.it/,1
-https://www.andriaviva.it/,1
 https://www.anffas.net/,1
 https://www.antenna3.tv/,1
 https://www.antimafiaduemila.com/,1
@@ -2607,6 +2607,7 @@ https://www.himeraweb.it/,1
 https://www.historicaedizioni.com/,1
 https://www.historicum.net/,1
 https://www.hoepli.it/,1
+https://www.hrnews.it/,1
 https://www.html.it/,1
 https://www.ialweb.it/,1
 https://www.ibs.it/,1
@@ -2761,6 +2762,7 @@ https://www.lascimmiapensa.com/,1
 https://www.latestata.it/,1
 https://www.latinacorriere.it/,1
 https://www.latinaquotidiano.it/,1
+https://www.lavalleenotizie.it/,1
 https://www.lavocedellappennino.it/,1
 https://www.lavocedellazio.it/,1
 https://www.lavocedellevalli.it/,1
