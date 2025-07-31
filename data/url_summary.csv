@@ -1,13 +1,13 @@
 fonte,count
 https://www.youtube.com/,658
-https://www.virgilio.it/,365
-https://www.ilrestodelcarlino.it/,285
-https://x.com/,271
+https://www.virgilio.it/,366
+https://www.ilrestodelcarlino.it/,286
+https://x.com/,272
 https://www.ansa.it/,225
 https://www.rainews.it/,207
 https://m.facebook.com/,184
 https://www.open.online/,172
-https://www.lanazione.it/,168
+https://www.lanazione.it/,170
 https://www.fanpage.it/,163
 https://tg24.sky.it/,155
 https://www.lastampa.it/,136
@@ -35,7 +35,7 @@ https://www.agi.it/,54
 https://www.ilmattino.it/,54
 https://ilmanifesto.it/,51
 https://www.ilgiornale.it/,50
-https://www.iltirreno.it/,48
+https://www.iltirreno.it/,49
 https://www.orizzontescuola.it/,48
 https://stream24.ilsole24ore.com/,47
 https://www.iodonna.it/,47
@@ -60,11 +60,11 @@ https://alleyoop.ilsole24ore.com/,30
 https://roma.repubblica.it/,30
 https://www.bolognatoday.it/,30
 https://www.corriereadriatico.it/,30
+https://www.giustiziainsieme.it/,30
 https://www.rsi.ch/,30
 https://www.sistemapenale.it/,30
 https://milano.repubblica.it/,29
 https://www.giornaledibrescia.it/,29
-https://www.giustiziainsieme.it/,29
 https://alessandria.today/,28
 https://ilgiornalepopolare.it/,28
 https://www.ilpost.it/,28
@@ -176,6 +176,7 @@ https://www.castellinotizie.it/,14
 https://www.cdt.ch/,14
 https://www.gazzettadimantova.it/,14
 https://www.gazzettadiparma.it/,14
+https://www.libero.it/,14
 https://www.udinetoday.it/,14
 https://askanews.it/,13
 https://lamilano.it/,13
@@ -191,7 +192,6 @@ https://www.firenzetoday.it/,13
 https://www.ilgiornaledivicenza.it/,13
 https://www.laprovinciacv.it/,13
 https://www.latinatoday.it/,13
-https://www.libero.it/,13
 https://www.luccagiovane.it/,13
 https://www.messaggeroveneto.it/,13
 https://www.pariopportunita.gov.it/,13
@@ -218,6 +218,7 @@ https://www.telemia.it/,12
 https://www.veratv.it/,12
 http://www.msn.com/,11
 https://ecodellojonio.it/,11
+https://liberta.it/,11
 https://qds.it/,11
 https://www.agenziacult.it/,11
 https://www.alfemminile.com/,11
@@ -284,6 +285,7 @@ https://www.ternitoday.it/,10
 https://www.umbriajournal.com/,10
 https://www.vrsicilia.it/,10
 https://auser.it/,9
+https://bariseranews.it/,9
 https://etrurianews.it/,9
 https://informareunh.it/,9
 https://internapoli.it/,9
@@ -375,9 +377,9 @@ https://www.tribunatreviso.it/,8
 https://www.tusciaweb.eu/,8
 https://www.venetonews.it/,8
 https://www.vita.it/,8
+http://www.osservatoriosullalegalita.org/,7
 http://www.umbriadomani.it/,7
 https://98zero.com/,7
-https://bariseranews.it/,7
 https://bergamo.corriere.it/,7
 https://cn24tv.it/,7
 https://corriereirpinia.it/,7
@@ -391,13 +393,13 @@ https://itacanotizie.it/,7
 https://laprovinciapavese.gelocal.it/,7
 https://latinatu.it/,7
 https://ledicola.it/,7
-https://liberta.it/,7
 https://live.comune.venezia.it/,7
 https://napolitan.it/,7
 https://news.robadadonne.it/,7
 https://piazzamartirinews.com/,7
 https://primamonza.it/,7
 https://servicematica.com/,7
+https://tarantosera.it/,7
 https://unr.edu.ar/,7
 https://www.aibi.it/,7
 https://www.articolo21.org/,7
@@ -438,7 +440,6 @@ https://www.vocedellascuola.it/,7
 https://www.webmarte.tv/,7
 https://www.wikimilano.it/,7
 https://www.zarabaza.it/,7
-http://www.osservatoriosullalegalita.org/,6
 https://anagnia.com/,6
 https://aostasera.it/,6
 https://bitontolive.it/,6
@@ -464,7 +465,6 @@ https://ntplusentilocaliedilizia.ilsole24ore.com/,6
 https://pordenoneoggi.it/,6
 https://primamerate.it/,6
 https://sestopotere.com/,6
-https://tarantosera.it/,6
 https://tgverona.telenuovo.it/,6
 https://uiltucs.it/,6
 https://volontariatolazio.it/,6
@@ -2008,6 +2008,7 @@ https://ordinemedicilatina.it/,1
 https://ordinepsicologi.piemonte.it/,1
 https://osservatorionomilscuola.com/,1
 https://pagamentipa.comune.corropoli.te.it/,1
+https://pagamentipa.comune.triggiano.ba.it/,1
 https://pariopportunita.provincia.bz.it/,1
 https://parita.regione.emilia-romagna.it/,1
 https://parstoday.ir/,1
@@ -2975,6 +2976,7 @@ https://www.pisainvideo.it/,1
 https://www.pisticci.com/,1
 https://www.piuvallitv.it/,1
 https://www.plus-magazine.it/,1
+https://www.podengine.ai/,1
 https://www.politicainsieme.com/,1
 https://www.polito.it/,1
 https://www.portadimare.it/,1
