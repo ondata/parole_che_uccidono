@@ -1,17 +1,17 @@
 fonte,count
-https://www.youtube.com/,680
+https://www.youtube.com/,681
 https://www.virgilio.it/,391
 https://x.com/,295
-https://www.ilrestodelcarlino.it/,293
+https://www.ilrestodelcarlino.it/,294
 https://www.ansa.it/,231
-https://www.rainews.it/,217
+https://www.rainews.it/,218
 https://m.facebook.com/,188
 https://www.lanazione.it/,176
 https://www.open.online/,173
 https://www.fanpage.it/,171
 https://tg24.sky.it/,163
-https://www.lastampa.it/,139
-https://www.ilgiorno.it/,137
+https://www.lastampa.it/,140
+https://www.ilgiorno.it/,138
 https://www.ilfattoquotidiano.it/,134
 https://www.instagram.com/,114
 https://agenparl.eu/,105
@@ -31,7 +31,7 @@ https://www.adnkronos.com/,58
 https://www.corriere.it/,58
 https://www.ilmattino.it/,58
 https://www.vanityfair.it/,58
-https://www.dailymotion.com/,55
+https://www.dailymotion.com/,56
 https://www.agi.it/,54
 https://www.ilgiornale.it/,54
 https://www.orizzontescuola.it/,54
@@ -469,6 +469,7 @@ https://www.webmarte.tv/,7
 https://www.wikimilano.it/,7
 https://www.wired.it/,7
 https://www.zarabaza.it/,7
+https://abruzzosera.it/,6
 https://anagnia.com/,6
 https://aostasera.it/,6
 https://bitontolive.it/,6
@@ -560,7 +561,6 @@ https://www.vitatrentina.it/,6
 https://www.zazoom.it/,6
 http://www.ingenere.it/,5
 http://www.siciliaunonews.com/,5
-https://abruzzosera.it/,5
 https://bari.corriere.it/,5
 https://barlettalive.it/,5
 https://capocronaca.it/,5
@@ -699,6 +699,7 @@ https://ecoaltomolise.net/,4
 https://etnanews24.it/,4
 https://europaverde.it/,4
 https://firenze.repubblica.it/,4
+https://folhadolitoral.com.br/,4
 https://gazzettadireggio.gelocal.it/,4
 https://goldtv.it/,4
 https://il-catenaccio.it/,4
@@ -901,7 +902,6 @@ https://donneconloscudo.com/,3
 https://earone.com/,3
 https://edicola.shop/,3
 https://en.ilsole24ore.com/,3
-https://folhadolitoral.com.br/,3
 https://forum.alfemminile.com/,3
 https://giffoni.it/,3
 https://group.intesasanpaolo.com/,3
@@ -1033,6 +1033,7 @@ https://www.fratelliditaliasenato.it/,3
 https://www.garantedetenutilazio.it/,3
 https://www.gardaline.it/,3
 https://www.gardanotizie.it/,3
+https://www.gente.it/,3
 https://www.giornaledelcilento.it/,3
 https://www.giornalediplomatico.it/,3
 https://www.giornaledipuglia.com/,3
@@ -1131,10 +1132,12 @@ https://www.romait.it/,3
 https://www.romalife24.it/,3
 https://www.salernoinweb.it/,3
 https://www.sardegnaierioggidomani.com/,3
+https://www.sassaritoday.it/,3
 https://www.scuolainforma.news/,3
 https://www.sempionenews.it/,3
 https://www.settimananews.it/,3
 https://www.simlaweb.it/,3
+https://www.soroptimist.it/,3
 https://www.sospsiche.it/,3
 https://www.stampalibera.it/,3
 https://www.stampaparlamento.it/,3
@@ -1207,6 +1210,7 @@ https://cooperativaeva.com/,2
 https://corrieredinovara.it/,2
 https://corriereuniv.it/,2
 https://corsi.tecnicadellascuola.it/,2
+https://corsidilaurea.uniroma1.it/,2
 https://crema-news.it/,2
 https://crotoneok.it/,2
 https://cub.it/,2
@@ -1458,7 +1462,6 @@ https://www.gazzettadireggio.com/,2
 https://www.gazzettasociale.it/,2
 https://www.gazzettaufficiale.it/,2
 https://www.gdoweek.it/,2
-https://www.gente.it/,2
 https://www.giornalemetropolitano.com/,2
 https://www.giornaleradiosociale.it/,2
 https://www.goldwebtv.it/,2
@@ -1631,7 +1634,6 @@ https://www.romatomorrow.it/,2
 https://www.rtcquartarete.it/,2
 https://www.sanitainformazione.it/,2
 https://www.santannatoday.it/,2
-https://www.sassaritoday.it/,2
 https://www.sassilive.it/,2
 https://www.sbs.com.au/,2
 https://www.scienzainrete.it/,2
@@ -1644,7 +1646,6 @@ https://www.slc-cgil.it/,2
 https://www.slobodenpecat.mk/,2
 https://www.smetteredilavorare.it/,2
 https://www.sololibri.net/,2
-https://www.soroptimist.it/,2
 https://www.sostenibile.unipd.it/,2
 https://www.sportmediaset.mediaset.it/,2
 https://www.sslazio.it/,2
@@ -1858,7 +1859,6 @@ https://corrieredellaltoadige.corriere.it/,1
 https://corriereflegreo.it/,1
 https://corrierelucchese.it/,1
 https://corsi.unibo.it/,1
-https://corsidilaurea.uniroma1.it/,1
 https://cosenza.gazzettadelsud.it/,1
 https://cpo.unige.it/,1
 https://cri.it/,1
@@ -2923,6 +2923,7 @@ https://www.maridacaterini.it/,1
 https://www.mariomieli.org/,1
 https://www.marsica-web.it/,1
 https://www.materalife.it/,1
+https://www.matesenews.it/,1
 https://www.maxplanck.edu.it/,1
 https://www.me.camcom.it/,1
 https://www.medeacontroviolenza.it/,1
@@ -2963,6 +2964,7 @@ https://www.mymovies.it/,1
 https://www.napolinetwork.com/,1
 https://www.napolipost.com/,1
 https://www.narrativeoflives.com/,1
+https://www.navuss.it/,1
 https://www.nazioneindiana.com/,1
 https://www.ncanews.it/,1
 https://www.nessunotocchicaino.it/,1
