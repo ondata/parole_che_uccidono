@@ -1,5 +1,5 @@
 fonte,count
-https://www.youtube.com/,708
+https://www.youtube.com/,709
 https://www.virgilio.it/,424
 https://www.ilrestodelcarlino.it/,308
 https://x.com/,308
@@ -18,12 +18,12 @@ https://agenparl.eu/,115
 https://www.repubblica.it/,98
 https://www.leggo.it/,95
 https://www.facebook.com/,89
+https://www.today.it/,85
 https://www.msn.com/,84
-https://www.today.it/,84
 https://www.tgcom24.mediaset.it/,78
 https://www.ilmessaggero.it/,75
+https://www.ilsole24ore.com/,75
 https://www.9colonne.it/,74
-https://www.ilsole24ore.com/,74
 https://www.unionesarda.it/,74
 https://www.ilgazzettino.it/,73
 https://www.romatoday.it/,70
@@ -110,11 +110,11 @@ https://liberta.it/,22
 https://www.agenzianova.com/,22
 https://www.agrigentonotizie.it/,22
 https://www.alanews.it/,22
+https://www.brindisireport.it/,22
 https://www.ildolomiti.it/,22
 https://www.malpensa24.it/,22
 https://www.reggiotoday.it/,22
 https://www.antennasud.com/,21
-https://www.brindisireport.it/,21
 https://www.forlitoday.it/,21
 https://www.la7.it/,21
 https://www.pressenza.com/,21
@@ -421,6 +421,7 @@ https://www.metropolisweb.it/,8
 https://www.nicolaporro.it/,8
 https://www.quotidianocontribuenti.com/,8
 https://www.radioalfa.fm/,8
+https://www.radiobullets.com/,8
 https://www.ravennanotizie.it/,8
 https://www.regione.sicilia.it/,8
 https://www.rtl.it/,8
@@ -486,7 +487,6 @@ https://www.ondatv.tv/,7
 https://www.quibrescia.it/,7
 https://www.quotidianomolise.com/,7
 https://www.quotidianopiemontese.it/,7
-https://www.radiobullets.com/,7
 https://www.ravennaedintorni.it/,7
 https://www.reggiotv.it/,7
 https://www.reteabruzzo.com/,7
@@ -700,6 +700,7 @@ https://www.noidonne.org/,5
 https://www.notix.it/,5
 https://www.notiziedabruzzo.it/,5
 https://www.nssgclub.com/,5
+https://www.nuvola.tv/,5
 https://www.odysseo.it/,5
 https://www.opl.it/,5
 https://www.oxfamitalia.org/,5
@@ -855,7 +856,6 @@ https://www.nigrizia.it/,4
 https://www.nordest24.it/,4
 https://www.novetv.com/,4
 https://www.ntr24.tv/,4
-https://www.nuvola.tv/,4
 https://www.oggitreviso.it/,4
 https://www.ondanews.it/,4
 https://www.osservatoriofamiglia.it/,4
@@ -877,6 +877,7 @@ https://www.quotidianodellumbria.it/,4
 https://www.quotidianopiu.it/,4
 https://www.ravenna24ore.it/,4
 https://www.reggiosera.it/,4
+https://www.regione.fvg.it/,4
 https://www.rete55.it/,4
 https://www.rete8.it/,4
 https://www.rietilife.com/,4
@@ -1178,7 +1179,7 @@ https://www.recnews.it/,3
 https://www.redazionenews.it/,3
 https://www.reggio2000.it/,3
 https://www.reggioreport.it/,3
-https://www.regione.fvg.it/,3
+https://www.regione.campania.it/,3
 https://www.regione.veneto.it/,3
 https://www.riviera24.it/,3
 https://www.rivieraoggi.it/,3
@@ -1698,7 +1699,6 @@ https://www.ratio.it/,2
 https://www.rcovid19.it/,2
 https://www.realtasannita.it/,2
 https://www.reggio10forever.it/,2
-https://www.regione.campania.it/,2
 https://www.regione.liguria.it/,2
 https://www.reportdifesa.it/,2
 https://www.reportpistoia.com/,2
@@ -2308,6 +2308,7 @@ https://triestecafe.it/,1
 https://trt.global/,1
 https://tuttosesto.net/,1
 https://tuttowelfare.info/,1
+https://tv.orange.fr/,1
 https://tvl.it/,1
 https://twitter.com/,1
 https://ufficiostampa.comune.verona.it/,1
