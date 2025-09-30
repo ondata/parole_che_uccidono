@@ -1,18 +1,18 @@
 fonte,count
-https://www.youtube.com/,929
-https://www.virgilio.it/,584
+https://www.youtube.com/,930
+https://www.virgilio.it/,585
 https://x.com/,460
 https://www.ilrestodelcarlino.it/,382
 https://www.ansa.it/,351
-https://www.rainews.it/,326
-https://www.open.online/,276
+https://www.rainews.it/,327
+https://www.open.online/,277
 https://tg24.sky.it/,260
-https://www.lanazione.it/,256
-https://www.fanpage.it/,252
+https://www.lanazione.it/,257
+https://www.fanpage.it/,253
 https://www.ilfattoquotidiano.it/,218
 https://m.facebook.com/,204
 https://www.lastampa.it/,198
-https://www.facebook.com/,174
+https://www.facebook.com/,175
 https://www.instagram.com/,173
 https://www.ilgiorno.it/,172
 https://agenparl.eu/,168
@@ -22,7 +22,7 @@ https://www.today.it/,130
 https://www.msn.com/,110
 https://www.tgcom24.mediaset.it/,109
 https://www.unionesarda.it/,106
-https://www.ilmessaggero.it/,100
+https://www.ilmessaggero.it/,101
 https://www.corriere.it/,96
 https://www.ilgazzettino.it/,96
 https://www.ilsole24ore.com/,93
@@ -114,13 +114,13 @@ https://www.ilgerme.it/,29
 https://www.lanuovacalabria.it/,29
 https://www.malpensa24.it/,29
 https://www.tp24.it/,29
+https://www.antennasud.com/,28
 https://www.espansionetv.it/,28
 https://www.gazzettadimodena.it/,28
 https://www.ildolomiti.it/,28
 https://www.laregione.ch/,28
 https://www.pressenza.com/,28
 https://luce.lanazione.it/,27
-https://www.antennasud.com/,27
 https://www.civonline.it/,27
 https://www.gaeta.it/,27
 https://www.larena.it/,27
@@ -263,6 +263,7 @@ https://www.ilreggino.it/,15
 https://www.ilroma.net/,15
 https://www.iltquotidiano.it/,15
 https://www.ladigetto.it/,15
+https://www.latinaoggi.eu/,15
 https://www.liberoquotidiano.it/,15
 https://www.modenatoday.it/,15
 https://www.pariopportunita.gov.it/,15
@@ -287,7 +288,6 @@ https://www.ilcittadino.it/,14
 https://www.ilcrotonese.it/,14
 https://www.imgpress.it/,14
 https://www.isnews.it/,14
-https://www.latinaoggi.eu/,14
 https://www.libertasicilia.it/,14
 https://www.lindipendente.online/,14
 https://www.mobmagazine.it/,14
@@ -331,6 +331,7 @@ https://www.telemia.it/,13
 https://www.ternitoday.it/,13
 https://www.vitatrentina.it/,13
 https://bari.repubblica.it/,12
+https://bergamo.corriere.it/,12
 https://feministpost.it/,12
 https://ildispaccio.it/,12
 https://laprovinciapavese.gelocal.it/,12
@@ -351,7 +352,6 @@ https://www.quotidianopiemontese.it/,12
 https://www.reggionline.com/,12
 https://www.sondriotoday.it/,12
 https://www.trentotoday.it/,12
-https://bergamo.corriere.it/,11
 https://corriereirpinia.it/,11
 https://d.repubblica.it/,11
 https://informareunh.it/,11
@@ -702,6 +702,7 @@ https://www.abruzzolive.tv/,6
 https://www.adn24.it/,6
 https://www.agenpress.it/,6
 https://www.agipress.it/,6
+https://www.ancoraonline.it/,6
 https://www.artribune.com/,6
 https://www.bluewin.ch/,6
 https://www.cascinanotizie.it/,6
@@ -893,6 +894,7 @@ https://www.meltingpot.org/,5
 https://www.mitomorrow.it/,5
 https://www.molisetabloid.it/,5
 https://www.mondopalermo.it/,5
+https://www.noinotizie.it/,5
 https://www.nordest24.it/,5
 https://www.nssgclub.com/,5
 https://www.ntr24.tv/,5
@@ -982,6 +984,7 @@ https://news.admin.ch/,4
 https://news.avvocatoandreani.it/,4
 https://newsroom24.it/,4
 https://nonsolocontro.it/,4
+https://open.spotify.com/,4
 https://preview.liberta.it/,4
 https://primabergamo.it/,4
 https://primatreviglio.it/,4
@@ -1004,7 +1007,6 @@ https://vastoweb.com/,4
 https://www.abogacia.es/,4
 https://www.aboutamazon.it/,4
 https://www.amnesty.it/,4
-https://www.ancoraonline.it/,4
 https://www.barlettanews24.it/,4
 https://www.basilicatadigitalchannel.com/,4
 https://www.blitzquotidiano.it/,4
@@ -1094,7 +1096,6 @@ https://www.mosaico-cem.it/,4
 https://www.napolisera.it/,4
 https://www.newsinquota.it/,4
 https://www.nigrizia.it/,4
-https://www.noinotizie.it/,4
 https://www.nonsolocalcio.news/,4
 https://www.notiziegeopolitiche.net/,4
 https://www.nove.firenze.it/,4
@@ -1225,7 +1226,6 @@ https://manewspiceno.it/,3
 https://met.cittametropolitana.fi.it/,3
 https://moked.it/,3
 https://nextstopreggio.it/,3
-https://open.spotify.com/,3
 https://oraquadra.info/,3
 https://orvietosi.it/,3
 https://pdregionelombardia.it/,3
@@ -1739,6 +1739,7 @@ https://www.altranotizia.com/,2
 https://www.altrogiornalemarche.it/,2
 https://www.amazon.it/,2
 https://www.amica.it/,2
+https://www.amnesty.ch/,2
 https://www.ancorastore.it/,2
 https://www.andriaviva.it/,2
 https://www.aosp.bo.it/,2
@@ -1850,6 +1851,7 @@ https://www.edotto.com/,2
 https://www.eius.it/,2
 https://www.empoli.news/,2
 https://www.enordest.it/,2
+https://www.erickson.it/,2
 https://www.esg360.it/,2
 https://www.essenotizie.it/,2
 https://www.ethicasocietas.it/,2
@@ -2846,7 +2848,6 @@ https://www.amarantochannel.it/,1
 https://www.amazon.de/,1
 https://www.ambienteambienti.com/,1
 https://www.amicidicapracotta.com/,1
-https://www.amnesty.ch/,1
 https://www.amolivenews.it/,1
 https://www.ancescao.it/,1
 https://www.anciabruzzo.it/,1
@@ -3210,7 +3211,6 @@ https://www.epicentro.iss.it/,1
 https://www.epochtimes.it/,1
 https://www.equall.it/,1
 https://www.erbanotizie.com/,1
-https://www.erickson.it/,1
 https://www.eroicafenice.com/,1
 https://www.ersaf.it/,1
 https://www.esquire.com/,1
