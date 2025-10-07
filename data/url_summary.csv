@@ -1,9 +1,9 @@
 fonte,count
 https://www.youtube.com/,975
 https://www.virgilio.it/,617
-https://x.com/,484
-https://www.ilrestodelcarlino.it/,390
-https://www.ansa.it/,371
+https://x.com/,486
+https://www.ilrestodelcarlino.it/,391
+https://www.ansa.it/,372
 https://www.rainews.it/,347
 https://www.open.online/,286
 https://tg24.sky.it/,270
@@ -12,11 +12,11 @@ https://www.lanazione.it/,263
 https://www.ilfattoquotidiano.it/,223
 https://www.lastampa.it/,210
 https://m.facebook.com/,205
-https://www.facebook.com/,190
-https://www.instagram.com/,181
-https://www.ilgiorno.it/,177
+https://www.facebook.com/,191
+https://www.instagram.com/,182
+https://www.ilgiorno.it/,178
 https://agenparl.eu/,173
-https://www.leggo.it/,149
+https://www.leggo.it/,151
 https://www.repubblica.it/,145
 https://www.today.it/,131
 https://www.msn.com/,113
@@ -102,11 +102,11 @@ https://www.secoloditalia.it/,33
 https://www.statoquotidiano.it/,33
 https://citynotizie.it/,32
 https://giornalesm.com/,32
+https://www.reddit.com/,32
 https://liberta.it/,31
 https://www.brindisireport.it/,31
 https://www.castedduonline.it/,31
 https://www.malpensa24.it/,31
-https://www.reddit.com/,31
 https://livesicilia.it/,30
 https://luce.lanazione.it/,30
 https://www.cdt.ch/,30
@@ -285,6 +285,7 @@ https://corrierefiorentino.corriere.it/,14
 https://genova.repubblica.it/,14
 https://libreriamo.it/,14
 https://ntplusdiritto.ilsole24ore.com/,14
+https://tgverona.telenuovo.it/,14
 https://www.alfemminile.com/,14
 https://www.altoadige.it/,14
 https://www.bergamonews.it/,14
@@ -314,7 +315,6 @@ https://mowmag.com/,13
 https://napoli.corriere.it/,13
 https://onuitalia.com/,13
 https://superando.it/,13
-https://tgverona.telenuovo.it/,13
 https://video.sky.it/,13
 https://www.31mag.nl/,13
 https://www.agenziacult.it/,13
@@ -887,9 +887,11 @@ https://www.cremaonline.it/,5
 https://www.cronachedellacampania.it/,5
 https://www.crotonenews.com/,5
 https://www.crotoneok.it/,5
+https://www.culturabologna.it/,5
 https://www.dalsociale24.it/,5
 https://www.diritto.it/,5
 https://www.dirittodicronaca.it/,5
+https://www.donnealtri.it/,5
 https://www.ehabitat.it/,5
 https://www.espressione24.it/,5
 https://www.eurosport.it/,5
@@ -1072,7 +1074,6 @@ https://www.deputatipd.it/,4
 https://www.dererker.it/,4
 https://www.digitradio.it/,4
 https://www.direttasicilia.it/,4
-https://www.donnealtri.it/,4
 https://www.donneierioggiedomani.it/,4
 https://www.doppiozero.com/,4
 https://www.ecaserta.com/,4
@@ -1231,6 +1232,7 @@ https://calabria.gazzettadelsud.it/,3
 https://caseper.it/,3
 https://cesvmessina.org/,3
 https://change.org/,3
+https://chiaraeditrice.com/,3
 https://comozero.it/,3
 https://comune-info.net/,3
 https://corrieredeltrentino.corriere.it/,3
@@ -1379,7 +1381,6 @@ https://www.cromosomimedia.com/,3
 https://www.cronacaoggiquotidiano.it/,3
 https://www.cronachedelsannio.it/,3
 https://www.csvtaranto.it/,3
-https://www.culturabologna.it/,3
 https://www.diario1984.it/,3
 https://www.direnewsoggi.it/,3
 https://www.dirittiinmovimento.it/,3
@@ -1489,6 +1490,7 @@ https://www.piuvallitv.it/,3
 https://www.policlinico.mi.it/,3
 https://www.positanonotizie.it/,3
 https://www.primacampania.it/,3
+https://www.processopenaleegiustizia.it/,3
 https://www.provincia.perugia.it/,3
 https://www.pugliain.net/,3
 https://www.puntoagronews.it/,3
@@ -1598,7 +1600,6 @@ https://casertace.net/,2
 https://casertaweb.com/,2
 https://cesvi.org/,2
 https://cgiltoscana.it/,2
-https://chiaraeditrice.com/,2
 https://chiaroquotidiano.it/,2
 https://cilentopost.tv/,2
 https://cinema.everyeye.it/,2
@@ -1927,6 +1928,7 @@ https://www.fondazionelibellula.com/,2
 https://www.forensicnews.it/,2
 https://www.fortuneita.com/,2
 https://www.forumdiplomatico.com/,2
+https://www.forumitalia.info/,2
 https://www.fpi.it/,2
 https://www.francescomiraglia.it/,2
 https://www.fremondoweb.com/,2
@@ -2095,7 +2097,6 @@ https://www.piuculture.it/,2
 https://www.portalecce.it/,2
 https://www.primanotizie.it/,2
 https://www.primaonline.it/,2
-https://www.processopenaleegiustizia.it/,2
 https://www.professionedocente.com/,2
 https://www.progettoitalianews.net/,2
 https://www.prospettive.eu/,2
@@ -2656,6 +2657,7 @@ https://napoli.lamilano.it/,1
 https://napoli.zon.it/,1
 https://nbassistante.fr/,1
 https://necrologie.lasentinella.gelocal.it/,1
+https://news-italia.com/,1
 https://news.bitcoin.com/,1
 https://news.provincia.bz.it/,1
 https://news.uniroma1.it/,1
@@ -3319,7 +3321,6 @@ https://www.fondazioneveronesi.it/,1
 https://www.foodaffairs.it/,1
 https://www.formazionepromethes.it/,1
 https://www.foroeuropa.it/,1
-https://www.forumitalia.info/,1
 https://www.forumpa.it/,1
 https://www.forumterzosettore.it/,1
 https://www.fpcgilemiliaromagna.it/,1
@@ -4095,6 +4096,7 @@ https://www.valseriana.eu/,1
 https://www.valsesianotizie.it/,1
 https://www.valsusaoggi.it/,1
 https://www.valtellinanews.it/,1
+https://www.varcoproject.it/,1
 https://www.vareseturismo.it/,1
 https://www.vatican.va/,1
 https://www.vcoazzurratv.it/,1
