@@ -1,5 +1,5 @@
 fonte,count
-https://www.youtube.com/,1005
+https://www.youtube.com/,1006
 https://www.virgilio.it/,639
 https://x.com/,508
 https://www.ilrestodelcarlino.it/,402
@@ -10,7 +10,7 @@ https://tg24.sky.it/,276
 https://www.fanpage.it/,272
 https://www.lanazione.it/,268
 https://www.ilfattoquotidiano.it/,232
-https://www.lastampa.it/,221
+https://www.lastampa.it/,222
 https://www.facebook.com/,209
 https://m.facebook.com/,205
 https://www.instagram.com/,189
@@ -22,7 +22,7 @@ https://www.today.it/,136
 https://www.msn.com/,114
 https://www.tgcom24.mediaset.it/,114
 https://www.unionesarda.it/,114
-https://www.ilmessaggero.it/,112
+https://www.ilmessaggero.it/,113
 https://www.corriere.it/,102
 https://www.ilsole24ore.com/,102
 https://www.ilgazzettino.it/,99
@@ -38,11 +38,11 @@ https://www.orizzontescuola.it/,78
 https://www.vanityfair.it/,75
 https://www.agi.it/,74
 https://www.greenme.it/,74
+https://www.quotidiano.net/,73
 https://mediasetinfinity.mediaset.it/,72
-https://www.quotidiano.net/,72
+https://www.editorialedomani.it/,70
 https://www.iodonna.it/,70
 https://notizie.tiscali.it/,69
-https://www.editorialedomani.it/,69
 https://stream24.ilsole24ore.com/,66
 https://www.avvenire.it/,65
 https://www.tecnicadellascuola.it/,64
@@ -54,7 +54,7 @@ https://www.milanotoday.it/,61
 https://ilgiornalepopolare.it/,60
 https://it.cibercuba.com/,58
 https://torinocronaca.it/,57
-https://www.giustiziainsieme.it/,56
+https://www.giustiziainsieme.it/,57
 https://www.rsi.ch/,56
 https://it.linkedin.com/,54
 https://tg.la7.it/,53
@@ -99,12 +99,12 @@ https://www.alanews.it/,34
 https://www.brindisireport.it/,34
 https://www.ilpiacenza.it/,34
 https://citynotizie.it/,33
+https://luce.lanazione.it/,33
 https://www.radioradicale.it/,33
+https://www.reddit.com/,33
 https://www.secoloditalia.it/,33
 https://www.statoquotidiano.it/,33
 https://giornalesm.com/,32
-https://luce.lanazione.it/,32
-https://www.reddit.com/,32
 https://liberta.it/,31
 https://livesicilia.it/,31
 https://www.castedduonline.it/,31
@@ -230,6 +230,7 @@ https://www.ilgiornaledivicenza.it/,19
 https://www.lafionda.com/,19
 https://www.lametino.it/,19
 https://www.laprovinciacv.it/,19
+https://www.rovigo.news/,19
 https://www.sassarioggi.it/,19
 https://www.sondriotoday.it/,19
 https://www.valigiablu.it/,19
@@ -243,7 +244,6 @@ https://www.ilcentro.it/,18
 https://www.modenatoday.it/,18
 https://www.newtuscia.it/,18
 https://www.quintopotere.it/,18
-https://www.rovigo.news/,18
 https://www.siracusaoggi.it/,18
 https://www.veneziatoday.it/,18
 https://esgdata.it/,17
@@ -1114,6 +1114,7 @@ https://www.globalproject.info/,4
 https://www.goldoniteatro.it/,4
 https://www.goldwebtv.it/,4
 https://www.guardiavecchia.net/,4
+https://www.ilcittadinomb.it/,4
 https://www.ilcittadinoonline.it/,4
 https://www.ildispariquotidiano.it/,4
 https://www.ildomanibleo.com/,4
@@ -1455,7 +1456,6 @@ https://www.ideawebtv.it/,3
 https://www.ilbacodaseta.org/,3
 https://www.ilcarmagnolese.it/,3
 https://www.ilcittadinodirecanati.it/,3
-https://www.ilcittadinomb.it/,3
 https://www.ilcorriereapuano.it/,3
 https://www.ildiariodellavoro.it/,3
 https://www.ilfilo.net/,3
@@ -1938,6 +1938,7 @@ https://www.emme24.it/,2
 https://www.empoli.news/,2
 https://www.erickson.it/,2
 https://www.esg360.it/,2
+https://www.esquire.com/,2
 https://www.essenotizie.it/,2
 https://www.ethicasocietas.it/,2
 https://www.eticanews.it/,2
@@ -2273,6 +2274,7 @@ http://notizie.tiscali.it/,1
 http://portale.units.it/,1
 http://telenord.it/,1
 http://unipd-centrodirittiumani.it/,1
+http://www.agenfood.it/,1
 http://www.aiafrivista.it/,1
 http://www.amiatanews.it/,1
 http://www.arezzotv.net/,1
@@ -3343,7 +3345,6 @@ https://www.equall.it/,1
 https://www.erbanotizie.com/,1
 https://www.eroicafenice.com/,1
 https://www.ersaf.it/,1
-https://www.esquire.com/,1
 https://www.esteri.it/,1
 https://www.eticasgr.com/,1
 https://www.eurokomonline.eu/,1
