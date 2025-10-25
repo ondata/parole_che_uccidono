@@ -1,20 +1,20 @@
 fonte,count
-https://www.youtube.com/,1113
+https://www.youtube.com/,1114
 https://www.virgilio.it/,691
 https://x.com/,549
-https://www.ilrestodelcarlino.it/,421
+https://www.ilrestodelcarlino.it/,423
 https://www.ansa.it/,418
-https://www.rainews.it/,389
+https://www.rainews.it/,390
 https://tg24.sky.it/,320
 https://www.open.online/,311
 https://www.fanpage.it/,286
 https://www.lanazione.it/,283
 https://www.ilfattoquotidiano.it/,257
-https://www.facebook.com/,254
+https://www.facebook.com/,255
 https://www.lastampa.it/,232
 https://www.instagram.com/,227
 https://m.facebook.com/,208
-https://www.ilgiorno.it/,205
+https://www.ilgiorno.it/,208
 https://agenparl.eu/,188
 https://www.leggo.it/,162
 https://www.repubblica.it/,156
@@ -26,8 +26,8 @@ https://www.msn.com/,114
 https://www.corriere.it/,109
 https://ilmanifesto.it/,106
 https://www.adnkronos.com/,106
+https://www.dailymotion.com/,106
 https://www.ilsole24ore.com/,106
-https://www.dailymotion.com/,105
 https://mediasetinfinity.mediaset.it/,100
 https://www.ilgazzettino.it/,99
 https://www.romatoday.it/,99
@@ -38,7 +38,7 @@ https://questure.poliziadistato.it/,83
 https://www.milanotoday.it/,83
 https://www.orizzontescuola.it/,82
 https://www.agi.it/,81
-https://www.vanityfair.it/,76
+https://www.vanityfair.it/,77
 https://www.editorialedomani.it/,75
 https://www.iodonna.it/,75
 https://www.quotidiano.net/,75
@@ -51,7 +51,7 @@ https://www.lagazzettadelmezzogiorno.it/,67
 https://www.tecnicadellascuola.it/,67
 https://www.palermotoday.it/,66
 https://www.iltirreno.it/,63
-https://it.linkedin.com/,61
+https://it.linkedin.com/,62
 https://ilgiornalepopolare.it/,60
 https://torinocronaca.it/,60
 https://www.rsi.ch/,60
@@ -67,7 +67,7 @@ https://www.lapiazzaweb.it/,50
 https://www.napolitoday.it/,50
 https://www.foggiatoday.it/,49
 https://www.lapresse.it/,49
-https://milano.corriere.it/,46
+https://milano.corriere.it/,47
 https://www.giornaledibrescia.it/,45
 https://www.ilnordest.it/,45
 https://luce.lanazione.it/,44
@@ -201,6 +201,7 @@ https://www.persemprenews.it/,23
 https://www.primocanale.it/,23
 https://www.trevisotoday.it/,23
 https://www.umbria24.it/,23
+https://askanews.it/,22
 https://torino.corriere.it/,22
 https://www.altalex.com/,22
 https://www.comune.roma.it/,22
@@ -210,7 +211,6 @@ https://www.messaggeroveneto.it/,22
 https://www.siracusaoggi.it/,22
 https://www.sondriotoday.it/,22
 https://www.veratv.it/,22
-https://askanews.it/,21
 https://www.arezzonotizie.it/,21
 https://www.ekuonews.it/,21
 https://www.infopal.it/,21
@@ -338,6 +338,7 @@ https://www.ilpomeriggio.it/,14
 https://www.isnews.it/,14
 https://www.leggocassino.it/,14
 https://www.lindipendente.online/,14
+https://www.milanopavia.news/,14
 https://www.quotidianopiemontese.it/,14
 https://www.radiopopolare.it/,14
 https://www.reggionline.com/,14
@@ -366,7 +367,6 @@ https://www.laprovinciaunicatv.it/,13
 https://www.larampa.news/,13
 https://www.marieclaire.it/,13
 https://www.materanews.net/,13
-https://www.milanopavia.news/,13
 https://www.orticalab.it/,13
 https://www.ottopagine.it/,13
 https://www.pressreader.com/,13
@@ -651,6 +651,7 @@ http://www.umbriadomani.it/,7
 https://algherolive.it/,7
 https://andi.it/,7
 https://bari.corriere.it/,7
+https://blogcq24.com/,7
 https://comunicalo.it/,7
 https://consiglio.regione.umbria.it/,7
 https://cremonasera.it/,7
@@ -745,7 +746,6 @@ https://www.vocedellascuola.it/,7
 http://met.provincia.fi.it/,6
 https://abitarearoma.it/,6
 https://bitontolive.it/,6
-https://blogcq24.com/,6
 https://bur.regione.veneto.it/,6
 https://comunicazioneitaliana.it/,6
 https://coriglianocalabro.it/,6
@@ -850,6 +850,7 @@ https://www.quotidianodellumbria.it/,6
 https://www.radioamica.it/,6
 https://www.radiowebitalia.it/,6
 https://www.reggio2000.it/,6
+https://www.regione.basilicata.it/,6
 https://www.risoluto.it/,6
 https://www.sassuolo2000.it/,6
 https://www.senzacolonnenews.it/,6
@@ -1026,7 +1027,6 @@ https://www.radiondadurto.org/,5
 https://www.ragusah24.it/,5
 https://www.redazionenews.it/,5
 https://www.reggio10forever.it/,5
-https://www.regione.basilicata.it/,5
 https://www.rivistastudio.com/,5
 https://www.salonelibro.it/,5
 https://www.sanita33.it/,5
@@ -3146,6 +3146,7 @@ https://www.attiviamoenergiepositive.it/,1
 https://www.ausl.bologna.it/,1
 https://www.avionews.it/,1
 https://www.avis-legnano.org/,1
+https://www.avlive.it/,1
 https://www.avvocatigorizia.it/,1
 https://www.avvocatisilvestroetrotta.it/,1
 https://www.avvocatolascala.it/,1
