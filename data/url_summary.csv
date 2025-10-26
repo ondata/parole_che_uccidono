@@ -1,20 +1,20 @@
 fonte,count
-https://www.youtube.com/,1121
+https://www.youtube.com/,1122
 https://www.virgilio.it/,693
 https://x.com/,549
-https://www.ilrestodelcarlino.it/,424
+https://www.ilrestodelcarlino.it/,425
 https://www.ansa.it/,419
-https://www.rainews.it/,393
+https://www.rainews.it/,395
 https://tg24.sky.it/,323
 https://www.open.online/,312
 https://www.fanpage.it/,288
 https://www.lanazione.it/,285
 https://www.ilfattoquotidiano.it/,258
 https://www.facebook.com/,257
-https://www.lastampa.it/,232
+https://www.lastampa.it/,233
 https://www.instagram.com/,228
+https://www.ilgiorno.it/,209
 https://m.facebook.com/,208
-https://www.ilgiorno.it/,208
 https://agenparl.eu/,188
 https://www.leggo.it/,162
 https://www.repubblica.it/,156
@@ -23,7 +23,7 @@ https://www.tgcom24.mediaset.it/,126
 https://www.unionesarda.it/,123
 https://www.ilmessaggero.it/,117
 https://www.msn.com/,114
-https://www.corriere.it/,109
+https://www.corriere.it/,110
 https://www.dailymotion.com/,108
 https://ilmanifesto.it/,107
 https://www.adnkronos.com/,106
@@ -34,7 +34,7 @@ https://www.romatoday.it/,99
 https://www.ilmattino.it/,98
 https://www.9colonne.it/,93
 https://www.ilgiornale.it/,86
-https://www.milanotoday.it/,85
+https://www.milanotoday.it/,86
 https://questure.poliziadistato.it/,83
 https://www.orizzontescuola.it/,82
 https://www.agi.it/,81
@@ -129,13 +129,13 @@ https://infomedianews.com/,30
 https://www.antennasud.com/,30
 https://www.forlitoday.it/,30
 https://www.lanuovacalabria.it/,30
+https://www.laregione.ch/,30
 https://www.pressenza.com/,30
 https://www.sanmarinortv.sm/,30
 https://www.varesenews.it/,30
 https://www.agenziagiornalisticaopinione.it/,29
 https://www.avveniredicalabria.it/,29
 https://www.gazzettadimodena.it/,29
-https://www.laregione.ch/,29
 https://www.vaticannews.va/,29
 https://gazzettadellaspezia.com/,28
 https://napoli.repubblica.it/,28
@@ -633,6 +633,7 @@ https://www.provincia.modena.it/,8
 https://www.pupia.tv/,8
 https://www.radiolombardia.it/,8
 https://www.radioroma.it/,8
+https://www.regione.basilicata.it/,8
 https://www.regione.campania.it/,8
 https://www.rietilife.com/,8
 https://www.sicilia24h.it/,8
@@ -661,6 +662,7 @@ https://cremonasera.it/,7
 https://dabitonto.com/,7
 https://etvmarche.it/,7
 https://farmaciavirtuale.it/,7
+https://firenze.repubblica.it/,7
 https://folhadolitoral.com.br/,7
 https://giornalemio.it/,7
 https://ilbolive.unipd.it/,7
@@ -760,7 +762,6 @@ https://documenti.camera.it/,6
 https://e-tv.it/,6
 https://esgnews.it/,6
 https://finanza.repubblica.it/,6
-https://firenze.repubblica.it/,6
 https://giornalenews.it/,6
 https://ilnuovotorrazzo.it/,6
 https://italianinews.com/,6
@@ -775,6 +776,7 @@ https://m.cronacheancona.it/,6
 https://magazine.unibo.it/,6
 https://newsmondo.it/,6
 https://ntplusentilocaliedilizia.ilsole24ore.com/,6
+https://picchionews.it/,6
 https://primalamartesana.it/,6
 https://primalecco.it/,6
 https://primavicenza.it/,6
@@ -853,7 +855,6 @@ https://www.quotidianodellumbria.it/,6
 https://www.radioamica.it/,6
 https://www.radiowebitalia.it/,6
 https://www.reggio2000.it/,6
-https://www.regione.basilicata.it/,6
 https://www.risoluto.it/,6
 https://www.sassuolo2000.it/,6
 https://www.senzacolonnenews.it/,6
@@ -918,7 +919,6 @@ https://moveoncalabria.it/,5
 https://naufraghi.ch/,5
 https://newsdellavalle.com/,5
 https://old.unipi.it/,5
-https://picchionews.it/,5
 https://podcasts.apple.com/,5
 https://primaillevante.it/,5
 https://primapadova.it/,5
@@ -2007,6 +2007,7 @@ https://www.domus-nostra.it/,2
 https://www.donnapop.it/,2
 https://www.dsps.unict.it/,2
 https://www.eclavoro.it/,2
+https://www.ecodipavia.it/,2
 https://www.edotto.com/,2
 https://www.eius.it/,2
 https://www.empoli.news/,2
@@ -3455,7 +3456,6 @@ https://www.easynewsweb.com/,1
 https://www.ebg.admin.ch/,1
 https://www.ecclesiadei.it/,1
 https://www.ecodelcinema.com/,1
-https://www.ecodipavia.it/,1
 https://www.ecodisalerno.com/,1
 https://www.ecodisavona.it/,1
 https://www.ecoditoscana.it/,1
