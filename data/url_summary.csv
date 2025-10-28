@@ -1,6 +1,6 @@
 fonte,count
-https://www.youtube.com/,1132
-https://www.virgilio.it/,700
+https://www.youtube.com/,1135
+https://www.virgilio.it/,701
 https://x.com/,549
 https://www.ilrestodelcarlino.it/,426
 https://www.ansa.it/,421
@@ -9,16 +9,16 @@ https://tg24.sky.it/,323
 https://www.open.online/,317
 https://www.fanpage.it/,293
 https://www.lanazione.it/,288
-https://www.facebook.com/,261
+https://www.facebook.com/,263
 https://www.ilfattoquotidiano.it/,259
-https://www.lastampa.it/,233
-https://www.instagram.com/,230
+https://www.lastampa.it/,234
+https://www.instagram.com/,232
 https://www.ilgiorno.it/,212
 https://m.facebook.com/,208
 https://agenparl.eu/,188
 https://www.leggo.it/,162
 https://www.repubblica.it/,156
-https://www.today.it/,149
+https://www.today.it/,150
 https://www.tgcom24.mediaset.it/,126
 https://www.unionesarda.it/,123
 https://www.ilmessaggero.it/,118
@@ -413,6 +413,7 @@ https://www.unita.it/,12
 https://www.venetonews.it/,12
 https://www.wired.it/,12
 http://www.osservatoriosullalegalita.org/,11
+https://cn24tv.it/,11
 https://corriereirpinia.it/,11
 https://d.repubblica.it/,11
 https://gazzettadibologna.it/,11
@@ -455,7 +456,6 @@ https://www.uniroma1.it/,11
 https://www.unita.tv/,11
 https://www.vipiu.it/,11
 https://anagnia.com/,10
-https://cn24tv.it/,10
 https://etrurianews.it/,10
 https://europaverde.it/,10
 https://ildomaniditalia.eu/,10
@@ -671,6 +671,8 @@ https://folhadolitoral.com.br/,7
 https://giornalemio.it/,7
 https://lasentinella.gelocal.it/,7
 https://lecconotizie.com/,7
+https://left.it/,7
+https://magazine.unibo.it/,7
 https://news.admin.ch/,7
 https://news.robadadonne.it/,7
 https://notizie.regione.emilia-romagna.it/,7
@@ -773,12 +775,10 @@ https://italianinews.com/,6
 https://laprovinciarieti.it/,6
 https://laragione.eu/,6
 https://lavocedeltrentino.it/,6
-https://left.it/,6
 https://liguriaday.it/,6
 https://lokkio.it/,6
 https://lombardia.lamilano.it/,6
 https://m.cronacheancona.it/,6
-https://magazine.unibo.it/,6
 https://newsmondo.it/,6
 https://ntplusentilocaliedilizia.ilsole24ore.com/,6
 https://picchionews.it/,6
@@ -982,6 +982,7 @@ https://www.crotoneok.it/,5
 https://www.direttasicilia.it/,5
 https://www.dirittodicronaca.it/,5
 https://www.donnealtri.it/,5
+https://www.doppiozero.com/,5
 https://www.ehabitat.it/,5
 https://www.eurosport.it/,5
 https://www.formatrieti.it/,5
@@ -1044,6 +1045,7 @@ https://www.radiondadurto.org/,5
 https://www.ragusah24.it/,5
 https://www.redazionenews.it/,5
 https://www.reggio10forever.it/,5
+https://www.reportsardegna24.it/,5
 https://www.rivistastudio.com/,5
 https://www.salonelibro.it/,5
 https://www.sanita33.it/,5
@@ -1181,7 +1183,6 @@ https://www.digitradio.it/,4
 https://www.doctor33.it/,4
 https://www.donne.it/,4
 https://www.donneierioggiedomani.it/,4
-https://www.doppiozero.com/,4
 https://www.e-cinema.it/,4
 https://www.ecaserta.com/,4
 https://www.elbareport.it/,4
@@ -1277,7 +1278,6 @@ https://www.reggioreport.it/,4
 https://www.reggiosera.it/,4
 https://www.reportdifesa.it/,4
 https://www.reportpistoia.com/,4
-https://www.reportsardegna24.it/,4
 https://www.retesei.com/,4
 https://www.retisolidali.it/,4
 https://www.rgunotizie.it/,4
@@ -1657,6 +1657,7 @@ https://www.valdelsa.net/,3
 https://www.valored.it/,3
 https://www.ventiperquattro.it/,3
 https://www.ventonuovo.eu/,3
+https://www.vercellinotizie.it/,3
 https://www.videonotizietv.it/,3
 https://www.visitcecina.com/,3
 https://www.visitpistoia.eu/,3
@@ -1757,6 +1758,7 @@ https://indeksonline.net/,2
 https://infosannio.com/,2
 https://inpuglia24.it/,2
 https://insajderi.org/,2
+https://insalute.regione.umbria.it/,2
 https://integrazionemigranti.gov.it/,2
 https://iris.unito.it/,2
 https://irpiniattiva.news/,2
@@ -2347,8 +2349,8 @@ https://www.valseriananews.it/,2
 https://www.vareseinforma.it/,2
 https://www.veglienews.com/,2
 https://www.verbanonews.it/,2
-https://www.vercellinotizie.it/,2
 https://www.vglobale.it/,2
+https://www.videomediterraneo.it/,2
 https://www.vignaclarablog.it/,2
 https://www.vinonuovo.it/,2
 https://www.visitbergamo.net/,2
@@ -2726,7 +2728,6 @@ https://informatorecoopfi.it/,1
 https://informazionefacile.it/,1
 https://inhousecommunity.it/,1
 https://innovationisland.it/,1
-https://insalute.regione.umbria.it/,1
 https://insegreto.com/,1
 https://insiderpost.it/,1
 https://intals.it/,1
@@ -4358,7 +4359,6 @@ https://www.vesuviolive.it/,1
 https://www.vicoumbertogagliardi.edu.it/,1
 https://www.videoandria.com/,1
 https://www.videolina.it/,1
-https://www.videomediterraneo.it/,1
 https://www.videosicilia.com/,1
 https://www.videotolentino.it/,1
 https://www.viella.it/,1
