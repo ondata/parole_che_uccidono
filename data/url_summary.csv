@@ -1,19 +1,19 @@
 fonte,count
 https://www.youtube.com/,1247
 https://www.virgilio.it/,783
-https://x.com/,568
+https://x.com/,570
 https://www.ilrestodelcarlino.it/,470
 https://www.ansa.it/,469
 https://www.rainews.it/,444
 https://tg24.sky.it/,357
-https://www.facebook.com/,356
+https://www.facebook.com/,357
 https://www.open.online/,329
-https://www.lanazione.it/,320
+https://www.lanazione.it/,323
 https://www.fanpage.it/,306
-https://www.ilfattoquotidiano.it/,277
-https://www.instagram.com/,277
-https://www.lastampa.it/,252
-https://www.ilgiorno.it/,246
+https://www.ilfattoquotidiano.it/,278
+https://www.instagram.com/,278
+https://www.lastampa.it/,253
+https://www.ilgiorno.it/,247
 https://m.facebook.com/,208
 https://agenparl.eu/,207
 https://www.leggo.it/,178
@@ -39,7 +39,7 @@ https://www.ilgiornale.it/,91
 https://www.orizzontescuola.it/,91
 https://www.agi.it/,90
 https://www.editorialedomani.it/,90
-https://www.avvenire.it/,83
+https://www.avvenire.it/,84
 https://www.quotidiano.net/,83
 https://stream24.ilsole24ore.com/,81
 https://www.iodonna.it/,81
@@ -104,10 +104,10 @@ https://www.malpensa24.it/,39
 https://www.raiplay.it/,39
 https://www.ildolomiti.it/,38
 https://www.reddit.com/,38
+https://www.statoquotidiano.it/,38
 https://www.agenzianova.com/,37
 https://www.castedduonline.it/,37
 https://www.notizie.it/,37
-https://www.statoquotidiano.it/,37
 https://www.tempostretto.it/,37
 https://calabria7.news/,36
 https://corrieredellumbria.it/,36
@@ -150,6 +150,7 @@ https://www.gazzettadimodena.it/,30
 https://www.lanuovacalabria.it/,30
 https://www.libero.it/,30
 https://www.pressenza.com/,30
+https://www.sulpanaro.net/,30
 https://www.tio.ch/,30
 https://www.vaticannews.va/,30
 https://www.veneziatoday.it/,30
@@ -160,7 +161,6 @@ https://www.civonline.it/,29
 https://www.ildubbio.news/,29
 https://www.iltrafiletto.it/,29
 https://www.ladige.it/,29
-https://www.sulpanaro.net/,29
 https://27esimaora.corriere.it/,28
 https://gazzettadellaspezia.com/,28
 https://www.ferraratoday.it/,28
@@ -173,17 +173,17 @@ https://www.laprovinciacr.it/,27
 https://www.mondadoristore.it/,27
 https://www.parmatoday.it/,27
 https://www.poliziadistato.it/,27
+https://www.riminitoday.it/,27
 https://www.vita.it/,27
 https://gazzettadelsud.it/,26
 https://ilsicilia.it/,26
 https://laguida.it/,26
+https://thesis.unipd.it/,26
 https://www.cittadellaspezia.com/,26
 https://www.direcontrolaviolenza.it/,26
 https://www.ilsecoloxix.it/,26
-https://www.riminitoday.it/,26
 https://www.senato.it/,26
 https://www.trmtv.it/,26
-https://thesis.unipd.it/,25
 https://video.corriere.it/,25
 https://www.affaritaliani.it/,25
 https://www.comune.roma.it/,25
@@ -331,6 +331,7 @@ https://www.alfemminile.com/,15
 https://www.cr.campania.it/,15
 https://www.dagospia.com/,15
 https://www.giornalelora.it/,15
+https://www.ilcapoluogo.it/,15
 https://www.ilmediterraneo24.it/,15
 https://www.isnews.it/,15
 https://www.italiannetwork.it/,15
@@ -364,7 +365,6 @@ https://www.comune.livorno.it/,14
 https://www.cuneodice.it/,14
 https://www.esperienzeconilsud.it/,14
 https://www.frosinonetoday.it/,14
-https://www.ilcapoluogo.it/,14
 https://www.ilcrotonese.it/,14
 https://www.ilfoglio.it/,14
 https://www.ilgallo.it/,14
@@ -460,6 +460,7 @@ https://corrieredisiena.it/,11
 https://cremonasera.it/,11
 https://europaverde.it/,11
 https://gazzettadibologna.it/,11
+https://radiotsn.tv/,11
 https://siracusapress.it/,11
 https://torino.repubblica.it/,11
 https://trcmodena.it/,11
@@ -518,7 +519,6 @@ https://pagineesteri.it/,10
 https://perugiacomunica.comune.perugia.it/,10
 https://piazzamartirinews.com/,10
 https://pordenoneoggi.it/,10
-https://radiotsn.tv/,10
 https://ristretti.org/,10
 https://tarantosera.it/,10
 https://trcgiornale.it/,10
@@ -2329,6 +2329,7 @@ https://www.modena2000.it/,2
 https://www.mondiversi.it/,2
 https://www.mondospettacolo.com/,2
 https://www.money.it/,2
+https://www.montorioveronese.it/,2
 https://www.motorionline.com/,2
 https://www.museoarcheologicoreggiocalabria.it/,2
 https://www.nazioneindiana.com/,2
@@ -2450,6 +2451,7 @@ https://www.telenuova.tv/,2
 https://www.teleradiopace.tv/,2
 https://www.teleregionecolor.com/,2
 https://www.tempi.it/,2
+https://www.termoliwild.it/,2
 https://www.terrasanta.net/,2
 https://www.terredipianura.it/,2
 https://www.tg10.it/,2
@@ -2587,6 +2589,7 @@ https://9kkpq.ra-mielbrecht.de/,1
 https://about.nike.com/,1
 https://abrescia.giornaledibrescia.it/,1
 https://accademiadellacrusca.it/,1
+https://acquinews.ilpiccolo.net/,1
 https://adanazionale.it/,1
 https://admin.uke.it/,1
 https://adnverify.adnkronos.com/,1
@@ -2769,6 +2772,7 @@ https://economiacircolare.com/,1
 https://economiapertutti.bancaditalia.it/,1
 https://edicola.quotidianodipuglia.it/,1
 https://editorialescientifica.it/,1
+https://educahub.ai/,1
 https://edudoro.eu/,1
 https://eggua.it/,1
 https://elearning15.unibg.it/,1
@@ -3411,6 +3415,7 @@ https://www.bancacentroemilia.it/,1
 https://www.bandi.regione.lombardia.it/,1
 https://www.bariviva.it/,1
 https://www.barlettaviva.it/,1
+https://www.bazolipolo.edu.it/,1
 https://www.bellinzona.ch/,1
 https://www.beneventogiornale.com/,1
 https://www.bfs.admin.ch/,1
@@ -3583,6 +3588,7 @@ https://www.comune.novara.it/,1
 https://www.comune.noviligure.al.it/,1
 https://www.comune.orvieto.tr.it/,1
 https://www.comune.ospitaletto.bs.it/,1
+https://www.comune.parghelia.vv.it/,1
 https://www.comune.pesaro.pu.it/,1
 https://www.comune.pietrasanta.lu.it/,1
 https://www.comune.piovene-rocchette.vi.it/,1
@@ -3604,6 +3610,7 @@ https://www.comune.sandonatomilanese.mi.it/,1
 https://www.comune.sangiovannialnatisone.ud.it/,1
 https://www.comune.sanlazzaro.bo.it/,1
 https://www.comune.sanmartinodivenezze.ro.it/,1
+https://www.comune.sanmartinoinrio.re.it/,1
 https://www.comune.sarzana.sp.it/,1
 https://www.comune.sassuolo.mo.it/,1
 https://www.comune.segrate.mi.it/,1
@@ -3827,6 +3834,7 @@ https://www.galatina24.it/,1
 https://www.galleriadellibro.net/,1
 https://www.galleriagiannoni.it/,1
 https://www.gallitorrini.com/,1
+https://www.galm.it/,1
 https://www.gazzettadasti.it/,1
 https://www.gazzettadellaspezia.it/,1
 https://www.gazzettadellevalli.it/,1
@@ -3869,6 +3877,7 @@ https://www.goodreads.com/,1
 https://www.governareilterritorio.net/,1
 https://www.gr.ch/,1
 https://www.grammichele.eu/,1
+https://www.gravinalife.it/,1
 https://www.grazia.it/,1
 https://www.grossetosport.com/,1
 https://www.grugliasco24.it/,1
@@ -4555,7 +4564,6 @@ https://www.televideoteca.it/,1
 https://www.tellusfolio.it/,1
 https://www.tenonline.tv/,1
 https://www.terlizziviva.it/,1
-https://www.termoliwild.it/,1
 https://www.tgabruzzo24.com/,1
 https://www.tgcal24.it/,1
 https://www.theblackcoffee.eu/,1
