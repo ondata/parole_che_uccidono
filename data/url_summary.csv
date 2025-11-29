@@ -1,5 +1,5 @@
 fonte,count
-https://www.youtube.com/,1336
+https://www.youtube.com/,1339
 https://www.virgilio.it/,806
 https://x.com/,610
 https://www.ilrestodelcarlino.it/,506
@@ -8,7 +8,7 @@ https://www.facebook.com/,470
 https://www.rainews.it/,466
 https://tg24.sky.it/,384
 https://www.lanazione.it/,347
-https://www.instagram.com/,337
+https://www.instagram.com/,338
 https://www.open.online/,332
 https://www.fanpage.it/,312
 https://www.ilfattoquotidiano.it/,296
@@ -31,11 +31,11 @@ https://www.msn.com/,123
 https://ilmanifesto.it/,122
 https://www.9colonne.it/,114
 https://www.romatoday.it/,114
+https://www.milanotoday.it/,106
 https://www.ilgazzettino.it/,105
-https://www.milanotoday.it/,105
 https://www.ilmattino.it/,102
 https://questure.poliziadistato.it/,101
-https://www.ilgiornale.it/,98
+https://www.ilgiornale.it/,99
 https://www.editorialedomani.it/,97
 https://www.orizzontescuola.it/,97
 https://www.agi.it/,93
@@ -44,8 +44,8 @@ https://stream24.ilsole24ore.com/,90
 https://www.quotidiano.net/,88
 https://www.iodonna.it/,84
 https://www.lagazzettadelmezzogiorno.it/,82
+https://it.linkedin.com/,81
 https://www.vanityfair.it/,81
-https://it.linkedin.com/,80
 https://notizie.tiscali.it/,80
 https://www.greenme.it/,77
 https://www.palermotoday.it/,77
@@ -501,6 +501,7 @@ https://www.comune.bari.it/,11
 https://www.corrierecesenate.it/,11
 https://www.cremaoggi.it/,11
 https://www.cronachemaceratesi.it/,11
+https://www.gardanotizie.it/,11
 https://www.genova24.it/,11
 https://www.giornaleinfocastelliromani.it/,11
 https://www.infocilento.it/,11
@@ -567,7 +568,6 @@ https://www.cusanomediaplay.it/,10
 https://www.eleonoramattia.it/,10
 https://www.fanoinforma.it/,10
 https://www.fratelliditaliasenato.it/,10
-https://www.gardanotizie.it/,10
 https://www.gay.it/,10
 https://www.gazzetta.it/,10
 https://www.gazzettamatin.com/,10
@@ -905,6 +905,7 @@ https://quotidianodibari.it/,6
 https://radiocassino.it/,6
 https://radiotaormina.it/,6
 https://ragusalibera.it/,6
+https://sienapost.it/,6
 https://startupitalia.eu/,6
 https://sudtv.net/,6
 https://teleregionetv.it/,6
@@ -1067,7 +1068,6 @@ https://quotidianodigela.it/,5
 https://radiolina.it/,5
 https://radionbc.it/,5
 https://rtp.gazzettadelsud.it/,5
-https://sienapost.it/,5
 https://spettacolomusicasport.com/,5
 https://telesardegna.it/,5
 https://terninrete.it/,5
@@ -1085,6 +1085,7 @@ https://www.anfp.it/,5
 https://www.ascuolaoggi.com/,5
 https://www.ats-brescia.it/,5
 https://www.basilicatadigitalchannel.com/,5
+https://www.bellunesinelmondo.info/,5
 https://www.brindisitime.it/,5
 https://www.buongiornonovara.com/,5
 https://www.cagliarilivemagazine.it/,5
@@ -1299,7 +1300,6 @@ https://www.balcanicaucaso.org/,4
 https://www.barlettanews24.it/,4
 https://www.batmagazine.it/,4
 https://www.battipaglia1929.it/,4
-https://www.bellunesinelmondo.info/,4
 https://www.bestmovie.it/,4
 https://www.blitzquotidiano.it/,4
 https://www.bookdealer.it/,4
@@ -1432,6 +1432,7 @@ https://www.siciliaunonews.com/,4
 https://www.sikilynews.it/,4
 https://www.simlaweb.it/,4
 https://www.sololibri.net/,4
+https://www.spreaker.com/,4
 https://www.sslazio.it/,4
 https://www.telegolfo.com/,4
 https://www.telejonio.com/,4
@@ -1477,6 +1478,7 @@ https://bookblog.salonelibro.it/,3
 https://cagliarinews.it/,3
 https://calabria.gazzettadelsud.it/,3
 https://canaledieci.it/,3
+https://casertace.net/,3
 https://chiaraeditrice.com/,3
 https://comozero.it/,3
 https://comune.avezzano.aq.it/,3
@@ -1815,7 +1817,6 @@ https://www.sintony.it/,3
 https://www.sorrisi.com/,3
 https://www.sportmediaset.mediaset.it/,3
 https://www.spotandweb.it/,3
-https://www.spreaker.com/,3
 https://www.stampaitaliana.online/,3
 https://www.strisciarossa.it/,3
 https://www.subito.it/,3
@@ -1898,7 +1899,6 @@ https://bresciaanticapitalista.com/,2
 https://cadmi.org/,2
 https://calabria.live/,2
 https://carolinamorace.it/,2
-https://casertace.net/,2
 https://cesvi.org/,2
 https://chiarabraga.it/,2
 https://cilentopost.tv/,2
@@ -2216,6 +2216,7 @@ https://www.corrieredisciacca.it/,2
 https://www.corrierediviterbo.it/,2
 https://www.coseincomune.it/,2
 https://www.cosenzaduepuntozero.it/,2
+https://www.cosmopolis.media/,2
 https://www.costajonicaweb.it/,2
 https://www.cr.piemonte.it/,2
 https://www.craterenews.it/,2
@@ -3058,6 +3059,7 @@ https://indicatoreweb.it/,1
 https://indico.ict.inaf.it/,1
 https://infinitynews.it/,1
 https://infoaut.org/,1
+https://infoescapes.altervista.org/,1
 https://informa-press.it/,1
 https://informacionlocal.es/,1
 https://informagiovani.comune.gubbio.pg.it/,1
@@ -3936,7 +3938,6 @@ https://www.corrieredisaluzzo.it/,1
 https://www.corrierenerd.it/,1
 https://www.cortecostituzionale.it/,1
 https://www.cosenzatomorrow.it/,1
-https://www.cosmopolis.media/,1
 https://www.cospe.org/,1
 https://www.cpia-agrigento.edu.it/,1
 https://www.cpia1karalis.edu.it/,1
@@ -4387,6 +4388,7 @@ https://www.lascatolalilla.it/,1
 https://www.latinacorriere.it/,1
 https://www.latinaquotidiano.it/,1
 https://www.latorre1905.it/,1
+https://www.lavalsusa.it/,1
 https://www.lavoceaglitaliani.it/,1
 https://www.lavocedellappennino.it/,1
 https://www.lavocedelnisseno.it/,1
@@ -4879,6 +4881,7 @@ https://www.sikanianetwork.it/,1
 https://www.simg.it/,1
 https://www.sinafi.org/,1
 https://www.sinergiediscuola.it/,1
+https://www.siped.it/,1
 https://www.siracusa2000.com/,1
 https://www.sismondipacinotti.edu.it/,1
 https://www.siulcc.com/,1
