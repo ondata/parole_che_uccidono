@@ -1,13 +1,13 @@
 fonte,count
-https://www.youtube.com/,1391
+https://www.youtube.com/,1394
 https://www.virgilio.it/,838
-https://x.com/,634
-https://www.facebook.com/,548
-https://www.ilrestodelcarlino.it/,531
+https://x.com/,635
+https://www.facebook.com/,550
+https://www.ilrestodelcarlino.it/,533
 https://www.ansa.it/,521
 https://www.rainews.it/,484
 https://tg24.sky.it/,393
-https://www.lanazione.it/,373
+https://www.lanazione.it/,375
 https://www.instagram.com/,362
 https://www.open.online/,339
 https://www.fanpage.it/,322
@@ -16,7 +16,7 @@ https://www.lastampa.it/,277
 https://www.ilgiorno.it/,259
 https://agenparl.eu/,228
 https://m.facebook.com/,217
-https://www.repubblica.it/,196
+https://www.repubblica.it/,197
 https://www.leggo.it/,181
 https://www.today.it/,168
 https://www.unionesarda.it/,147
@@ -100,16 +100,16 @@ https://buonasera24.it/,42
 https://citynotizie.it/,42
 https://www.cataniatoday.it/,42
 https://www.salernotoday.it/,42
+https://www.liberta.it/,41
 https://www.malpensa24.it/,41
 https://alessandria.today/,40
 https://www.borsaitaliana.it/,40
 https://www.ilpescara.it/,40
-https://www.liberta.it/,40
+https://www.laregione.ch/,40
 https://www.messinatoday.it/,40
 https://www.ravennatoday.it/,40
 https://calabria7.news/,39
 https://www.espansionetv.it/,39
-https://www.laregione.ch/,39
 https://www.reggiotoday.it/,39
 https://www.statoquotidiano.it/,39
 https://corrieredellumbria.it/,38
@@ -252,6 +252,7 @@ https://www.metropolisweb.it/,22
 https://www.pariopportunita.gov.it/,22
 https://www.siracusaoggi.it/,22
 https://www.sondriotoday.it/,22
+https://ntplusdiritto.ilsole24ore.com/,21
 https://opinione.it/,21
 https://www.agenziacult.it/,21
 https://www.cgil.it/,21
@@ -266,7 +267,6 @@ https://www.zazoom.it/,21
 https://bergamo.corriere.it/,20
 https://ilbolive.unipd.it/,20
 https://ilnuovoterraglio.it/,20
-https://ntplusdiritto.ilsole24ore.com/,20
 https://webtv.camera.it/,20
 https://www.ilroma.net/,20
 https://www.labottegadelbarbieri.org/,20
@@ -406,6 +406,7 @@ https://www.ilpomeriggio.it/,14
 https://www.kalaritanamedia.it/,14
 https://www.lacronaca24.it/,14
 https://www.larampa.news/,14
+https://www.lavocedelpatriota.it/,14
 https://www.maremmaoggi.net/,14
 https://www.materanews.net/,14
 https://www.noitv.it/,14
@@ -439,11 +440,11 @@ https://www.cosmopolitan.com/,13
 https://www.friulioggi.it/,13
 https://www.gazzettadalba.it/,13
 https://www.gazzettadisiena.it/,13
+https://www.glistatigenerali.com/,13
 https://www.ilfattovesuviano.it/,13
 https://www.ilgiornaledichieti.it/,13
 https://www.ilsussidiario.net/,13
 https://www.istat.it/,13
-https://www.lavocedelpatriota.it/,13
 https://www.leccotoday.it/,13
 https://www.napolivillage.com/,13
 https://www.nordestnews.it/,13
@@ -475,7 +476,6 @@ https://www.dinamopress.it/,12
 https://www.donnamoderna.com/,12
 https://www.fratelliditaliasenato.it/,12
 https://www.genova24.it/,12
-https://www.glistatigenerali.com/,12
 https://www.laprovinciadifermo.com/,12
 https://www.libraccio.it/,12
 https://www.molisenetwork.net/,12
@@ -587,6 +587,7 @@ https://www.carabinieri.it/,10
 https://www.cgilmodena.it/,10
 https://www.cittagora.it/,10
 https://www.corriereromagna.it/,10
+https://www.cuneo24.it/,10
 https://www.cusanomediaplay.it/,10
 https://www.fanoinforma.it/,10
 https://www.gay.it/,10
@@ -658,7 +659,6 @@ https://www.coe.int/,9
 https://www.comune.rho.mi.it/,9
 https://www.corrieredirieti.it/,9
 https://www.corriereditaranto.it/,9
-https://www.cuneo24.it/,9
 https://www.differenzadonna.org/,9
 https://www.espressione24.it/,9
 https://www.farmacista33.it/,9
@@ -803,6 +803,7 @@ https://electomagazine.it/,7
 https://laragione.eu/,7
 https://lecconotizie.com/,7
 https://news.admin.ch/,7
+https://news.avvocatoandreani.it/,7
 https://news.robadadonne.it/,7
 https://primabrescia.it/,7
 https://primocomunicazione.it/,7
@@ -919,7 +920,6 @@ https://lokkio.it/,6
 https://lombardia.lamilano.it/,6
 https://manewspiceno.it/,6
 https://maremmanews.it/,6
-https://news.avvocatoandreani.it/,6
 https://newsmondo.it/,6
 https://ntplusentilocaliedilizia.ilsole24ore.com/,6
 https://orvietosi.it/,6
@@ -2129,6 +2129,7 @@ https://spicgiltoscana.it/,2
 https://sport.quotidiano.net/,2
 https://substack.com/,2
 https://sveja.substack.com/,2
+https://television.telerama.fr/,2
 https://terredeshommes.it/,2
 https://tgposte.poste.it/,2
 https://thebookadvisor.it/,2
@@ -2451,6 +2452,7 @@ https://www.italia-informa.com/,2
 https://www.italianotizie24.it/,2
 https://www.italiaviva.it/,2
 https://www.juliet-artmagazine.com/,2
+https://www.kering.com/,2
 https://www.la-notizia.net/,2
 https://www.lacittadelnordmilano.it/,2
 https://www.lacittafutura.it/,2
@@ -2732,6 +2734,7 @@ http://www.change.org/,1
 http://www.comune.padova.it/,1
 http://www.confraternitadeibianchi.it/,1
 http://www.conquistedellavoro.it/,1
+http://www.cregu.org/,1
 http://www.cronachetarantine.it/,1
 http://www.cusio24.it/,1
 http://www.dire.it/,1
@@ -3500,7 +3503,6 @@ https://telefonorosaverona.it/,1
 https://telegenova.it/,1
 https://telenorba.it/,1
 https://teleromagna.it/,1
-https://television.telerama.fr/,1
 https://tenniscremonese.it/,1
 https://teresigiovanni.wordpress.com/,1
 https://tesidottorato.depositolegale.it/,1
@@ -3711,6 +3713,7 @@ https://www.associazionelui.it/,1
 https://www.assogestioni.it/,1
 https://www.assowebtv.com/,1
 https://www.asst-cremona.it/,1
+https://www.asst-val.it/,1
 https://www.asst-valleolona.it/,1
 https://www.astfm.marche.it/,1
 https://www.asur.marche.it/,1
@@ -4320,6 +4323,7 @@ https://www.icdalessandro-vocino.edu.it/,1
 https://www.icdelianuova.edu.it/,1
 https://www.icderobertozafferana.edu.it/,1
 https://www.icelandreview.com/,1
+https://www.icfgesue.edu.it/,1
 https://www.icfrancavillacerchiara.edu.it/,1
 https://www.icfrancoimposimato.edu.it/,1
 https://www.icgabicce.edu.it/,1
@@ -4481,7 +4485,6 @@ https://www.job4good.it/,1
 https://www.jobijoba.it/,1
 https://www.jobiri.com/,1
 https://www.jobsanita.it/,1
-https://www.kering.com/,1
 https://www.khasakh.com/,1
 https://www.klpteatro.it/,1
 https://www.korian.it/,1
@@ -4575,6 +4578,7 @@ https://www.liceogiordanobrunoroma.edu.it/,1
 https://www.liceogmarconifg.edu.it/,1
 https://www.liceokepleroroma.edu.it/,1
 https://www.liceolabriola.edu.it/,1
+https://www.liceomajoranalatina.edu.it/,1
 https://www.liceomorgagni.edu.it/,1
 https://www.liceonewton.it/,1
 https://www.liceonovello.edu.it/,1
