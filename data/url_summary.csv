@@ -1,11 +1,11 @@
 fonte,count
 https://www.youtube.com/,1422
 https://www.virgilio.it/,850
-https://x.com/,647
-https://www.facebook.com/,579
+https://x.com/,648
+https://www.facebook.com/,580
 https://www.ilrestodelcarlino.it/,542
 https://www.ansa.it/,527
-https://www.rainews.it/,496
+https://www.rainews.it/,497
 https://tg24.sky.it/,395
 https://www.lanazione.it/,386
 https://www.instagram.com/,372
@@ -124,6 +124,7 @@ https://www.forlitoday.it/,38
 https://www.ildolomiti.it/,38
 https://www.tempostretto.it/,38
 https://comunicazione.camera.it/,37
+https://infomedianews.com/,37
 https://www.avveniredicalabria.it/,37
 https://www.castedduonline.it/,37
 https://www.cesenatoday.it/,37
@@ -131,7 +132,6 @@ https://www.lidentita.it/,37
 https://www.notizie.it/,37
 https://www.secoloditalia.it/,37
 https://www.vaticannews.va/,37
-https://infomedianews.com/,36
 https://www.agenziagiornalisticaopinione.it/,36
 https://www.gazzettadimantova.it/,36
 https://www.gazzettadimodena.it/,36
@@ -181,19 +181,19 @@ https://www.umbria24.it/,30
 https://askanews.it/,29
 https://www.affaritaliani.it/,29
 https://www.altalex.com/,29
+https://www.centropagina.it/,29
 https://www.cittadellaspezia.com/,29
 https://www.comune.roma.it/,29
+https://www.laquilablog.it/,29
 https://www.riminitoday.it/,29
 https://www.senato.it/,29
 https://www.trevisotoday.it/,29
 https://www.vita.it/,29
 https://torino.corriere.it/,28
 https://www.altoadige.it/,28
-https://www.centropagina.it/,28
 https://www.chietitoday.it/,28
 https://www.giurisprudenzapenale.com/,28
 https://www.ilgiornaledivicenza.it/,28
-https://www.laquilablog.it/,28
 https://www.monzatoday.it/,28
 https://www.trmtv.it/,28
 https://ilsicilia.it/,27
@@ -300,9 +300,11 @@ https://www.ravennanotizie.it/,19
 https://www.sassarioggi.it/,19
 https://www.stampareggiana.it/,19
 https://www.uniroma1.it/,19
+https://abruzzosera.it/,18
 https://bologna.repubblica.it/,18
 https://italia-informa.com/,18
 https://libreriamo.it/,18
+https://napoli.corriere.it/,18
 https://voitg.net/,18
 https://www.aise.it/,18
 https://www.blogsicilia.it/,18
@@ -316,11 +318,9 @@ https://www.regione.umbria.it/,18
 https://www.sardegnagol.eu/,18
 https://www.ternitoday.it/,18
 https://www.tusciatimes.eu/,18
-https://abruzzosera.it/,17
 https://abruzzoweb.it/,17
 https://esgdata.it/,17
 https://genova.repubblica.it/,17
-https://napoli.corriere.it/,17
 https://primamonza.it/,17
 https://superando.it/,17
 https://www.anteprima24.it/,17
@@ -894,6 +894,7 @@ https://www.telebari.it/,7
 https://www.telesudweb.it/,7
 https://www.teletruria.it/,7
 https://www.terzapaginamagazine.com/,7
+https://www.thedotcultura.it/,7
 https://www.toscana-notizie.it/,7
 https://www.trnews.it/,7
 https://www.tv33.it/,7
@@ -1056,7 +1057,6 @@ https://www.telegranducato.it/,6
 https://www.teleischia.com/,6
 https://www.teleradio-news.it/,6
 https://www.ternitomorrow.it/,6
-https://www.thedotcultura.it/,6
 https://www.toscanaoggi.it/,6
 https://www.tvimolise.it/,6
 https://www.unictmagazine.unict.it/,6
@@ -1580,6 +1580,7 @@ https://m.cronachepicene.it/,3
 https://mappeser.com/,3
 https://marsicalive.it/,3
 https://napolimonitor.it/,3
+https://news.fidelityhouse.eu/,3
 https://nextstopreggio.it/,3
 https://oraquadra.info/,3
 https://palazzoducale.genova.it/,3
@@ -2087,7 +2088,6 @@ https://molfettalive.it/,2
 https://motori.leggo.it/,2
 https://multimediale.comune.napoli.it/,2
 https://napoli.comicon.it/,2
-https://news.fidelityhouse.eu/,2
 https://news.sap.com/,2
 https://news.uniroma1.it/,2
 https://normalenews.sns.it/,2
@@ -2787,6 +2787,7 @@ http://www.lavocedelserchio.it/,1
 http://www.laziodisco.it/,1
 http://www.livorno24.com/,1
 http://www.lombardia.confcooperative.it/,1
+http://www.mesagnesera.it/,1
 http://www.metalhammer.it/,1
 http://www.montalcinonews.com/,1
 http://www.noicambiamo.it/,1
@@ -3563,6 +3564,7 @@ https://trt.global/,1
 https://turismotorino.org/,1
 https://tuttolavoro24.it/,1
 https://tuttosesto.net/,1
+https://tuttovesuvio.com/,1
 https://tuttowelfare.info/,1
 https://tv.orange.fr/,1
 https://tvmag.lefigaro.fr/,1
@@ -4192,6 +4194,7 @@ https://www.enpab.it/,1
 https://www.enricomattei.edu.it/,1
 https://www.epicentro.iss.it/,1
 https://www.eppgroup.eu/,1
+https://www.eprice.it/,1
 https://www.equall.it/,1
 https://www.erbanotizie.com/,1
 https://www.ergotv.it/,1
