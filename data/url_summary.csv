@@ -1,14 +1,14 @@
 fonte,count
 https://www.youtube.com/,1457
-https://www.virgilio.it/,876
+https://www.virgilio.it/,877
 https://x.com/,676
-https://www.facebook.com/,654
+https://www.facebook.com/,657
 https://www.ilrestodelcarlino.it/,552
-https://www.ansa.it/,543
+https://www.ansa.it/,544
 https://www.rainews.it/,508
 https://tg24.sky.it/,401
 https://www.lanazione.it/,398
-https://www.instagram.com/,387
+https://www.instagram.com/,390
 https://www.open.online/,341
 https://www.fanpage.it/,336
 https://www.ilfattoquotidiano.it/,318
@@ -178,6 +178,8 @@ https://www.ilgiornaledivicenza.it/,31
 https://www.iltrafiletto.it/,31
 https://www.poliziadistato.it/,31
 https://www.trevisotoday.it/,31
+https://www.umbria24.it/,31
+https://www.vita.it/,31
 http://www.comune.torino.it/,30
 https://www.actionaid.it/,30
 https://www.affaritaliani.it/,30
@@ -186,8 +188,6 @@ https://www.chietitoday.it/,30
 https://www.comune.roma.it/,30
 https://www.ildubbio.news/,30
 https://www.senato.it/,30
-https://www.umbria24.it/,30
-https://www.vita.it/,30
 https://askanews.it/,29
 https://palermo.repubblica.it/,29
 https://torino.corriere.it/,29
@@ -287,6 +287,7 @@ https://www.liberoquotidiano.it/,20
 https://www.polesine24.it/,20
 https://www.tusciatimes.eu/,20
 https://www.uniroma1.it/,20
+https://www.vipiu.it/,20
 https://abruzzosera.it/,19
 https://bologna.repubblica.it/,19
 https://corrierefiorentino.corriere.it/,19
@@ -309,7 +310,6 @@ https://www.regione.umbria.it/,19
 https://www.sardegnagol.eu/,19
 https://www.sassarioggi.it/,19
 https://www.stampareggiana.it/,19
-https://www.vipiu.it/,19
 https://italia-informa.com/,18
 https://latinatu.it/,18
 https://libreriamo.it/,18
@@ -854,6 +854,7 @@ https://www.canalesicilia.it/,7
 https://www.cnpadc.it/,7
 https://www.comune.bagheria.pa.it/,7
 https://www.comune.brescia.it/,7
+https://www.comune.pistoia.it/,7
 https://www.comune.riccione.rn.it/,7
 https://www.comune.terni.it/,7
 https://www.confesercenti.it/,7
@@ -996,7 +997,6 @@ https://www.cittanuova.it/,6
 https://www.citynow.it/,6
 https://www.comune.cesena.fc.it/,6
 https://www.comune.fiumicino.rm.it/,6
-https://www.comune.pistoia.it/,6
 https://www.comune.rivoli.to.it/,6
 https://www.confinionline.it/,6
 https://www.corrierepeligno.it/,6
@@ -1545,6 +1545,7 @@ https://www.ttv.it/,4
 https://www.tvqui.it/,4
 https://www.tvsei.it/,4
 https://www.ultimaoralive.it/,4
+https://www.unibo.it/,4
 https://www.unibs.it/,4
 https://www.unisi.it/,4
 https://www.unive.it/,4
@@ -1671,6 +1672,7 @@ https://valdarno24.it/,3
 https://vanityclass.it/,3
 https://veneziaorientale.news/,3
 https://videocitta.media/,3
+https://videonola.tv/,3
 https://vocedistrada.it/,3
 https://webtv.senato.it/,3
 https://www.94018.it/,3
@@ -1793,6 +1795,7 @@ https://www.filctemcgil.it/,3
 https://www.fiumicino-online.it/,3
 https://www.foggiacittaaperta.it/,3
 https://www.fortuneita.com/,3
+https://www.fotospot.it/,3
 https://www.freenovara.it/,3
 https://www.fuoriluogo.it/,3
 https://www.galatina.it/,3
@@ -1969,7 +1972,6 @@ https://www.udibologna.it/,3
 https://www.uilca.it/,3
 https://www.uilpa.it/,3
 https://www.ultimenotizieflash.com/,3
-https://www.unibo.it/,3
 https://www.unical.it/,3
 https://www.unicosettimanale.it/,3
 https://www.unifg.it/,3
@@ -2233,7 +2235,6 @@ https://veneto.lamilano.it/,2
 https://venezia.lamilano.it/,2
 https://veratv.it/,2
 https://veronaeconomia.it/,2
-https://videonola.tv/,2
 https://visitsirmione.com/,2
 https://vocedelnordest.it/,2
 https://volontaromagna.it/,2
@@ -2445,7 +2446,6 @@ https://www.foodaffairs.it/,2
 https://www.forensicnews.it/,2
 https://www.forumdiplomatico.com/,2
 https://www.forumterzosettore.it/,2
-https://www.fotospot.it/,2
 https://www.fpi.it/,2
 https://www.francescomiraglia.it/,2
 https://www.freaklance.org/,2
