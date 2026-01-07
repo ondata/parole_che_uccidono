@@ -1,7 +1,7 @@
 fonte,count
 https://www.youtube.com/,1495
 https://www.virgilio.it/,920
-https://www.facebook.com/,747
+https://www.facebook.com/,748
 https://x.com/,712
 https://www.ilrestodelcarlino.it/,584
 https://www.ansa.it/,560
@@ -50,7 +50,7 @@ https://www.quotidiano.net/,92
 https://www.iodonna.it/,89
 https://www.vanityfair.it/,89
 https://roma.corriere.it/,85
-https://www.giustiziainsieme.it/,81
+https://www.giustiziainsieme.it/,82
 https://www.agensir.it/,79
 https://www.rsi.ch/,79
 https://www.tecnicadellascuola.it/,79
@@ -64,12 +64,12 @@ https://www.lapiazzaweb.it/,66
 https://it.cibercuba.com/,65
 https://prefettura.interno.gov.it/,65
 https://tg.la7.it/,65
+https://www.radioradicale.it/,65
 https://www.corriereadriatico.it/,64
-https://www.radioradicale.it/,64
 https://www.padovaoggi.it/,63
 https://www.ilnordest.it/,62
 https://www.napolitoday.it/,60
-https://www.giornaledibrescia.it/,58
+https://www.giornaledibrescia.it/,59
 https://www.la7.it/,58
 https://www.lanuovasardegna.it/,58
 https://www.ilpost.it/,57
@@ -549,6 +549,8 @@ https://www.radiolaquila1.it/,12
 https://www.regione.veneto.it/,12
 https://www.targatocn.it/,12
 https://www.terremarsicane.it/,12
+https://www.triesteallnews.it/,12
+https://www.triesteprima.it/,12
 https://www.tusciaweb.eu/,12
 https://www.tvsvizzera.it/,12
 https://www.unipi.it/,12
@@ -608,8 +610,6 @@ https://www.siracusanews.it/,11
 https://www.strettoweb.com/,11
 https://www.superabile.it/,11
 https://www.thesocialpost.it/,11
-https://www.triesteallnews.it/,11
-https://www.triesteprima.it/,11
 https://www.umbriadomani.it/,11
 https://www.umbriajournal.com/,11
 https://www.unime.it/,11
@@ -932,6 +932,7 @@ https://www.newsinquota.it/,7
 https://www.novaratoday.it/,7
 https://www.ntr24.tv/,7
 https://www.nuovodialogo.com/,7
+https://www.popolis.it/,7
 https://www.primopianomolise.it/,7
 https://www.provincia.salerno.it/,7
 https://www.quotidianodellumbria.it/,7
@@ -950,6 +951,7 @@ https://www.teleischia.com/,7
 https://www.telesudweb.it/,7
 https://www.terranostranews.it/,7
 https://www.terzapaginamagazine.com/,7
+https://www.terzogiornale.it/,7
 https://www.thedotcultura.it/,7
 https://www.toscana-notizie.it/,7
 https://www.trnews.it/,7
@@ -1100,7 +1102,6 @@ https://www.oggitreviso.it/,6
 https://www.openpolis.it/,6
 https://www.orvietonews.it/,6
 https://www.padovanews.it/,6
-https://www.popolis.it/,6
 https://www.portalecce.it/,6
 https://www.primapaginatrapani.it/,6
 https://www.professionedocente.com/,6
@@ -1133,7 +1134,6 @@ https://www.telegranducato.it/,6
 https://www.teleradio-news.it/,6
 https://www.teleregionelive.it/,6
 https://www.ternitomorrow.it/,6
-https://www.terzogiornale.it/,6
 https://www.tgnordsalento.it/,6
 https://www.toscanaoggi.it/,6
 https://www.tvimolise.it/,6
@@ -1592,6 +1592,7 @@ https://www.spreaker.com/,4
 https://www.sslazio.it/,4
 https://www.telegolfo.com/,4
 https://www.telejonio.com/,4
+https://www.tempi.it/,4
 https://www.terronianmagazine.com/,4
 https://www.tg24.info/,4
 https://www.thrillermagazine.it/,4
@@ -1776,6 +1777,7 @@ https://www.canale21.it/,3
 https://www.canale3.tv/,3
 https://www.canosaweb.it/,3
 https://www.canottaggiolombardia.org/,3
+https://www.casadelledonneparma.it/,3
 https://www.ceciliadelia.it/,3
 https://www.centralcharts.com/,3
 https://www.centriantiviolenzaer.it/,3
@@ -2017,7 +2019,6 @@ https://www.telenostra.tv/,3
 https://www.telenuova.tv/,3
 https://www.teleuniverso.it/,3
 https://www.televallo.it/,3
-https://www.tempi.it/,3
 https://www.ternilife.com/,3
 https://www.tgmax.it/,3
 https://www.ticinolive.ch/,3
@@ -2354,6 +2355,7 @@ https://www.ats-montagna.it/,2
 https://www.audible.it/,2
 https://www.avionews.it/,2
 https://www.azione.it/,2
+https://www.badtaste.it/,2
 https://www.beautybiz.it/,2
 https://www.befreecooperativa.org/,2
 https://www.beneventonews24.it/,2
@@ -2379,7 +2381,6 @@ https://www.canaledisecchia.it/,2
 https://www.carpi2000.it/,2
 https://www.casadelladonnapisa.it/,2
 https://www.casadelledonne-bs.it/,2
-https://www.casadelledonneparma.it/,2
 https://www.casadelledonneviareggio.it/,2
 https://www.casadonnemilano.it/,2
 https://www.casertareport.com/,2
@@ -3968,7 +3969,6 @@ https://www.babelezon.com/,1
 https://www.babelmed.net/,1
 https://www.badali.news/,1
 https://www.badolato.it/,1
-https://www.badtaste.it/,1
 https://www.banca360fvg.it/,1
 https://www.bancacentroemilia.it/,1
 https://www.bandi.regione.lombardia.it/,1
