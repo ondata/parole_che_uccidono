@@ -1,8 +1,8 @@
 fonte,count
 https://www.youtube.com/,1501
-https://www.virgilio.it/,921
-https://www.facebook.com/,755
-https://x.com/,714
+https://www.virgilio.it/,922
+https://www.facebook.com/,757
+https://x.com/,715
 https://www.ilrestodelcarlino.it/,585
 https://www.ansa.it/,562
 https://www.rainews.it/,538
@@ -16,7 +16,7 @@ https://www.lastampa.it/,304
 https://www.ilgiorno.it/,291
 https://agenparl.eu/,242
 https://m.facebook.com/,223
-https://www.repubblica.it/,217
+https://www.repubblica.it/,218
 https://www.leggo.it/,192
 https://www.today.it/,182
 https://www.unionesarda.it/,159
@@ -85,10 +85,10 @@ https://www.lapresse.it/,54
 https://www.ravennatoday.it/,54
 https://www.sistemapenale.it/,53
 https://www.torinotoday.it/,53
+https://www.genovatoday.it/,50
 https://www.larena.it/,50
 https://www.perugiatoday.it/,50
 https://www.pointofnews.it/,50
-https://www.genovatoday.it/,49
 https://www.interno.gov.it/,49
 https://corrieredelveneto.corriere.it/,48
 https://lespresso.it/,48
@@ -101,6 +101,7 @@ https://www.cataniatoday.it/,46
 https://www.gazzettadiparma.it/,46
 https://www.messinatoday.it/,46
 https://www.castedduonline.it/,45
+https://www.ecodibergamo.it/,45
 https://buonasera24.it/,44
 https://citynotizie.it/,44
 https://www.agenzianova.com/,44
@@ -109,7 +110,6 @@ https://www.comune.milano.it/,44
 https://www.espansionetv.it/,44
 https://corrieredibologna.corriere.it/,43
 https://www.borsaitaliana.it/,43
-https://www.ecodibergamo.it/,43
 https://www.ilpescara.it/,43
 https://www.liberta.it/,43
 https://www.reggiotoday.it/,43
@@ -232,6 +232,7 @@ https://wesud.it/,26
 https://www.calabriadirettanews.com/,26
 https://www.ilroma.net/,26
 https://www.pisatoday.it/,26
+https://www.pressreader.com/,26
 https://www.quotidianosanita.it/,26
 https://messina.gazzettadelsud.it/,25
 https://norbaonline.it/,25
@@ -241,7 +242,6 @@ https://www.collettiva.it/,25
 https://www.estense.com/,25
 https://www.informazione.it/,25
 https://www.prealpina.it/,25
-https://www.pressreader.com/,25
 https://www.swissinfo.ch/,25
 https://informareunh.it/,24
 https://mantovauno.it/,24
@@ -748,6 +748,7 @@ https://www.odysseo.it/,9
 https://www.ondatv.tv/,9
 https://www.ondawebtv.it/,9
 https://www.ore12.net/,9
+https://www.oxfamitalia.org/,9
 https://www.panorama.it/,9
 https://www.professionereporter.eu/,9
 https://www.provincia.le.it/,9
@@ -833,7 +834,6 @@ https://www.mentelocale.it/,8
 https://www.molisetabloid.it/,8
 https://www.nuvola.tv/,8
 https://www.odg.it/,8
-https://www.oxfamitalia.org/,8
 https://www.paeseroma.it/,8
 https://www.policymakermag.it/,8
 https://www.quinewspisa.it/,8
@@ -1124,6 +1124,7 @@ https://www.santannapisa.it/,6
 https://www.sassuolo2000.it/,6
 https://www.sempionenews.it/,6
 https://www.senzacolonnenews.it/,6
+https://www.skuola.net/,6
 https://www.sololecce.it/,6
 https://www.stampalibera.it/,6
 https://www.statoregioni.it/,6
@@ -1318,7 +1319,6 @@ https://www.salonelibro.it/,5
 https://www.sanitainformazione.it/,5
 https://www.sassilive.it/,5
 https://www.showlandnews.com/,5
-https://www.skuola.net/,5
 https://www.slobodenpecat.mk/,5
 https://www.sololibri.net/,5
 https://www.statigeneralidelledonne.com/,5
@@ -1593,6 +1593,7 @@ https://www.socialfarma.it/,4
 https://www.sportmediaset.mediaset.it/,4
 https://www.spreaker.com/,4
 https://www.sslazio.it/,4
+https://www.studiocataldi.it/,4
 https://www.telegolfo.com/,4
 https://www.telejonio.com/,4
 https://www.tempi.it/,4
@@ -2017,7 +2018,6 @@ https://www.sportesalute.eu/,3
 https://www.spotandweb.it/,3
 https://www.stampaitaliana.online/,3
 https://www.strisciarossa.it/,3
-https://www.studiocataldi.it/,3
 https://www.subito.it/,3
 https://www.svsdad.it/,3
 https://www.tag24.it/,3
