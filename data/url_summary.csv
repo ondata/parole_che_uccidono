@@ -1,11 +1,11 @@
 fonte,count
 https://www.youtube.com/,1535
 https://www.virgilio.it/,950
-https://www.facebook.com/,817
+https://www.facebook.com/,818
 https://x.com/,735
 https://www.ilrestodelcarlino.it/,604
 https://www.ansa.it/,576
-https://www.rainews.it/,550
+https://www.rainews.it/,551
 https://www.instagram.com/,430
 https://tg24.sky.it/,419
 https://www.lanazione.it/,418
@@ -49,7 +49,7 @@ https://www.quotidiano.net/,96
 https://notizie.tiscali.it/,95
 https://www.vanityfair.it/,93
 https://www.iodonna.it/,90
-https://roma.corriere.it/,88
+https://roma.corriere.it/,89
 https://www.giustiziainsieme.it/,88
 https://www.agensir.it/,84
 https://www.rsi.ch/,82
@@ -99,10 +99,10 @@ https://www.raiplay.it/,48
 https://corrieredellumbria.it/,47
 https://www.ecodibergamo.it/,47
 https://www.messinatoday.it/,47
+https://www.soroptimist.it/,47
 https://www.castedduonline.it/,46
 https://www.cataniatoday.it/,46
 https://www.gazzettadiparma.it/,46
-https://www.soroptimist.it/,46
 https://www.agenzianova.com/,45
 https://www.lacnews24.it/,45
 https://www.osservatoreromano.va/,45
@@ -136,9 +136,9 @@ https://www.forlitoday.it/,41
 https://www.gazzettadimantova.it/,41
 https://www.vaticannews.va/,41
 https://calabria7.news/,40
+https://livesicilia.it/,40
 https://www.elle.com/,40
 https://www.parmatoday.it/,40
-https://livesicilia.it/,39
 https://www.ilcentro.it/,39
 https://www.lanuovacalabria.it/,39
 https://www.veneziatoday.it/,39
@@ -190,6 +190,7 @@ https://27esimaora.corriere.it/,31
 https://askanews.it/,31
 https://laguida.it/,31
 https://palermo.repubblica.it/,31
+https://qds.it/,31
 https://www.actionaid.it/,31
 https://www.africarivista.it/,31
 https://www.baritoday.it/,31
@@ -197,7 +198,6 @@ https://www.chietitoday.it/,31
 https://www.civonline.it/,31
 http://www.comune.torino.it/,30
 https://friulisera.it/,30
-https://qds.it/,30
 https://www.altoadige.it/,30
 https://www.arezzo24.net/,30
 https://www.collettiva.it/,30
@@ -370,6 +370,7 @@ https://www.comune.napoli.it/,17
 https://www.corrierepl.it/,17
 https://www.cr.campania.it/,17
 https://www.dagospia.com/,17
+https://www.esperienzeconilsud.it/,17
 https://www.frosinonetoday.it/,17
 https://www.ilpiccolo.it/,17
 https://www.italpress.com/,17
@@ -398,7 +399,6 @@ https://www.centritalianews.it/,16
 https://www.comune.livorno.it/,16
 https://www.corrierealpi.it/,16
 https://www.cuneodice.it/,16
-https://www.esperienzeconilsud.it/,16
 https://www.friulioggi.it/,16
 https://www.ilcapoluogo.it/,16
 https://www.italiannetwork.it/,16
@@ -553,8 +553,10 @@ https://www.fratelliditaliasenato.it/,12
 https://www.gazzettaufficiale.it/,12
 https://www.ilfattonisseno.it/,12
 https://www.infocilento.it/,12
+https://www.laleggepertutti.it/,12
 https://www.lameziaterme.it/,12
 https://www.laprovinciadifermo.com/,12
+https://www.liguria.cgil.it/,12
 https://www.lombardianotizie.online/,12
 https://www.mbnews.it/,12
 https://www.molisenetwork.net/,12
@@ -599,12 +601,10 @@ https://www.gonews.it/,11
 https://www.ilgazzettinometropolitano.it/,11
 https://www.ilgiornaledisalerno.it/,11
 https://www.ivg.it/,11
-https://www.laleggepertutti.it/,11
 https://www.lanovitaonline.it/,11
 https://www.lanuovaferrara.it/,11
 https://www.latestatamagazine.it/,11
 https://www.laverita.info/,11
-https://www.liguria.cgil.it/,11
 https://www.liratv.it/,11
 https://www.milanopost.info/,11
 https://www.mitomorrow.it/,11
@@ -1392,6 +1392,7 @@ https://euractiv.it/,4
 https://europa.today.it/,4
 https://filatelia.poste.it/,4
 https://flore.unifi.it/,4
+https://futura.news/,4
 https://gardatoday.it/,4
 https://gazzettadireggio.gelocal.it/,4
 https://giffoni.it/,4
@@ -1691,7 +1692,6 @@ https://edicola.shop/,3
 https://en.unibg.it/,3
 https://ereditadelledonne.eu/,3
 https://fishets.it/,3
-https://futura.news/,3
 https://gdc.ancidigitale.it/,3
 https://gognablog.sherpa-gate.com/,3
 https://group.intesasanpaolo.com/,3
@@ -2965,6 +2965,7 @@ http://www.bariconnessa.it/,1
 http://www.buongiornoalghero.it/,1
 http://www.capuaonline.com/,1
 http://www.centroabruzzonews.com/,1
+http://www.centrocontrolaviolenza-ao.it/,1
 http://www.change.org/,1
 http://www.comune.padova.it/,1
 http://www.confraternitadeibianchi.it/,1
