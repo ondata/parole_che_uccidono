@@ -1,7 +1,7 @@
 fonte,count
 https://www.youtube.com/,1570
-https://www.virgilio.it/,972
-https://www.facebook.com/,880
+https://www.virgilio.it/,973
+https://www.facebook.com/,881
 https://x.com/,763
 https://www.ilrestodelcarlino.it/,614
 https://www.ansa.it/,593
@@ -15,7 +15,7 @@ https://www.ilfattoquotidiano.it/,349
 https://www.lastampa.it/,339
 https://www.ilgiorno.it/,311
 https://agenparl.eu/,254
-https://www.repubblica.it/,228
+https://www.repubblica.it/,229
 https://m.facebook.com/,225
 https://www.leggo.it/,199
 https://www.today.it/,190
@@ -27,8 +27,8 @@ https://www.adnkronos.com/,156
 https://www.dailymotion.com/,150
 https://www.ilsole24ore.com/,149
 https://www.msn.com/,147
+https://mediasetinfinity.mediaset.it/,145
 https://ilmanifesto.it/,143
-https://mediasetinfinity.mediaset.it/,143
 https://www.ilmattino.it/,141
 https://www.ilmessaggero.it/,141
 https://www.9colonne.it/,131
@@ -40,9 +40,9 @@ https://www.ilgiornale.it/,120
 https://stream24.ilsole24ore.com/,119
 https://www.avvenire.it/,119
 https://www.editorialedomani.it/,119
+https://www.ilgazzettino.it/,118
 https://it.linkedin.com/,117
-https://www.ilgazzettino.it/,117
-https://www.agi.it/,116
+https://www.agi.it/,117
 https://roma.corriere.it/,102
 https://www.lagazzettadelmezzogiorno.it/,102
 https://www.quotidiano.net/,100
@@ -59,10 +59,10 @@ https://www.greenme.it/,79
 https://alleyoop.ilsole24ore.com/,75
 https://torinocronaca.it/,73
 https://www.lapiazzaweb.it/,72
+https://ilgiornalepopolare.it/,69
 https://prefettura.interno.gov.it/,69
 https://www.bolognatoday.it/,69
 https://www.radioradicale.it/,69
-https://ilgiornalepopolare.it/,68
 https://roma.repubblica.it/,68
 https://www.corriereadriatico.it/,68
 https://it.cibercuba.com/,67
@@ -105,6 +105,7 @@ https://corrieredellumbria.it/,47
 https://www.castedduonline.it/,46
 https://www.cataniatoday.it/,46
 https://www.espansionetv.it/,46
+https://www.lacnews24.it/,46
 https://www.osservatoreromano.va/,46
 https://www.sanmarinortv.sm/,46
 https://www.agenziagiornalisticaopinione.it/,45
@@ -112,7 +113,6 @@ https://www.borsaitaliana.it/,45
 https://www.cesenatoday.it/,45
 https://www.dire.it/,45
 https://www.ilpescara.it/,45
-https://www.lacnews24.it/,45
 https://www.statoquotidiano.it/,45
 https://buonasera24.it/,44
 https://citynotizie.it/,44
@@ -172,6 +172,7 @@ https://www.centropagina.it/,35
 https://www.cremonaoggi.it/,35
 https://www.gazzettadireggio.it/,35
 https://www.iltrafiletto.it/,35
+https://www.libero.it/,35
 https://www.luccagiovane.it/,35
 https://www.primocanale.it/,35
 https://video.corriere.it/,34
@@ -179,7 +180,6 @@ https://www.altoadige.it/,34
 https://www.avellinotoday.it/,34
 https://www.corrieredellacalabria.it/,34
 https://www.ildubbio.news/,34
-https://www.libero.it/,34
 https://www.threads.com/,34
 https://askanews.it/,33
 https://www.collettiva.it/,33
@@ -740,6 +740,7 @@ https://lepersoneeladignita.corriere.it/,9
 https://primabrescia.it/,9
 https://quotidianodifoggia.it/,9
 https://radiotaormina.it/,9
+https://telenorba.it/,9
 https://telesveva.it/,9
 https://wordnews.it/,9
 https://www.aics.it/,9
@@ -763,6 +764,7 @@ https://www.ilgolfo24.it/,9
 https://www.ilmattinoquotidiano.it/,9
 https://www.ilmoderatore.it/,9
 https://www.iltascabile.com/,9
+https://www.ilvibonese.it/,9
 https://www.interris.it/,9
 https://www.intersos.org/,9
 https://www.juorno.it/,9
@@ -823,7 +825,6 @@ https://radiowow.com/,8
 https://salerno.corriere.it/,8
 https://startupitalia.eu/,8
 https://sudtv.net/,8
-https://telenorba.it/,8
 https://termolionline.it/,8
 https://video.milanofinanza.it/,8
 https://www.24emilia.com/,8
@@ -856,7 +857,6 @@ https://www.hashtagsicilia.it/,8
 https://www.ildifforme.it/,8
 https://www.ilfaroonline.it/,8
 https://www.ilmercoledi.news/,8
-https://www.ilvibonese.it/,8
 https://www.italiaonline.news/,8
 https://www.lamiafinanza.it/,8
 https://www.laprovinciadicomo.it/,8
@@ -2751,6 +2751,7 @@ https://www.lospiffero.com/,2
 https://www.lucialibri.it/,2
 https://www.madoniepress.it/,2
 https://www.mag2.it/,2
+https://www.magentanostra.it/,2
 https://www.manewsfermano.it/,2
 https://www.manifestosardo.org/,2
 https://www.medeacontroviolenza.it/,2
@@ -5064,7 +5065,6 @@ https://www.madehse.com/,1
 https://www.madeinpompei.it/,1
 https://www.maestragemma.com/,1
 https://www.magaze.it/,1
-https://www.magentanostra.it/,1
 https://www.magevola.it/,1
 https://www.magherno.it/,1
 https://www.maiorinews.it/,1
