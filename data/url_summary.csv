@@ -1,11 +1,11 @@
 fonte,count
-https://www.youtube.com/,1611
+https://www.youtube.com/,1612
 https://www.virgilio.it/,997
-https://www.facebook.com/,963
+https://www.facebook.com/,964
 https://x.com/,783
-https://www.ilrestodelcarlino.it/,626
-https://www.ansa.it/,611
-https://www.rainews.it/,581
+https://www.ilrestodelcarlino.it/,627
+https://www.ansa.it/,612
+https://www.rainews.it/,583
 https://www.instagram.com/,502
 https://www.lanazione.it/,439
 https://tg24.sky.it/,433
@@ -17,10 +17,10 @@ https://www.ilgiorno.it/,318
 https://agenparl.eu/,261
 https://www.repubblica.it/,235
 https://m.facebook.com/,225
-https://www.leggo.it/,200
+https://www.leggo.it/,201
 https://www.today.it/,196
+https://mediasetinfinity.mediaset.it/,170
 https://www.romatoday.it/,170
-https://mediasetinfinity.mediaset.it/,169
 https://www.corriere.it/,169
 https://www.adnkronos.com/,167
 https://www.tgcom24.mediaset.it/,164
@@ -108,12 +108,12 @@ https://www.messinatoday.it/,48
 https://www.agenziagiornalisticaopinione.it/,47
 https://www.borsaitaliana.it/,47
 https://www.cataniatoday.it/,47
+https://www.liberta.it/,47
 https://www.osservatoreromano.va/,47
 https://www.anconatoday.it/,46
 https://www.castedduonline.it/,46
 https://www.gazzettadimantova.it/,46
 https://www.ilpescara.it/,46
-https://www.liberta.it/,46
 https://corrieredibologna.corriere.it/,45
 https://www.cesenatoday.it/,45
 https://www.dire.it/,45
@@ -224,6 +224,7 @@ https://www.lasicilia.it/,29
 https://www.metropolisweb.it/,29
 https://www.modenatoday.it/,29
 https://www.mondadoristore.it/,29
+https://m.cronachemaceratesi.it/,28
 https://www.bresciaoggi.it/,28
 https://www.change.org/,28
 https://www.ilroma.net/,28
@@ -231,7 +232,6 @@ https://www.iltquotidiano.it/,28
 https://www.pressreader.com/,28
 https://bergamo.corriere.it/,27
 https://ecodellojonio.it/,27
-https://m.cronachemaceratesi.it/,27
 https://m.youtube.com/,27
 https://ntplusdiritto.ilsole24ore.com/,27
 https://www.calabriadirettanews.com/,27
@@ -736,6 +736,7 @@ https://www.regione.emilia-romagna.it/,10
 https://www.regione.sicilia.it/,10
 https://www.regione.vda.it/,10
 https://www.salernonotizie.it/,10
+https://www.sciscianonotizie.it/,10
 https://www.studio93.it/,10
 https://www.teleischia.com/,10
 https://www.tfnweb.it/,10
@@ -811,7 +812,6 @@ https://www.reggio2000.it/,9
 https://www.rietilife.com/,9
 https://www.salernoinweb.it/,9
 https://www.sardegnaierioggidomani.com/,9
-https://www.sciscianonotizie.it/,9
 https://www.sicilia24h.it/,9
 https://www.tarantotoday.it/,9
 https://www.taxidrivers.it/,9
@@ -842,6 +842,7 @@ https://luccatimes.it/,8
 https://news.avvocatoandreani.it/,8
 https://primalamartesana.it/,8
 https://primamerate.it/,8
+https://primocomunicazione.it/,8
 https://puntomagazine.it/,8
 https://quotidianodigela.it/,8
 https://radiowow.com/,8
@@ -934,7 +935,6 @@ https://news.robadadonne.it/,7
 https://ntplusentilocaliedilizia.ilsole24ore.com/,7
 https://podcasts.apple.com/,7
 https://primatreviglio.it/,7
-https://primocomunicazione.it/,7
 https://quotidianodibari.it/,7
 https://radiocassino.it/,7
 https://ragusalibera.it/,7
@@ -2136,6 +2136,7 @@ https://www.tvblog.it/,3
 https://www.tvluna.it/,3
 https://www.udibologna.it/,3
 https://www.uilpa.it/,3
+https://www.uilpolizia.com/,3
 https://www.ultimenotizieflash.com/,3
 https://www.umanitaria.it/,3
 https://www.unical.it/,3
@@ -2970,7 +2971,6 @@ https://www.turismoroma.it/,2
 https://www.tuteladonne.it/,2
 https://www.tuttobiciweb.it/,2
 https://www.uil-marche.it/,2
-https://www.uilpolizia.com/,2
 https://www.umbriasettegiorni.it/,2
 https://www.uneba.org/,2
 https://www.uniba.it/,2
@@ -4650,6 +4650,7 @@ https://www.faberbox.it/,1
 https://www.fabioporta.com/,1
 https://www.fabula.org/,1
 https://www.fantapolnews.it/,1
+https://www.faronotizie.it/,1
 https://www.fashionnewsmagazine.com/,1
 https://www.fastwebvodafone.it/,1
 https://www.fbesta.edu.it/,1
@@ -5116,6 +5117,7 @@ https://www.ltp.edu.it/,1
 https://www.luccasapiens.it/,1
 https://www.lugano.ch/,1
 https://www.luiss.it/,1
+https://www.lunanuova.it/,1
 https://www.luniversitario.it/,1
 https://www.mac-assicurazioni.it/,1
 https://www.macronews.it/,1
