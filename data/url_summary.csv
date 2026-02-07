@@ -1,10 +1,10 @@
 fonte,count
-https://www.youtube.com/,1626
-https://www.virgilio.it/,1018
-https://www.facebook.com/,1004
-https://x.com/,800
+https://www.youtube.com/,1627
+https://www.virgilio.it/,1019
+https://www.facebook.com/,1005
+https://x.com/,802
 https://www.ilrestodelcarlino.it/,637
-https://www.ansa.it/,614
+https://www.ansa.it/,615
 https://www.rainews.it/,592
 https://www.instagram.com/,522
 https://www.lanazione.it/,453
@@ -12,7 +12,7 @@ https://tg24.sky.it/,438
 https://www.fanpage.it/,379
 https://www.open.online/,370
 https://www.ilfattoquotidiano.it/,368
-https://www.lastampa.it/,352
+https://www.lastampa.it/,354
 https://www.ilgiorno.it/,321
 https://agenparl.eu/,265
 https://www.repubblica.it/,237
@@ -115,11 +115,11 @@ https://www.cataniatoday.it/,47
 https://www.liberta.it/,47
 https://www.lidentita.it/,47
 https://www.osservatoreromano.va/,47
+https://www.vaticannews.va/,47
 https://corrieredibologna.corriere.it/,46
 https://www.castedduonline.it/,46
 https://www.gazzettadimantova.it/,46
 https://www.reggiotoday.it/,46
-https://www.vaticannews.va/,46
 https://buonasera24.it/,45
 https://www.agrigentonotizie.it/,45
 https://www.cesenatoday.it/,45
@@ -169,6 +169,7 @@ https://www.vita.it/,38
 https://www.centropagina.it/,37
 https://www.collettiva.it/,37
 https://www.direcontrolaviolenza.it/,37
+https://www.iltrafiletto.it/,37
 https://www.ladige.it/,37
 https://www.pressenza.com/,37
 https://www.umbria24.it/,37
@@ -178,7 +179,6 @@ https://www.alanews.it/,36
 https://www.altalex.com/,36
 https://www.corrieredellacalabria.it/,36
 https://www.gazzettadireggio.it/,36
-https://www.iltrafiletto.it/,36
 https://www.primocanale.it/,36
 https://27esimaora.corriere.it/,35
 https://www.altoadige.it/,35
@@ -491,6 +491,7 @@ https://www.cittagora.it/,14
 https://www.cosmopolitan.com/,14
 https://www.cremaoggi.it/,14
 https://www.dinamopress.it/,14
+https://www.genova24.it/,14
 https://www.giornaleinfocastelliromani.it/,14
 https://www.ilgallo.it/,14
 https://www.ilpomeriggio.it/,14
@@ -548,7 +549,6 @@ https://www.differenzadonna.org/,13
 https://www.donnamoderna.com/,13
 https://www.gazzettadisiena.it/,13
 https://www.gazzettamatin.com/,13
-https://www.genova24.it/,13
 https://www.glistatigenerali.com/,13
 https://www.ilfattovesuviano.it/,13
 https://www.ilgiornaledichieti.it/,13
@@ -794,6 +794,7 @@ https://www.consiglio.marche.it/,9
 https://www.corrieredirieti.it/,9
 https://www.corrieresalentino.it/,9
 https://www.enordest.it/,9
+https://www.farodiroma.it/,9
 https://www.fisascat.it/,9
 https://www.giornaledelcilento.it/,9
 https://www.ilbustese.it/,9
@@ -883,7 +884,6 @@ https://www.diritto.it/,8
 https://www.ecaserta.com/,8
 https://www.ethicasocietas.it/,8
 https://www.fabi.it/,8
-https://www.farodiroma.it/,8
 https://www.formatrieti.it/,8
 https://www.geronimo.news/,8
 https://www.giornaleadige.it/,8
@@ -1538,6 +1538,7 @@ https://www.casertasera.com/,4
 https://www.castelvetranoselinunte.it/,4
 https://www.centriantiviolenzaer.it/,4
 https://www.centrostudilivatino.it/,4
+https://www.chiamamicitta.it/,4
 https://www.cittametropolitana.torino.it/,4
 https://www.civico93.it/,4
 https://www.clebs.it/,4
@@ -1901,7 +1902,6 @@ https://www.catanzarochannel.it/,3
 https://www.ceciliadelia.it/,3
 https://www.centumcellae.it/,3
 https://www.cgfmanet.org/,3
-https://www.chiamamicitta.it/,3
 https://www.chiesadimilano.it/,3
 https://www.chiesaluterana.it/,3
 https://www.chioggianews24.it/,3
@@ -2117,6 +2117,7 @@ https://www.rivieraoggi.it/,3
 https://www.romait.it/,3
 https://www.sabinopaciolla.com/,3
 https://www.sanita.puglia.it/,3
+https://www.santannatoday.it/,3
 https://www.sardegnaimpresa.eu/,3
 https://www.sardegnareporter.it/,3
 https://www.sardiniapost.it/,3
@@ -2954,7 +2955,6 @@ https://www.salerno24.news/,2
 https://www.salutedomani.com/,2
 https://www.saluteinternazionale.info/,2
 https://www.santalessandro.org/,2
-https://www.santannatoday.it/,2
 https://www.sassuolocalcio.it/,2
 https://www.sassuolooggi.it/,2
 https://www.savonanews.it/,2
