@@ -1,11 +1,11 @@
 fonte,count
-https://www.youtube.com/,1638
+https://www.youtube.com/,1641
 https://www.virgilio.it/,1030
-https://www.facebook.com/,1026
+https://www.facebook.com/,1027
 https://x.com/,807
-https://www.ilrestodelcarlino.it/,639
+https://www.ilrestodelcarlino.it/,641
 https://www.ansa.it/,625
-https://www.rainews.it/,604
+https://www.rainews.it/,605
 https://www.instagram.com/,531
 https://www.lanazione.it/,458
 https://tg24.sky.it/,447
@@ -29,7 +29,7 @@ https://www.dailymotion.com/,160
 https://www.ilmessaggero.it/,157
 https://www.ilsole24ore.com/,157
 https://www.ilmattino.it/,155
-https://ilmanifesto.it/,150
+https://ilmanifesto.it/,151
 https://www.iltirreno.it/,148
 https://www.msn.com/,148
 https://www.orizzontescuola.it/,137
@@ -54,7 +54,7 @@ https://www.giustiziainsieme.it/,96
 https://www.iodonna.it/,93
 https://roma.repubblica.it/,89
 https://www.tecnicadellascuola.it/,89
-https://alleyoop.ilsole24ore.com/,85
+https://alleyoop.ilsole24ore.com/,86
 https://www.rsi.ch/,83
 https://milano.repubblica.it/,81
 https://www.greenme.it/,79
@@ -191,6 +191,7 @@ https://torino.corriere.it/,34
 https://www.civonline.it/,34
 https://www.ilgiornaledivicenza.it/,34
 https://www.monzatoday.it/,34
+https://www.uisp.it/,34
 https://askanews.it/,33
 https://liberta.it/,33
 https://palermo.repubblica.it/,33
@@ -199,7 +200,6 @@ https://www.poliziadistato.it/,33
 https://www.riminitoday.it/,33
 https://www.trevisotoday.it/,33
 https://www.trmtv.it/,33
-https://www.uisp.it/,33
 https://gazzettadellaspezia.com/,32
 https://unionemonregalese.it/,32
 https://www.actionaid.it/,32
@@ -335,6 +335,7 @@ https://news-town.it/,20
 https://primamonza.it/,20
 https://tgpadova.telenuovo.it/,20
 https://trcgiornale.it/,20
+https://voitg.net/,20
 https://webtv.camera.it/,20
 https://www.castellinotizie.it/,20
 https://www.cisl.it/,20
@@ -355,7 +356,6 @@ https://italia-informa.com/,19
 https://movieplayer.it/,19
 https://superando.it/,19
 https://tuttoggi.info/,19
-https://voitg.net/,19
 https://volontariatolazio.it/,19
 https://www.alfemminile.com/,19
 https://www.blogsicilia.it/,19
@@ -396,9 +396,11 @@ https://anagnia.com/,17
 https://esgdata.it/,17
 https://feministpost.it/,17
 https://risveglioduemila.it/,17
+https://torino.repubblica.it/,17
 https://www.cr.campania.it/,17
 https://www.dagospia.com/,17
 https://www.frosinonetoday.it/,17
+https://www.gazzettaufficiale.it/,17
 https://www.grandangoloagrigento.it/,17
 https://www.ilcapoluogo.it/,17
 https://www.ilpiccolo.it/,17
@@ -426,13 +428,11 @@ https://napolitan.it/,16
 https://palermo.gds.it/,16
 https://pordenoneoggi.it/,16
 https://senatoripd.it/,16
-https://torino.repubblica.it/,16
 https://www.31mag.nl/,16
 https://www.consiglio.puglia.it/,16
 https://www.cuneodice.it/,16
 https://www.eleonoramattia.it/,16
 https://www.fisac-cgil.it/,16
-https://www.gazzettaufficiale.it/,16
 https://www.ildenaro.it/,16
 https://www.ilfattonisseno.it/,16
 https://www.italiannetwork.it/,16
@@ -470,6 +470,7 @@ https://www.larampa.news/,15
 https://www.materanews.net/,15
 https://www.merateonline.it/,15
 https://www.mondoreale.it/,15
+https://www.noidonne.org/,15
 https://www.noitv.it/,15
 https://www.osservatoriofamiglia.it/,15
 https://www.pordenonetoday.it/,15
@@ -503,7 +504,6 @@ https://www.lacronaca24.it/,14
 https://www.lameziaterme.it/,14
 https://www.lavocedelpatriota.it/,14
 https://www.lecodelsud.it/,14
-https://www.noidonne.org/,14
 https://www.orticalab.it/,14
 https://www.quibrescia.it/,14
 https://www.settimananews.it/,14
@@ -954,6 +954,7 @@ https://lokkio.it/,7
 https://moked.it/,7
 https://news.robadadonne.it/,7
 https://ntplusentilocaliedilizia.ilsole24ore.com/,7
+https://open.spotify.com/,7
 https://podcasts.apple.com/,7
 https://primatreviglio.it/,7
 https://quotidianodibari.it/,7
@@ -1093,7 +1094,6 @@ https://manewspiceno.it/,6
 https://maremmanews.it/,6
 https://moveoncalabria.it/,6
 https://newsmondo.it/,6
-https://open.spotify.com/,6
 https://orvietosi.it/,6
 https://pariopportunita.provincia.bz.it/,6
 https://portalegiovani.comune.fi.it/,6
@@ -5190,6 +5190,7 @@ https://www.magaze.it/,1
 https://www.magevola.it/,1
 https://www.magherno.it/,1
 https://www.maiorinews.it/,1
+https://www.maipiuviolenzainfinita.it/,1
 https://www.maisonantigone.it/,1
 https://www.majoranacascino.edu.it/,1
 https://www.malaspina.edu.it/,1
