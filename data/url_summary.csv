@@ -1,8 +1,8 @@
 fonte,count
 https://www.youtube.com/,1717
-https://www.facebook.com/,1116
+https://www.facebook.com/,1117
 https://www.virgilio.it/,1084
-https://x.com/,850
+https://x.com/,851
 https://www.ilrestodelcarlino.it/,675
 https://www.ansa.it/,657
 https://www.rainews.it/,640
@@ -26,7 +26,7 @@ https://www.corriere.it/,176
 https://www.unionesarda.it/,175
 https://www.dailymotion.com/,172
 https://www.tgcom24.mediaset.it/,169
-https://www.ilmessaggero.it/,165
+https://www.ilmessaggero.it/,166
 https://www.ilmattino.it/,161
 https://www.ilsole24ore.com/,161
 https://ilmanifesto.it/,157
@@ -44,8 +44,8 @@ https://www.ilgiornale.it/,131
 https://www.editorialedomani.it/,128
 https://it.linkedin.com/,125
 https://www.lagazzettadelmezzogiorno.it/,118
+https://roma.corriere.it/,117
 https://www.palermotoday.it/,117
-https://roma.corriere.it/,116
 https://www.quotidiano.net/,108
 https://www.vanityfair.it/,107
 https://notizie.tiscali.it/,103
@@ -81,9 +81,9 @@ https://www.foggiatoday.it/,67
 https://www.tiktok.com/,67
 https://www.ravennatoday.it/,66
 https://milano.corriere.it/,64
+https://www.reddit.com/,64
 https://partitodemocratico.it/,63
 https://www.giornalelavoce.it/,63
-https://www.reddit.com/,63
 https://www.agenzianova.com/,62
 https://www.lapresse.it/,60
 https://www.torinotoday.it/,60
@@ -127,13 +127,13 @@ https://www.reggiotoday.it/,47
 https://www.veneziatoday.it/,47
 https://comunicazione.camera.it/,46
 https://www.cesenatoday.it/,46
+https://www.ildolomiti.it/,46
 https://www.laregione.ch/,46
 https://www.malpensa24.it/,46
 https://www.tio.ch/,46
 https://calabria7.news/,45
 https://livesicilia.it/,45
 https://www.agrigentonotizie.it/,45
-https://www.ildolomiti.it/,45
 https://www.tempostretto.it/,45
 https://citynotizie.it/,44
 https://www.comune.milano.it/,44
@@ -165,6 +165,7 @@ https://www.vita.it/,40
 https://www.altalex.com/,39
 https://www.centropagina.it/,39
 https://www.corrieredellacalabria.it/,39
+https://www.direcontrolaviolenza.it/,39
 https://www.ilgerme.it/,39
 https://www.iltrafiletto.it/,39
 https://www.ladige.it/,39
@@ -179,7 +180,6 @@ https://qds.it/,38
 https://video.corriere.it/,38
 https://www.avellinotoday.it/,38
 https://www.chietitoday.it/,38
-https://www.direcontrolaviolenza.it/,38
 https://www.pressenza.com/,38
 https://www.senato.it/,38
 https://www.umbria24.it/,38
@@ -1093,6 +1093,7 @@ https://www.uslsudest.toscana.it/,7
 https://www.valored.it/,7
 https://www.viverefermo.it/,7
 https://www.vocedellascuola.it/,7
+https://www.welforum.it/,7
 https://www.zai.net/,7
 https://appunti.substack.com/,6
 https://bitontolive.it/,6
@@ -1273,7 +1274,6 @@ https://www.vetrinatv.it/,6
 https://www.voceapuana.com/,6
 https://www.volonwrite.org/,6
 https://www.vulturenews.net/,6
-https://www.welforum.it/,6
 https://www.youfoggia.com/,6
 https://zetaluiss.it/,6
 http://www.laregione.ch/,5
@@ -1588,6 +1588,7 @@ https://www.art-news.it/,4
 https://www.ascomtorino.it/,4
 https://www.asianews.it/,4
 https://www.assocarenews.it/,4
+https://www.asst-mantova.it/,4
 https://www.ats-valpadana.it/,4
 https://www.avvisopubblico.it/,4
 https://www.balarm.it/,4
@@ -1940,7 +1941,6 @@ https://www.artestv.it/,3
 https://www.assisinews.it/,3
 https://www.assostampasicilia.it/,3
 https://www.asst-lodi.it/,3
-https://www.asst-mantova.it/,3
 https://www.asst-settelaghi.it/,3
 https://www.audible.it/,3
 https://www.augustanews.it/,3
@@ -2430,6 +2430,7 @@ https://jant.it/,2
 https://jusdi.it/,2
 https://lacittadisotto.org/,2
 https://lagiustizia.net/,2
+https://lanovitaonline.it/,2
 https://lara.viva.cnr.it/,2
 https://latestata.it/,2
 https://latorreoggi.it/,2
@@ -3722,7 +3723,6 @@ https://lamaddalena.tv/,1
 https://lamagistratura.it/,1
 https://lamentepensante.com/,1
 https://lanazione.cronistinclasse.it/,1
-https://lanovitaonline.it/,1
 https://lanuovaferrara.gelocal.it/,1
 https://lanuovariviera.it/,1
 https://lapennaonline.it/,1
@@ -3868,6 +3868,7 @@ https://opimilomb.it/,1
 https://ora.uniurb.it/,1
 https://ordineavvocatifoggia.it/,1
 https://ordineavvocatisr.com/,1
+https://ordineavvocativelletri.it/,1
 https://ordinefarmacisti.torino.it/,1
 https://ordinemedicilatina.it/,1
 https://ordineostetricheudpn.it/,1
@@ -4179,6 +4180,7 @@ https://www.aeroportodinapoli.it/,1
 https://www.affarinternazionali.it/,1
 https://www.affariregionali.it/,1
 https://www.africaeaffari.it/,1
+https://www.agagiarre.it/,1
 https://www.agenda17.it/,1
 https://www.agendabrindisi.it/,1
 https://www.agensocial.it/,1
