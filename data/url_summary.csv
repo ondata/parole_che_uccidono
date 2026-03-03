@@ -1,19 +1,19 @@
 fonte,count
 https://www.youtube.com/,1750
-https://www.facebook.com/,1178
-https://www.virgilio.it/,1095
+https://www.facebook.com/,1180
+https://www.virgilio.it/,1096
 https://x.com/,868
 https://www.ilrestodelcarlino.it/,686
 https://www.ansa.it/,665
 https://www.rainews.it/,652
-https://www.instagram.com/,570
+https://www.instagram.com/,571
 https://www.lanazione.it/,504
 https://tg24.sky.it/,464
 https://www.ilfattoquotidiano.it/,414
 https://www.fanpage.it/,405
 https://www.lastampa.it/,388
 https://www.open.online/,382
-https://www.ilgiorno.it/,339
+https://www.ilgiorno.it/,341
 https://agenparl.eu/,293
 https://www.repubblica.it/,263
 https://m.facebook.com/,225
@@ -40,9 +40,9 @@ https://www.9colonne.it/,141
 https://www.ilgazzettino.it/,140
 https://questure.poliziadistato.it/,137
 https://www.agi.it/,133
-https://www.ilgiornale.it/,132
+https://www.ilgiornale.it/,133
 https://www.editorialedomani.it/,130
-https://it.linkedin.com/,128
+https://it.linkedin.com/,129
 https://roma.corriere.it/,120
 https://www.lagazzettadelmezzogiorno.it/,119
 https://www.palermotoday.it/,118
@@ -97,10 +97,10 @@ https://www.agenziagiornalisticaopinione.it/,58
 https://www.brindisireport.it/,58
 https://www.ecodibergamo.it/,58
 https://www.interno.gov.it/,57
+https://www.gazzettadiparma.it/,56
 https://lespresso.it/,55
 https://luce.lanazione.it/,55
 https://www.espansionetv.it/,55
-https://www.gazzettadiparma.it/,55
 https://www.sanmarinortv.sm/,55
 https://corrieredellumbria.it/,54
 https://www.osservatoreromano.va/,53
@@ -160,6 +160,7 @@ https://www.ilcentro.it/,41
 https://www.ladige.it/,41
 https://www.laquilablog.it/,41
 https://www.vita.it/,41
+https://27esimaora.corriere.it/,40
 https://laguida.it/,40
 https://qds.it/,40
 https://www.avveniredicalabria.it/,40
@@ -170,7 +171,6 @@ https://www.primocanale.it/,40
 https://www.threads.com/,40
 https://www.tp24.it/,40
 https://www.umbria24.it/,40
-https://27esimaora.corriere.it/,39
 https://www.altalex.com/,39
 https://www.centropagina.it/,39
 https://www.chietitoday.it/,39
@@ -209,13 +209,13 @@ https://www.arezzo24.net/,34
 https://www.ilreggino.it/,34
 https://www.latinatoday.it/,34
 https://www.metropolisweb.it/,34
+https://www.pressreader.com/,34
 https://www.trmtv.it/,34
 https://m.cronachemaceratesi.it/,33
 https://www.camera.it/,33
 https://www.famigliacristiana.it/,33
 https://www.ilsecoloxix.it/,33
 https://www.poliziadistato.it/,33
-https://www.pressreader.com/,33
 https://friulisera.it/,32
 https://www.affaritaliani.it/,32
 https://www.africarivista.it/,32
@@ -662,6 +662,7 @@ https://www.quotidianocontribuenti.com/,12
 https://www.quotidianolavoce.it/,12
 https://www.radiolaquila1.it/,12
 https://www.regione.basilicata.it/,12
+https://www.regione.emilia-romagna.it/,12
 https://www.regione.vda.it/,12
 https://www.rete55.it/,12
 https://www.sorrentopress.it/,12
@@ -732,7 +733,6 @@ https://www.radiocittafujiko.it/,11
 https://www.radiolaser.it/,11
 https://www.radiondadurto.org/,11
 https://www.radioroma.it/,11
-https://www.regione.emilia-romagna.it/,11
 https://www.regione.fvg.it/,11
 https://www.rete8.it/,11
 https://www.romasette.it/,11
@@ -886,6 +886,7 @@ https://www.trnews.it/,9
 https://www.ultimavoce.it/,9
 https://www.unicaradio.it/,9
 https://www.unina.it/,9
+https://www.vareseinluce.it/,9
 https://www.victorialibertas.it/,9
 https://www.welfarenetwork.it/,9
 https://www.zarabaza.it/,9
@@ -903,6 +904,7 @@ https://documenti.camera.it/,8
 https://e-tv.it/,8
 https://gazzettadimalta.com/,8
 https://gazzettadiplomatica.it/,8
+https://genovaquotidiana.com/,8
 https://iltirreno.gelocal.it/,8
 https://liguriaday.it/,8
 https://lokkio.it/,8
@@ -982,7 +984,6 @@ https://www.unipr.it/,8
 https://www.unito.it/,8
 https://www.upday.com/,8
 https://www.valdinievoleoggi.it/,8
-https://www.vareseinluce.it/,8
 http://www.umbriadomani.it/,7
 https://andi.it/,7
 https://anief.org/,7
@@ -994,7 +995,6 @@ https://corrieredimaremma.it/,7
 https://crema.laprovinciacr.it/,7
 https://electomagazine.it/,7
 https://futura.news/,7
-https://genovaquotidiana.com/,7
 https://il-catenaccio.it/,7
 https://ilcorriere.net/,7
 https://ilglobo.com/,7
@@ -1235,6 +1235,7 @@ https://www.ingenere.it/,6
 https://www.inprimanews.it/,6
 https://www.irno24.it/,6
 https://www.italiachecambia.org/,6
+https://www.lagazzettadelserchio.net/,6
 https://www.lagazzettadilucca.it/,6
 https://www.lavocedeigiornalisti.com/,6
 https://www.leccenews24.it/,6
@@ -1432,7 +1433,6 @@ https://www.inps.it/,5
 https://www.inquantodonna.it/,5
 https://www.italia2news.it/,5
 https://www.lacapitalenews.it/,5
-https://www.lagazzettadelserchio.net/,5
 https://www.lagazzettadimassaecarrara.net/,5
 https://www.lascuolaoggi.it/,5
 https://www.lavocedellisola.it/,5
@@ -1626,6 +1626,7 @@ https://www.casertasera.com/,4
 https://www.castelvetranoselinunte.it/,4
 https://www.centriantiviolenzaer.it/,4
 https://www.centrostudilivatino.it/,4
+https://www.ciranopost.com/,4
 https://www.cittametropolitana.torino.it/,4
 https://www.civico93.it/,4
 https://www.clessidra2021.it/,4
@@ -1999,7 +2000,6 @@ https://www.chioggianews24.it/,3
 https://www.chioggiatv.it/,3
 https://www.ciakmagazine.it/,3
 https://www.cilentonotizie.it/,3
-https://www.ciranopost.com/,3
 https://www.cirsde.unito.it/,3
 https://www.cislscuola.it/,3
 https://www.cittadinanzattiva.it/,3
@@ -4285,6 +4285,7 @@ https://www.anffas.net/,1
 https://www.angelipress.com/,1
 https://www.annuariomediasport.it/,1
 https://www.anpe.it/,1
+https://www.anpi-vicenza.it/,1
 https://www.anquap.it/,1
 https://www.antenna3.tv/,1
 https://www.antichita.uniroma1.it/,1
@@ -4414,6 +4415,7 @@ https://www.bolognadavivere.com/,1
 https://www.bolzanoquotidiano.it/,1
 https://www.borderliber.it/,1
 https://www.bordighera.tv/,1
+https://www.bpp.it/,1
 https://www.braviautori.it/,1
 https://www.brindisicronaca.it/,1
 https://www.brindisiin.it/,1
@@ -4988,6 +4990,7 @@ https://www.grumonevanonews.com/,1
 https://www.gruppocln.com/,1
 https://www.grupposportivoghisa.it/,1
 https://www.gruppotim.it/,1
+https://www.grusol.it/,1
 https://www.guarascicalabretta.edu.it/,1
 https://www.guidapsicologi.it/,1
 https://www.guidatorino.com/,1
@@ -5481,6 +5484,7 @@ https://www.obiettivoscuola.it/,1
 https://www.occhi.it/,1
 https://www.odcec.pn.it/,1
 https://www.odcecpadova.it/,1
+https://www.odg.toscana.it/,1
 https://www.odgveneto.it/,1
 https://www.odontoiatria33.it/,1
 https://www.officineculturali.net/,1
