@@ -1,11 +1,11 @@
 fonte,count
 https://www.youtube.com/,1798
-https://www.facebook.com/,1286
+https://www.facebook.com/,1287
 https://www.virgilio.it/,1126
-https://x.com/,892
-https://www.ilrestodelcarlino.it/,711
-https://www.ansa.it/,698
-https://www.rainews.it/,675
+https://x.com/,893
+https://www.ilrestodelcarlino.it/,712
+https://www.ansa.it/,701
+https://www.rainews.it/,676
 https://www.instagram.com/,618
 https://www.lanazione.it/,521
 https://tg24.sky.it/,478
@@ -13,7 +13,7 @@ https://www.ilfattoquotidiano.it/,421
 https://www.fanpage.it/,408
 https://www.lastampa.it/,401
 https://www.open.online/,386
-https://www.ilgiorno.it/,345
+https://www.ilgiorno.it/,346
 https://agenparl.eu/,298
 https://www.repubblica.it/,270
 https://m.facebook.com/,225
@@ -48,7 +48,7 @@ https://www.lagazzettadelmezzogiorno.it/,123
 https://roma.corriere.it/,121
 https://www.quotidiano.net/,114
 https://www.agensir.it/,113
-https://www.vanityfair.it/,111
+https://www.vanityfair.it/,112
 https://notizie.tiscali.it/,104
 https://alleyoop.ilsole24ore.com/,100
 https://www.giustiziainsieme.it/,100
@@ -89,10 +89,10 @@ https://www.giornalelavoce.it/,65
 https://partitodemocratico.it/,63
 https://www.torinotoday.it/,63
 https://www.agenziagiornalisticaopinione.it/,62
+https://www.brindisireport.it/,62
 https://www.messinatoday.it/,62
 https://www.perugiatoday.it/,62
 https://www.salernotoday.it/,62
-https://www.brindisireport.it/,61
 https://www.gazzettadiparma.it/,60
 https://www.raiplay.it/,60
 https://www.ilpiacenza.it/,59
@@ -147,6 +147,7 @@ https://www.mattinopadova.it/,45
 https://www.varesenews.it/,45
 https://citynotizie.it/,44
 https://giornalesm.com/,44
+https://www.luccagiovane.it/,44
 https://alessandria.today/,43
 https://infomedianews.com/,43
 https://it.euronews.com/,43
@@ -154,7 +155,6 @@ https://www.elle.com/,43
 https://www.gazzettadimodena.it/,43
 https://www.lanuovacalabria.it/,43
 https://www.laquilablog.it/,43
-https://www.luccagiovane.it/,43
 https://www.parmatoday.it/,43
 https://www.threads.com/,43
 https://www.altoadige.it/,42
@@ -244,13 +244,13 @@ https://tgverona.telenuovo.it/,30
 https://www.change.org/,30
 https://www.pisatoday.it/,30
 https://ilbolive.unipd.it/,29
+https://informareunh.it/,29
 https://thesis.unipd.it/,29
 https://www.firenzetoday.it/,29
 https://www.messaggeroveneto.it/,29
 https://www.mondadoristore.it/,29
 https://www.prealpina.it/,29
 https://www.rovigo.news/,29
-https://informareunh.it/,28
 https://www.cgil.it/,28
 https://www.ekuonews.it/,28
 https://www.libertas.sm/,28
@@ -279,6 +279,7 @@ https://www.spazio50.org/,26
 https://www.swissinfo.ch/,26
 https://www.viterbotoday.it/,26
 https://bologna.repubblica.it/,25
+https://latinatu.it/,25
 https://nelquotidiano.news/,25
 https://norbaonline.it/,25
 https://www.consiglio.regione.fvg.it/pagineinterne//Portale/,25
@@ -289,7 +290,7 @@ https://www.tusciatimes.eu/,25
 https://www.tvsvizzera.it/,25
 https://abruzzosera.it/,24
 https://bari.repubblica.it/,24
-https://latinatu.it/,24
+https://corriereirpinia.it/,24
 https://opinione.it/,24
 https://riforma.it/,24
 https://umbria.tag24.it/,24
@@ -308,7 +309,6 @@ https://www.ravennanotizie.it/,24
 https://www.stampareggiana.it/,24
 https://corrierediarezzo.it/,23
 https://corrieredisiena.it/,23
-https://corriereirpinia.it/,23
 https://genova.repubblica.it/,23
 https://napoli.corriere.it/,23
 https://news-town.it/,23
@@ -331,6 +331,7 @@ https://edunews24.it/,22
 https://ildispaccio.it/,22
 https://ildomaniditalia.eu/,22
 https://trcgiornale.it/,22
+https://www.corrierenazionale.net/,22
 https://www.galluraoggi.it/,22
 https://www.infopal.it/,22
 https://www.internazionale.it/,22
@@ -354,7 +355,6 @@ https://webtv.camera.it/,21
 https://www.calabriainchieste.it/,21
 https://www.chioggianotizie.it/,21
 https://www.corrierecesenate.it/,21
-https://www.corrierenazionale.net/,21
 https://www.immediato.net/,21
 https://www.istat.it/,21
 https://www.leggocassino.it/,21
@@ -511,9 +511,11 @@ https://www.cittametropolitana.bo.it/,15
 https://www.comune.bari.it/,15
 https://www.ilcrotonese.it/,15
 https://www.isnews.it/,15
+https://www.italiaoggi.it/,15
 https://www.lacronaca24.it/,15
 https://www.lameziaterme.it/,15
 https://www.larampa.news/,15
+https://www.lecodelsud.it/,15
 https://www.lecronachelucane.it/,15
 https://www.lombardianotizie.online/,15
 https://www.materanews.net/,15
@@ -556,8 +558,6 @@ https://www.gruppotv7.com/,14
 https://www.ilgallo.it/,14
 https://www.ilpomeriggio.it/,14
 https://www.ilsussidiario.net/,14
-https://www.italiaoggi.it/,14
-https://www.lecodelsud.it/,14
 https://www.mentelocale.it/,14
 https://www.newsrimini.it/,14
 https://www.nuovavenezia.it/,14
@@ -1362,6 +1362,7 @@ https://met.cittametropolitana.fi.it/,5
 https://napolimonitor.it/,5
 https://news.provincia.bz.it/,5
 https://newsdellavalle.com/,5
+https://noidicalabria.it/,5
 https://nonsolocontro.it/,5
 https://old.unipi.it/,5
 https://percorsiconibambini.it/,5
@@ -1580,7 +1581,6 @@ https://marsicalive.it/,4
 https://molfettalive.it/,4
 https://news.fidelityhouse.eu/,4
 https://newsroom24.it/,4
-https://noidicalabria.it/,4
 https://oraquadra.info/,4
 https://polizialocaledigitale.it/,4
 https://poliziamoderna.poliziadistato.it/,4
@@ -2161,6 +2161,7 @@ https://www.lanotteonline.it/,3
 https://www.lasettimanatv.it/,3
 https://www.latinanews.eu/,3
 https://www.latuaetruria.it/,3
+https://www.lavalsusa.it/,3
 https://www.lavoceassociazioneculturaleasud.it/,3
 https://www.lavocedellazio.it/,3
 https://www.lavocedelvesuvio.it/,3
@@ -2475,6 +2476,7 @@ https://ilnuovoonline.it/,2
 https://iltag.it/,2
 https://ilticino.it/,2
 https://iltime.it/,2
+https://imperiapost.it/,2
 https://indicatoreweb.it/,2
 https://infosannio.com/,2
 https://innovationisland.it/,2
@@ -2966,7 +2968,6 @@ https://www.lascimmiapensa.com/,2
 https://www.lasiciliaweb.it/,2
 https://www.latinapress.it/,2
 https://www.latinaquotidiano.it/,2
-https://www.lavalsusa.it/,2
 https://www.lavocedellevoci.it/,2
 https://www.lavocediimperia.it/,2
 https://www.lavocedinovara.com/,2
@@ -3736,7 +3737,6 @@ https://ilregno.it/,1
 https://ilterritorio.net/,1
 https://iltirrenico.com/,1
 https://imagazine.it/,1
-https://imperiapost.it/,1
 https://in-format.it/,1
 https://incaneva.it/,1
 https://indico.ict.inaf.it/,1
