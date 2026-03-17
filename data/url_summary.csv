@@ -1,6 +1,6 @@
 fonte,count
-https://www.youtube.com/,1816
-https://www.facebook.com/,1328
+https://www.youtube.com/,1817
+https://www.facebook.com/,1329
 https://www.virgilio.it/,1151
 https://x.com/,908
 https://www.ilrestodelcarlino.it/,724
@@ -11,7 +11,7 @@ https://www.lanazione.it/,530
 https://tg24.sky.it/,491
 https://www.ilfattoquotidiano.it/,428
 https://www.fanpage.it/,411
-https://www.lastampa.it/,406
+https://www.lastampa.it/,407
 https://www.open.online/,387
 https://www.ilgiorno.it/,349
 https://agenparl.eu/,300
@@ -32,8 +32,8 @@ https://www.ilsole24ore.com/,167
 https://ilmanifesto.it/,165
 https://stream24.ilsole24ore.com/,163
 https://www.msn.com/,154
+https://www.ilgazzettino.it/,151
 https://www.orizzontescuola.it/,151
-https://www.ilgazzettino.it/,150
 https://www.iltirreno.it/,150
 https://www.avvenire.it/,148
 https://www.9colonne.it/,145
@@ -90,9 +90,9 @@ https://www.lapresse.it/,66
 https://milano.corriere.it/,65
 https://partitodemocratico.it/,63
 https://www.perugiatoday.it/,63
+https://www.salernotoday.it/,63
 https://www.torinotoday.it/,63
 https://www.brindisireport.it/,62
-https://www.salernotoday.it/,62
 https://www.raiplay.it/,61
 https://www.ecodibergamo.it/,60
 https://www.gazzettadiparma.it/,60
@@ -149,6 +149,7 @@ https://citynotizie.it/,44
 https://giornalesm.com/,44
 https://it.euronews.com/,44
 https://www.corrieredellacalabria.it/,44
+https://www.lanuovacalabria.it/,44
 https://www.laquilablog.it/,44
 https://www.luccagiovane.it/,44
 https://www.threads.com/,44
@@ -156,7 +157,6 @@ https://alessandria.today/,43
 https://infomedianews.com/,43
 https://www.elle.com/,43
 https://www.gazzettadimodena.it/,43
-https://www.lanuovacalabria.it/,43
 https://www.parmatoday.it/,43
 https://qds.it/,42
 https://www.altoadige.it/,42
@@ -795,6 +795,7 @@ https://piazzamartirinews.com/,10
 https://radiogold.it/,10
 https://startupitalia.eu/,10
 https://ufficiostampabasilicata.it/,10
+https://video.milanofinanza.it/,10
 https://videoinformazioni.com/,10
 https://wordnews.it/,10
 https://www.anaao.it/,10
@@ -872,7 +873,6 @@ https://salerno.corriere.it/,9
 https://sienanews.it/,9
 https://ticinonotizie.it/,9
 https://toscana.news-24.it/,9
-https://video.milanofinanza.it/,9
 https://www.abruzzoinvideo.tv/,9
 https://www.aduc.it/,9
 https://www.aifa.gov.it/,9
@@ -1055,6 +1055,7 @@ https://primaalessandria.it/,7
 https://primasettimo.it/,7
 https://quotidianodibari.it/,7
 https://radiolina.it/,7
+https://radionbc.it/,7
 https://sapere.virgilio.it/,7
 https://sienapost.it/,7
 https://soundcloud.com/,7
@@ -1195,7 +1196,6 @@ https://primasaronno.it/,6
 https://primavicenza.it/,6
 https://quartieri.comune.fi.it/,6
 https://radioblackout.org/,6
-https://radionbc.it/,6
 https://rsi.ch/,6
 https://spettacolomusicasport.com/,6
 https://teleregionetv.it/,6
@@ -1416,6 +1416,7 @@ https://www.centriantiviolenzaer.it/,5
 https://www.centrostudilivatino.it/,5
 https://www.chiamamicitta.it/,5
 https://www.ciavula.it/,5
+https://www.cilentonotizie.it/,5
 https://www.cityonelamezia.it/,5
 https://www.comune.arezzo.it/,5
 https://www.comune.cremona.it/,5
@@ -1516,6 +1517,7 @@ https://www.pugliain.net/,5
 https://www.quirinale.it/,5
 https://www.quotidianodiragusa.it/,5
 https://www.quotidianopiu.it/,5
+https://www.radiobrunobrescia.it/,5
 https://www.radiopnr.it/,5
 https://www.radiosapienza.net/,5
 https://www.regione.calabria.it/,5
@@ -1670,7 +1672,6 @@ https://www.carabinierinsc.it/,4
 https://www.casadelledonneparma.it/,4
 https://www.castelvetranoselinunte.it/,4
 https://www.cgilreggioemilia.it/,4
-https://www.cilentonotizie.it/,4
 https://www.ciranopost.com/,4
 https://www.cittametropolitana.torino.it/,4
 https://www.civico93.it/,4
@@ -1793,7 +1794,6 @@ https://www.quasimezzogiorno.com/,4
 https://www.questaseratv.it/,4
 https://www.quilivorno.it/,4
 https://www.radioazzurra.news/,4
-https://www.radiobrunobrescia.it/,4
 https://www.radiodigiesse.net/,4
 https://www.radioglox.it/,4
 https://www.ragusanews.com/,4
@@ -6081,6 +6081,7 @@ https://www.uniparthenope.it/,1
 https://www.unirc.it/,1
 https://www.unisalento.it/,1
 https://www.unite.it/,1
+https://www.unitedstatesofitaly.it/,1
 https://www.unitelmasapienza.it/,1
 https://www.universita.it/,1
 https://www.unsognoitaliano.eu/,1
