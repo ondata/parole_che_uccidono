@@ -1,6 +1,6 @@
 fonte,count
 https://www.youtube.com/,1861
-https://www.facebook.com/,1431
+https://www.facebook.com/,1432
 https://www.virgilio.it/,1181
 https://x.com/,938
 https://www.ilrestodelcarlino.it/,743
@@ -38,8 +38,8 @@ https://www.iltirreno.it/,151
 https://www.orizzontescuola.it/,151
 https://www.9colonne.it/,148
 https://www.milanotoday.it/,148
+https://www.ilgiornale.it/,146
 https://questure.poliziadistato.it/,145
-https://www.ilgiornale.it/,145
 https://www.agi.it/,142
 https://www.editorialedomani.it/,139
 https://it.linkedin.com/,136
@@ -55,7 +55,7 @@ https://roma.repubblica.it/,103
 https://www.giustiziainsieme.it/,103
 https://www.iodonna.it/,100
 https://www.rsi.ch/,100
-https://www.tecnicadellascuola.it/,97
+https://www.tecnicadellascuola.it/,98
 https://milano.repubblica.it/,93
 https://torinocronaca.it/,91
 https://prefettura.interno.gov.it/,90
@@ -74,9 +74,9 @@ https://www.larena.it/,75
 https://www.napolitoday.it/,75
 https://www.sistemapenale.it/,75
 https://www.foggiatoday.it/,74
+https://www.agenzianova.com/,73
 https://www.la7.it/,73
 https://www.agenziagiornalisticaopinione.it/,72
-https://www.agenzianova.com/,72
 https://www.radioradicale.it/,72
 https://www.reddit.com/,72
 https://www.ecodibergamo.it/,71
@@ -507,6 +507,7 @@ https://www.lecronachelucane.it/,16
 https://www.messinaindiretta.it/,16
 https://www.osservatoriofamiglia.it/,16
 https://www.questionegiustizia.it/,16
+https://www.radiolombardia.it/,16
 https://www.reggiotv.it/,16
 https://www.stampaparlamento.it/,16
 https://www.telemia.it/,16
@@ -549,7 +550,6 @@ https://www.orticalab.it/,15
 https://www.oxfamitalia.org/,15
 https://www.quibrescia.it/,15
 https://www.radiobullets.com/,15
-https://www.radiolombardia.it/,15
 https://www.regione.emilia-romagna.it/,15
 https://www.scuolalink.it/,15
 https://www.startmag.it/,15
@@ -733,6 +733,7 @@ https://www.youtg.net/,12
 http://met.cittametropolitana.fi.it/,11
 https://cinecittanews.it/,11
 https://cultura.comune.fi.it/,11
+https://e-tv.it/,11
 https://fondazionefeltrinelli.it/,11
 https://gds.it/,11
 https://giornalemio.it/,11
@@ -805,7 +806,6 @@ https://capocronaca.it/,10
 https://cesvmessina.org/,10
 https://coriglianocalabro.it/,10
 https://cronacabianca.eu/,10
-https://e-tv.it/,10
 https://electomagazine.it/,10
 https://futura.news/,10
 https://ilglobo.com/,10
@@ -6156,6 +6156,7 @@ https://www.ulisseonline.it/,1
 https://www.ulss.tv.it/,1
 https://www.umbria360.it/,1
 https://www.umbriaeconomia.it/,1
+https://www.umbriaecultura.it/,1
 https://www.umbriasocial.it/,1
 https://www.unibz.it/,1
 https://www.unicredit.it/,1
