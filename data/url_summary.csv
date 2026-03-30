@@ -2,12 +2,12 @@ fonte,count
 https://www.youtube.com/,1865
 https://www.facebook.com/,1442
 https://www.virgilio.it/,1184
-https://x.com/,943
+https://x.com/,944
 https://www.ilrestodelcarlino.it/,746
 https://www.ansa.it/,743
 https://www.rainews.it/,709
-https://www.instagram.com/,690
-https://www.lanazione.it/,559
+https://www.instagram.com/,691
+https://www.lanazione.it/,560
 https://tg24.sky.it/,509
 https://www.ilfattoquotidiano.it/,440
 https://www.fanpage.it/,429
@@ -25,7 +25,7 @@ https://www.adnkronos.com/,195
 https://www.unionesarda.it/,193
 https://www.corriere.it/,191
 https://www.dailymotion.com/,190
-https://www.ilmessaggero.it/,181
+https://www.ilmessaggero.it/,182
 https://www.tgcom24.mediaset.it/,178
 https://www.ilsole24ore.com/,176
 https://www.ilmattino.it/,173
@@ -311,6 +311,7 @@ https://www.agenziacult.it/,25
 https://www.articolo21.org/,25
 https://www.informazione.it/,25
 https://www.ravennanotizie.it/,25
+https://www.sardegnagol.eu/,25
 https://www.sassaritoday.it/,25
 https://www.zazoom.it/,25
 https://www2.comune.milano.it/,25
@@ -324,10 +325,10 @@ https://www.castellinotizie.it/,24
 https://www.lafionda.com/,24
 https://www.legnanonews.com/,24
 https://www.persemprenews.it/,24
-https://www.sardegnagol.eu/,24
 https://corrierediarezzo.it/,23
 https://corrierefiorentino.corriere.it/,23
 https://genova.repubblica.it/,23
+https://primamonza.it/,23
 https://superando.it/,23
 https://tgpadova.telenuovo.it/,23
 https://www.calabriainchieste.it/,23
@@ -348,7 +349,6 @@ https://euroborsa.it/,22
 https://ildomaniditalia.eu/,22
 https://iltorinese.it/,22
 https://italia-informa.com/,22
-https://primamonza.it/,22
 https://trcgiornale.it/,22
 https://www.corrierecesenate.it/,22
 https://www.corrierenazionale.net/,22
@@ -922,9 +922,11 @@ https://www.formatrieti.it/,9
 https://www.giornaleadige.it/,9
 https://www.ilgiunco.net/,9
 https://www.ilgolfo24.it/,9
+https://www.ilmercoledi.news/,9
 https://www.intersos.org/,9
 https://www.ipsoa.it/,9
 https://www.juorno.it/,9
+https://www.lagone.it/,9
 https://www.laprovinciadivarese.it/,9
 https://www.lnd.it/,9
 https://www.lospecialegiornale.it/,9
@@ -1015,14 +1017,12 @@ https://www.giornaledipuglia.com/,8
 https://www.governo.it/,8
 https://www.ildomanibleo.com/,8
 https://www.ilmediano.com/,8
-https://www.ilmercoledi.news/,8
 https://www.ilriformista.it/,8
 https://www.insalutenews.it/,8
 https://www.insidertrend.it/,8
 https://www.irno24.it/,8
 https://www.italiaonline.news/,8
 https://www.itvonline.news/,8
-https://www.lagone.it/,8
 https://www.lamescolanza.com/,8
 https://www.lamiafinanza.it/,8
 https://www.lavitacattolica.it/,8
@@ -1052,6 +1052,7 @@ https://www.regione.puglia.it/,8
 https://www.rivistastudio.com/,8
 https://www.striscialanotizia.mediaset.it/,8
 https://www.telebelluno.it/,8
+https://www.tempi.it/,8
 https://www.terranostranews.it/,8
 https://www.terzogiornale.it/,8
 https://www.toscana-notizie.it/,8
@@ -1184,7 +1185,6 @@ https://www.sospsiche.it/,7
 https://www.stiletv.it/,7
 https://www.tcftv.it/,7
 https://www.telesudweb.it/,7
-https://www.tempi.it/,7
 https://www.torinoclick.it/,7
 https://www.toscanaoggi.it/,7
 https://www.uilca.it/,7
