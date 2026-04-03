@@ -1,6 +1,6 @@
 fonte,count
 https://www.youtube.com/,1883
-https://www.facebook.com/,1474
+https://www.facebook.com/,1475
 https://www.virgilio.it/,1189
 https://x.com/,952
 https://www.ilrestodelcarlino.it/,751
@@ -27,7 +27,7 @@ https://www.corriere.it/,194
 https://www.dailymotion.com/,191
 https://www.ilmessaggero.it/,182
 https://www.tgcom24.mediaset.it/,182
-https://www.ilsole24ore.com/,179
+https://www.ilsole24ore.com/,180
 https://www.ilmattino.it/,174
 https://ilmanifesto.it/,170
 https://stream24.ilsole24ore.com/,169
@@ -75,11 +75,11 @@ https://www.giornaledibrescia.it/,76
 https://www.larena.it/,76
 https://www.napolitoday.it/,75
 https://www.foggiatoday.it/,74
+https://www.reddit.com/,74
 https://www.agenziagiornalisticaopinione.it/,73
 https://www.agenzianova.com/,73
 https://www.genovatoday.it/,73
 https://www.raiplay.it/,73
-https://www.reddit.com/,73
 https://www.ilpost.it/,72
 https://www.radioradicale.it/,72
 https://www.ravennatoday.it/,72
@@ -142,10 +142,10 @@ https://www.tio.ch/,49
 https://www.uisp.it/,49
 https://calabria7.news/,48
 https://www.comune.milano.it/,48
+https://www.lasicilia.it/,48
 https://www.mattinopadova.it/,48
 https://www.varesenews.it/,48
 https://qds.it/,47
-https://www.lasicilia.it/,47
 https://comunicazione.camera.it/,46
 https://it.euronews.com/,46
 https://www.cremonaoggi.it/,46
@@ -382,6 +382,7 @@ https://www.quotidianopiemontese.it/,21
 https://www.reggionline.com/,21
 https://www.regione.umbria.it/,21
 https://www.studocu.com/,21
+https://www.trentinotv.it/,21
 https://www.tv2000.it/,21
 https://cn24tv.it/,20
 https://consiglio.regione.umbria.it/,20
@@ -407,7 +408,6 @@ https://www.quotidianodipuglia.it/,20
 https://www.raiplaysound.it/,20
 https://www.sardegnalive.net/,20
 https://www.simcarabinieri.it/,20
-https://www.trentinotv.it/,20
 https://www.uniroma1.it/,20
 https://abruzzoweb.it/,19
 https://agr.regione.basilicata.it/,19
@@ -1622,6 +1622,7 @@ https://bandosubito.it/,4
 https://barletta.news24.city/,4
 https://cagliarinews.it/,4
 https://caseper.it/,4
+https://casertace.net/,4
 https://comune.messina.it/,4
 https://comunicacity.net/,4
 https://comunicazioneinform.it/,4
@@ -1955,7 +1956,6 @@ https://bontworry.org/,3
 https://bookblog.salonelibro.it/,3
 https://brand-news.it/,3
 https://cadmi.org/,3
-https://casertace.net/,3
 https://catt.ch/,3
 https://centroelenacornaro.unipd.it/,3
 https://chiaraeditrice.com/,3
@@ -5744,6 +5744,7 @@ https://www.orabuca.it/,1
 https://www.oratoriofilago.org/,1
 https://www.ordavvsa.it/,1
 https://www.ordfarmbo.it/,1
+https://www.ordineavvocatibergamo.it/,1
 https://www.ordineavvocaticaltagirone.it/,1
 https://www.ordineavvocaticassino.it/,1
 https://www.ordineavvocatichieti.it/,1
