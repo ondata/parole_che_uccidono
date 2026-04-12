@@ -1,13 +1,13 @@
 fonte,count
 https://www.youtube.com/,1918
-https://www.facebook.com/,1552
+https://www.facebook.com/,1554
 https://www.virgilio.it/,1220
-https://x.com/,972
-https://www.ilrestodelcarlino.it/,764
+https://x.com/,973
+https://www.ilrestodelcarlino.it/,767
 https://www.ansa.it/,759
 https://www.rainews.it/,733
 https://www.instagram.com/,732
-https://www.lanazione.it/,579
+https://www.lanazione.it/,580
 https://tg24.sky.it/,521
 https://www.ilfattoquotidiano.it/,460
 https://www.fanpage.it/,446
@@ -22,7 +22,7 @@ https://www.today.it/,219
 https://mediasetinfinity.mediaset.it/,217
 https://www.romatoday.it/,205
 https://www.corriere.it/,201
-https://www.dailymotion.com/,199
+https://www.dailymotion.com/,201
 https://www.adnkronos.com/,198
 https://www.unionesarda.it/,198
 https://www.ilmessaggero.it/,188
@@ -32,7 +32,7 @@ https://www.ilmattino.it/,180
 https://ilmanifesto.it/,171
 https://stream24.ilsole24ore.com/,170
 https://www.avvenire.it/,163
-https://www.ilgazzettino.it/,159
+https://www.ilgazzettino.it/,160
 https://www.iltirreno.it/,155
 https://www.msn.com/,155
 https://www.orizzontescuola.it/,152
@@ -59,12 +59,12 @@ https://milano.repubblica.it/,99
 https://torinocronaca.it/,98
 https://www.tecnicadellascuola.it/,98
 https://prefettura.interno.gov.it/,97
-https://www.soroptimist.it/,90
+https://www.soroptimist.it/,91
 https://www.bolognatoday.it/,87
 https://www.lanuovasardegna.it/,87
 https://www.messinatoday.it/,87
 https://www.ilnordest.it/,86
-https://www.lapiazzaweb.it/,85
+https://www.lapiazzaweb.it/,86
 https://www.sistemapenale.it/,85
 https://www.agenziagiornalisticaopinione.it/,82
 https://www.greenme.it/,82
@@ -76,8 +76,8 @@ https://www.reddit.com/,79
 https://www.napolitoday.it/,78
 https://tg.la7.it/,77
 https://www.giornaledibrescia.it/,77
+https://www.raiplay.it/,77
 https://www.foggiatoday.it/,76
-https://www.raiplay.it/,76
 https://www.genovatoday.it/,75
 https://www.ravennatoday.it/,74
 https://www.agenzianova.com/,73
@@ -119,6 +119,7 @@ https://www.antennasud.com/,55
 https://www.sanmarinortv.sm/,55
 https://www.malpensa24.it/,54
 https://buonasera24.it/,53
+https://corrieredibologna.corriere.it/,53
 https://livesicilia.it/,53
 https://qds.it/,53
 https://www.cdt.ch/,53
@@ -128,7 +129,6 @@ https://www.lidentita.it/,53
 https://www.pointofnews.it/,53
 https://www.statoquotidiano.it/,53
 https://www.veneziatoday.it/,53
-https://corrieredibologna.corriere.it/,52
 https://napoli.repubblica.it/,52
 https://www.uisp.it/,52
 https://www.castedduonline.it/,51
@@ -160,6 +160,7 @@ https://www.primocanale.it/,46
 https://www.rtl.it/,46
 https://www.threads.com/,46
 https://giornalesm.com/,45
+https://www.ilreggino.it/,45
 https://www.lanuovacalabria.it/,45
 https://www.laquilablog.it/,45
 https://www.libero.it/,45
@@ -170,7 +171,6 @@ https://www.baritoday.it/,44
 https://www.chietitoday.it/,44
 https://www.ferraratoday.it/,44
 https://www.ilcentro.it/,44
-https://www.ilreggino.it/,44
 https://www.lecceprima.it/,44
 https://alessandria.today/,43
 https://video.corriere.it/,43
@@ -192,6 +192,7 @@ https://www.altalex.com/,41
 https://www.gazzettadireggio.it/,41
 https://www.ilgiornaledivicenza.it/,41
 https://www.pressenza.com/,41
+https://www.pressreader.com/,41
 https://www.riminitoday.it/,41
 https://www.sulpanaro.net/,41
 https://unionemonregalese.it/,40
@@ -199,7 +200,6 @@ https://www.avveniredicalabria.it/,40
 https://www.modenatoday.it/,40
 https://www.monzatoday.it/,40
 https://www.notizie.it/,40
-https://www.pressreader.com/,40
 https://www.trevisotoday.it/,40
 https://messina.gazzettadelsud.it/,39
 https://www.bresciaoggi.it/,39
@@ -288,6 +288,7 @@ https://www.intoscana.it/,28
 https://www.latinaoggi.eu/,28
 https://www.tusciatimes.eu/,28
 https://www.tvsvizzera.it/,28
+https://www.viterbotoday.it/,28
 https://opinione.it/,27
 https://telenorba.it/,27
 https://www.calabriadirettanews.com/,27
@@ -299,7 +300,6 @@ https://www.ilfoglio.it/,27
 https://www.imgpress.it/,27
 https://www.minori.gov.it/,27
 https://www.siracusaoggi.it/,27
-https://www.viterbotoday.it/,27
 http://www.msn.com/,26
 https://bari.repubblica.it/,26
 https://ildispaccio.it/,26
@@ -4263,6 +4263,7 @@ https://servizi.comune.battipaglia.sa.it/,1
 https://servizi.comune.milano.it/,1
 https://servizi2.comune.vicenza.it/,1
 https://servizioadomicilio.substack.com/,1
+https://serviziocivile.regione.puglia.it/,1
 https://sestante.tv/,1
 https://shop-qa.barnesandnoble.com/,1
 https://shop.adaci.it/,1
@@ -5817,6 +5818,7 @@ https://www.ordinedeimedici.cb.it/,1
 https://www.ordinefarmacistisavona.it/,1
 https://www.ordinemedici.brescia.it/,1
 https://www.ordinemedici.piacenza.it/,1
+https://www.ordinemediciap.it/,1
 https://www.ordinemedicisondrio.it/,1
 https://www.ordineostetricipalermo.it/,1
 https://www.ordineprofessionisanitariecuneo.org/,1
