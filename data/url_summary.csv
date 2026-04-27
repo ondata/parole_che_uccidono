@@ -1,14 +1,14 @@
 fonte,count
 https://www.youtube.com/,1967
-https://www.facebook.com/,1698
-https://www.virgilio.it/,1266
+https://www.facebook.com/,1699
+https://www.virgilio.it/,1267
 https://x.com/,1026
 https://www.ansa.it/,801
 https://www.ilrestodelcarlino.it/,788
 https://www.instagram.com/,770
 https://www.rainews.it/,761
-https://www.lanazione.it/,600
-https://tg24.sky.it/,550
+https://www.lanazione.it/,601
+https://tg24.sky.it/,551
 https://www.ilfattoquotidiano.it/,477
 https://www.lastampa.it/,472
 https://www.fanpage.it/,463
@@ -51,8 +51,8 @@ https://roma.corriere.it/,128
 https://www.quotidiano.net/,124
 https://www.vanityfair.it/,124
 https://notizie.tiscali.it/,115
-https://www.giustiziainsieme.it/,114
-https://www.rsi.ch/,112
+https://www.giustiziainsieme.it/,115
+https://www.rsi.ch/,113
 https://alleyoop.ilsole24ore.com/,109
 https://milano.repubblica.it/,105
 https://prefettura.interno.gov.it/,105
@@ -154,13 +154,13 @@ https://it.euronews.com/,48
 https://www.comune.milano.it/,48
 https://www.ilreggino.it/,48
 https://www.lanuovacalabria.it/,48
+https://www.libero.it/,48
 https://www.parmatoday.it/,48
 https://www.rtl.it/,48
 https://www.threads.com/,48
 https://www.umbria24.it/,48
 https://www.cremonaoggi.it/,47
 https://www.gazzettadimodena.it/,47
-https://www.libero.it/,47
 https://www.primocanale.it/,47
 https://www.tp24.it/,47
 https://27esimaora.corriere.it/,46
@@ -273,6 +273,7 @@ https://www.stampareggiana.it/,31
 https://www.viterbotoday.it/,31
 http://www.comune.torino.it/,30
 https://bari.repubblica.it/,30
+https://libreriamo.it/,30
 https://telenord.it/,30
 https://www.ilcittadino.it/,30
 https://www.messaggeroveneto.it/,30
@@ -280,7 +281,6 @@ https://www.quotidianosanita.it/,30
 https://www.rai.it/,30
 https://www.sassaritoday.it/,30
 https://gazzettadelsud.it/,29
-https://libreriamo.it/,29
 https://live.comune.venezia.it/,29
 https://mantovauno.it/,29
 https://nelquotidiano.news/,29
@@ -1603,6 +1603,7 @@ https://www.lacapitalenews.it/,5
 https://www.lagazzettadimassaecarrara.net/,5
 https://www.laprovinciakr.it/,5
 https://www.lascuolaoggi.it/,5
+https://www.laspunta.it/,5
 https://www.lavocedellisola.it/,5
 https://www.leccecronaca.it/,5
 https://www.lecceoggi.com/,5
@@ -1871,7 +1872,6 @@ https://www.lanotiziagiornale.it/,4
 https://www.laprovinciadelsulcisiglesiente.com/,4
 https://www.laprovinciaonline.info/,4
 https://www.lasettimanatv.it/,4
-https://www.laspunta.it/,4
 https://www.latinanews.eu/,4
 https://www.lavalsusa.it/,4
 https://www.lavoce.it/,4
@@ -5161,6 +5161,7 @@ https://www.dottorato.it/,1
 https://www.drbooks.it/,1
 https://www.dsps.unifi.it/,1
 https://www.ecclesiadei.it/,1
+https://www.ecmfactory.it/,1
 https://www.ecodelcinema.com/,1
 https://www.ecodisalerno.com/,1
 https://www.ecoditoscana.it/,1
