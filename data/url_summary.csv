@@ -1,6 +1,6 @@
 fonte,count
-https://www.youtube.com/,1976
-https://www.facebook.com/,1713
+https://www.youtube.com/,1977
+https://www.facebook.com/,1714
 https://www.virgilio.it/,1275
 https://x.com/,1035
 https://www.ansa.it/,811
@@ -9,11 +9,11 @@ https://www.instagram.com/,774
 https://www.rainews.it/,768
 https://www.lanazione.it/,604
 https://tg24.sky.it/,553
-https://www.ilfattoquotidiano.it/,479
+https://www.ilfattoquotidiano.it/,480
 https://www.lastampa.it/,473
 https://www.fanpage.it/,466
-https://www.open.online/,409
-https://www.ilgiorno.it/,384
+https://www.open.online/,410
+https://www.ilgiorno.it/,385
 https://agenparl.eu/,306
 https://www.repubblica.it/,299
 https://www.leggo.it/,241
@@ -44,8 +44,8 @@ https://it.linkedin.com/,151
 https://www.agi.it/,147
 https://www.editorialedomani.it/,146
 https://www.lagazzettadelmezzogiorno.it/,140
+https://www.agensir.it/,136
 https://www.palermotoday.it/,136
-https://www.agensir.it/,135
 https://roma.repubblica.it/,130
 https://roma.corriere.it/,129
 https://www.quotidiano.net/,124
@@ -82,7 +82,7 @@ https://www.giornaledibrescia.it/,79
 https://www.ecodibergamo.it/,78
 https://www.ravennatoday.it/,78
 https://www.gazzettadiparma.it/,77
-https://www.radioradicale.it/,76
+https://www.radioradicale.it/,77
 https://it.cibercuba.com/,75
 https://www.agenzianova.com/,75
 https://www.ilpost.it/,74
@@ -257,6 +257,7 @@ https://www.change.org/,32
 https://www.comune.roma.it/,32
 https://www.ekuonews.it/,32
 https://www.immediato.net/,32
+https://www.labottegadelbarbieri.org/,32
 https://www.newtuscia.it/,32
 https://corriereirpinia.it/,31
 https://ilbolive.unipd.it/,31
@@ -264,7 +265,6 @@ https://lamilano.it/,31
 https://latinatu.it/,31
 https://www.firstcisl.it/,31
 https://www.giurisprudenzapenale.com/,31
-https://www.labottegadelbarbieri.org/,31
 https://www.laprovinciacv.it/,31
 https://www.liberoquotidiano.it/,31
 https://www.mondadoristore.it/,31
@@ -349,6 +349,7 @@ https://www.gnewsonline.it/,24
 https://www.lacapitale.it/,24
 https://www.lindipendente.online/,24
 https://www.persemprenews.it/,24
+https://www.savethechildren.it/,24
 https://www.ternitoday.it/,24
 https://www.tv2000.it/,24
 https://corrierediarezzo.it/,23
@@ -366,7 +367,6 @@ https://www.marieclaire.it/,23
 https://www.noitv.it/,23
 https://www.quintopotere.it/,23
 https://www.quotidianodipuglia.it/,23
-https://www.savethechildren.it/,23
 https://www.udinetoday.it/,23
 https://agr.regione.basilicata.it/,22
 https://cn24tv.it/,22
@@ -391,6 +391,7 @@ https://www.vocedipopolo.it/,22
 https://www.wired.it/,22
 https://antennatre.medianordest.it/,21
 https://etvmarche.it/,21
+https://folhadolitoral.com.br/,21
 https://ilnuovoterraglio.it/,21
 https://onuitalia.com/,21
 https://volontariatolazio.it/,21
@@ -417,7 +418,6 @@ https://www.trentinotv.it/,21
 https://www.uniroma1.it/,21
 https://consiglio.regione.umbria.it/,20
 https://firenze.repubblica.it/,20
-https://folhadolitoral.com.br/,20
 https://lasentinella.gelocal.it/,20
 https://movieplayer.it/,20
 https://palermo.gds.it/,20
@@ -703,6 +703,7 @@ https://www.provincia.padova.it/,13
 https://www.provitaefamiglia.it/,13
 https://www.puglialive.net/,13
 https://www.qdmnotizie.it/,13
+https://www.quotidianocontribuenti.com/,13
 https://www.quotidianodelsud.it/,13
 https://www.radio5punto9.it/,13
 https://www.radiocittafujiko.it/,13
@@ -760,7 +761,6 @@ https://www.opl.it/,12
 https://www.pianainforma.it/,12
 https://www.provincia.perugia.it/,12
 https://www.quicosenza.it/,12
-https://www.quotidianocontribuenti.com/,12
 https://www.quotidianolavoce.it/,12
 https://www.radiolaquila1.it/,12
 https://www.reggio10forever.it/,12
@@ -938,6 +938,7 @@ https://bari.corriere.it/,9
 https://canaledieci.it/,9
 https://certastampa.it/,9
 https://corrieredimaremma.it/,9
+https://crema.laprovinciacr.it/,9
 https://cronachedi.it/,9
 https://gazzettadiplomatica.it/,9
 https://genovaquotidiana.com/,9
@@ -1031,7 +1032,6 @@ https://chiaroquotidiano.it/,8
 https://codacons.it/,8
 https://corrieredeltrentino.corriere.it/,8
 https://crema-news.it/,8
-https://crema.laprovinciacr.it/,8
 https://dabitonto.com/,8
 https://documenti.camera.it/,8
 https://gazzettadimalta.com/,8
@@ -2768,6 +2768,7 @@ https://selvaggialucarelli.substack.com/,2
 https://serenoregis.org/,2
 https://servizi-scandicci.055055.it/,2
 https://sestosg.net/,2
+https://shop.digicelgroup.com/,2
 https://sicilia.gazzettadelsud.it/,2
 https://silerenonpossum.com/,2
 https://simoneconcorsi.it/,2
@@ -4339,7 +4340,6 @@ https://sestante.tv/,1
 https://shampisti.it/,1
 https://shop-qa.barnesandnoble.com/,1
 https://shop.adaci.it/,1
-https://shop.digicelgroup.com/,1
 https://shop.wki.it/,1
 https://siabruzzo.it/,1
 https://sicilia.lnd.it/,1
@@ -4776,6 +4776,7 @@ https://www.camuzzagogolf.it/,1
 https://www.canaleotto.it/,1
 https://www.cantieredelledonne.it/,1
 https://www.cantone.edu.it/,1
+https://www.capital.it/,1
 https://www.caprievent.it/,1
 https://www.caputmundi.info/,1
 https://www.carc.it/,1
