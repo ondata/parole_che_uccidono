@@ -1,11 +1,11 @@
 fonte,count
-https://www.youtube.com/,1995
-https://www.facebook.com/,1770
+https://www.youtube.com/,1996
+https://www.facebook.com/,1771
 https://www.virgilio.it/,1285
-https://x.com/,1050
+https://x.com/,1051
 https://www.ansa.it/,820
 https://www.ilrestodelcarlino.it/,798
-https://www.instagram.com/,788
+https://www.instagram.com/,789
 https://www.rainews.it/,775
 https://www.lanazione.it/,606
 https://tg24.sky.it/,557
@@ -13,7 +13,7 @@ https://www.ilfattoquotidiano.it/,486
 https://www.lastampa.it/,480
 https://www.fanpage.it/,476
 https://www.open.online/,416
-https://www.ilgiorno.it/,389
+https://www.ilgiorno.it/,391
 https://agenparl.eu/,308
 https://www.repubblica.it/,301
 https://mediasetinfinity.mediaset.it/,243
@@ -33,7 +33,7 @@ https://ilmanifesto.it/,181
 https://stream24.ilsole24ore.com/,178
 https://www.avvenire.it/,176
 https://www.ilgazzettino.it/,168
-https://www.iltirreno.it/,162
+https://www.iltirreno.it/,163
 https://www.milanotoday.it/,161
 https://www.9colonne.it/,159
 https://www.ilgiornale.it/,157
@@ -46,12 +46,12 @@ https://www.agi.it/,147
 https://www.editorialedomani.it/,147
 https://www.agensir.it/,138
 https://www.palermotoday.it/,136
+https://roma.corriere.it/,130
 https://roma.repubblica.it/,130
-https://roma.corriere.it/,129
 https://www.vanityfair.it/,126
 https://www.quotidiano.net/,125
 https://www.rsi.ch/,119
-https://www.giustiziainsieme.it/,117
+https://www.giustiziainsieme.it/,118
 https://notizie.tiscali.it/,115
 https://alleyoop.ilsole24ore.com/,112
 https://milano.repubblica.it/,109
@@ -245,6 +245,7 @@ https://ntplusdiritto.ilsole24ore.com/,34
 https://www.casertanews.it/,34
 https://www.cisl.it/,34
 https://www.firenzetoday.it/,34
+https://www.newtuscia.it/,34
 https://www.prealpina.it/,34
 https://www.radiopopolare.it/,34
 https://www.viterbotoday.it/,34
@@ -254,7 +255,6 @@ https://telenorba.it/,33
 https://thesis.unipd.it/,33
 https://www.aise.it/,33
 https://www.labottegadelbarbieri.org/,33
-https://www.newtuscia.it/,33
 https://www.sondriotoday.it/,33
 https://www.stampareggiana.it/,33
 https://ilbolive.unipd.it/,32
@@ -356,6 +356,7 @@ https://www.savethechildren.it/,24
 https://www.ternitoday.it/,24
 https://www.tv2000.it/,24
 https://www.uniroma1.it/,24
+https://www.wired.it/,24
 https://corrierediarezzo.it/,23
 https://euroborsa.it/,23
 https://ildomaniditalia.eu/,23
@@ -371,7 +372,6 @@ https://www.noitv.it/,23
 https://www.quintopotere.it/,23
 https://www.studocu.com/,23
 https://www.udinetoday.it/,23
-https://www.wired.it/,23
 https://agr.regione.basilicata.it/,22
 https://cn24tv.it/,22
 https://edunews24.it/,22
@@ -734,6 +734,7 @@ https://corrieredellaltoadige.corriere.it/,12
 https://cultura.comune.fi.it/,12
 https://donneconloscudo.com/,12
 https://en.ilsole24ore.com/,12
+https://etnanews24.it/,12
 https://gds.it/,12
 https://informareonline.com/,12
 https://laragione.eu/,12
@@ -788,7 +789,6 @@ https://capocronaca.it/,11
 https://cinecittanews.it/,11
 https://coriglianocalabro.it/,11
 https://electomagazine.it/,11
-https://etnanews24.it/,11
 https://fondazionefeltrinelli.it/,11
 https://giornalemio.it/,11
 https://giornalenews.it/,11
@@ -2008,6 +2008,7 @@ https://www.tg24.info/,4
 https://www.tgcal24.it/,4
 https://www.thrillermagazine.it/,4
 https://www.tispiegoildato.it/,4
+https://www.traniviva.it/,4
 https://www.ttv.it/,4
 https://www.tuttosanita.com/,4
 https://www.tuttoscuola.com/,4
@@ -2505,7 +2506,6 @@ https://www.ticonsiglio.com/,3
 https://www.torresette.news/,3
 https://www.torrossa.com/,3
 https://www.toscanamedianews.it/,3
-https://www.traniviva.it/,3
 https://www.trmweb.it/,3
 https://www.turismofvg.it/,3
 https://www.turismoroma.it/,3
@@ -4287,6 +4287,7 @@ https://psicologiaintribunale.it/,1
 https://psicosardegna.it/,1
 https://pub1018upnqf7.hub4manuval.es/,1
 https://pub1kzsxywq.volprociv-rer.it/,1
+https://publires.unicatt.it/,1
 https://puglia.lamilano.it/,1
 https://pugliasera.it/,1
 https://puntodincontro.mx/,1
