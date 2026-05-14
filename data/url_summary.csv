@@ -1,10 +1,10 @@
 fonte,count
 https://www.youtube.com/,2028
-https://www.facebook.com/,1844
+https://www.facebook.com/,1847
 https://www.virgilio.it/,1299
 https://x.com/,1079
 https://www.ansa.it/,839
-https://www.ilrestodelcarlino.it/,818
+https://www.ilrestodelcarlino.it/,819
 https://www.instagram.com/,804
 https://www.rainews.it/,801
 https://www.lanazione.it/,627
@@ -15,7 +15,7 @@ https://www.lastampa.it/,492
 https://www.open.online/,425
 https://www.ilgiorno.it/,397
 https://agenparl.eu/,312
-https://www.repubblica.it/,303
+https://www.repubblica.it/,304
 https://mediasetinfinity.mediaset.it/,248
 https://www.leggo.it/,248
 https://www.today.it/,227
@@ -50,17 +50,17 @@ https://roma.corriere.it/,134
 https://roma.repubblica.it/,131
 https://www.vanityfair.it/,127
 https://www.quotidiano.net/,125
-https://www.giustiziainsieme.it/,122
+https://www.giustiziainsieme.it/,123
 https://www.rsi.ch/,120
+https://alleyoop.ilsole24ore.com/,115
 https://notizie.tiscali.it/,115
-https://alleyoop.ilsole24ore.com/,114
 https://prefettura.interno.gov.it/,114
 https://www.foggiatoday.it/,112
 https://milano.repubblica.it/,110
 https://www.iodonna.it/,109
 https://torinocronaca.it/,104
 https://www.bolognatoday.it/,101
-https://www.soroptimist.it/,100
+https://www.soroptimist.it/,101
 https://www.tecnicadellascuola.it/,98
 https://www.reddit.com/,97
 https://www.sistemapenale.it/,95
@@ -127,8 +127,8 @@ https://www.agrigentonotizie.it/,58
 https://www.collettiva.it/,58
 https://www.malpensa24.it/,58
 https://www.lametino.it/,57
+https://www.luccagiovane.it/,57
 https://www.anconatoday.it/,56
-https://www.luccagiovane.it/,56
 https://www.sanmarinortv.sm/,56
 https://www.vita.it/,56
 https://livesicilia.it/,55
@@ -375,6 +375,7 @@ https://tuttoggi.info/,23
 https://www.cittagora.it/,23
 https://www.corrierecesenate.it/,23
 https://www.corrierenazionale.net/,23
+https://www.frosinonetoday.it/,23
 https://www.galluraoggi.it/,23
 https://www.gazetaexpress.com/,23
 https://www.ilmediterraneo24.it/,23
@@ -391,13 +392,14 @@ https://folhadolitoral.com.br/,22
 https://www.comune.livorno.it/,22
 https://www.consiglio.puglia.it/,22
 https://www.cuneodice.it/,22
-https://www.frosinonetoday.it/,22
 https://www.ilcapoluogo.it/,22
+https://www.info-cooperazione.it/,22
 https://www.infopal.it/,22
 https://www.questionegiustizia.it/,22
 https://www.quotidianopiemontese.it/,22
 https://www.reggionline.com/,22
 https://www.sardegnalive.net/,22
+https://www.trapanisi.it/,22
 https://www.umbriacronaca.it/,22
 https://www.vipiu.it/,22
 https://www.vocedipopolo.it/,22
@@ -420,7 +422,6 @@ https://www.ecodelsannio.it/,21
 https://www.gazzettaufficiale.it/,21
 https://www.genova24.it/,21
 https://www.ilpiccolo.it/,21
-https://www.info-cooperazione.it/,21
 https://www.italpress.com/,21
 https://www.ladigetto.it/,21
 https://www.leggocassino.it/,21
@@ -429,9 +430,9 @@ https://www.mobmagazine.it/,21
 https://www.politicamentecorretto.com/,21
 https://www.raiplaysound.it/,21
 https://www.simcarabinieri.it/,21
-https://www.trapanisi.it/,21
 https://www.trentinotv.it/,21
 https://www.trentotoday.it/,21
+https://www.tusciaup.com/,21
 https://aostasera.it/,20
 https://firenze.repubblica.it/,20
 https://lasentinella.gelocal.it/,20
@@ -454,7 +455,6 @@ https://www.noidonne.org/,20
 https://www.occhioallanotizia.it/,20
 https://www.reggiotv.it/,20
 https://www.tribunatreviso.it/,20
-https://www.tusciaup.com/,20
 https://abruzzoweb.it/,19
 https://arte.sky.it/,19
 https://comune-info.net/,19
@@ -507,6 +507,7 @@ https://www.newsrimini.it/,18
 https://www.nordestnews.it/,18
 https://www.nuovavenezia.it/,18
 https://www.osservatoriofamiglia.it/,18
+https://www.oxfamitalia.org/,18
 https://www.pordenonetoday.it/,18
 https://www.puglialive.net/,18
 https://www.radioalfa.fm/,18
@@ -542,7 +543,6 @@ https://www.lecronachelucane.it/,17
 https://www.mbnews.it/,17
 https://www.nanotv.it/,17
 https://www.napolivillage.com/,17
-https://www.oxfamitalia.org/,17
 https://www.telemontekronio.it/,17
 https://www.triesteallnews.it/,17
 https://www.umbriadomani.it/,17
@@ -916,6 +916,7 @@ https://www.avantionline.it/,10
 https://www.buongiornosuedtirol.it/,10
 https://www.burlo.trieste.it/,10
 https://www.canalesicilia.it/,10
+https://www.casainternazionaledelledonne.org/,10
 https://www.chiesadimilano.it/,10
 https://www.cittametropolitanaroma.it/,10
 https://www.confinelive.it/,10
@@ -993,7 +994,6 @@ https://www.bestmovie.it/,9
 https://www.bisceglie24.it/,9
 https://www.canicattiweb.com/,9
 https://www.casadonnemilano.it/,9
-https://www.casainternazionaledelledonne.org/,9
 https://www.ciociariaoggi.it/,9
 https://www.citynow.it/,9
 https://www.comune.cesena.fc.it/,9
@@ -4404,6 +4404,7 @@ https://sapratza.in/,1
 https://sardegna.lamilano.it/,1
 https://sassate.it/,1
 https://savinodelbenevolley.it/,1
+https://scomodicontrasti.substack.com/,1
 https://scomodo.org/,1
 https://scuolacilea.edu.it/,1
 https://scuoladonnedigoverno.it/,1
