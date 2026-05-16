@@ -1,10 +1,10 @@
 fonte,count
-https://www.youtube.com/,2040
+https://www.youtube.com/,2041
 https://www.facebook.com/,1861
 https://www.virgilio.it/,1302
 https://x.com/,1090
 https://www.ansa.it/,852
-https://www.ilrestodelcarlino.it/,820
+https://www.ilrestodelcarlino.it/,821
 https://www.instagram.com/,809
 https://www.rainews.it/,807
 https://www.lanazione.it/,631
@@ -30,7 +30,7 @@ https://www.tgcom24.mediaset.it/,200
 https://www.ilmattino.it/,195
 https://www.ilsole24ore.com/,193
 https://stream24.ilsole24ore.com/,191
-https://ilmanifesto.it/,188
+https://ilmanifesto.it/,189
 https://www.avvenire.it/,182
 https://www.ilgazzettino.it/,170
 https://www.milanotoday.it/,166
@@ -56,7 +56,7 @@ https://alleyoop.ilsole24ore.com/,115
 https://notizie.tiscali.it/,115
 https://prefettura.interno.gov.it/,114
 https://www.foggiatoday.it/,112
-https://milano.repubblica.it/,110
+https://milano.repubblica.it/,111
 https://www.iodonna.it/,110
 https://torinocronaca.it/,104
 https://www.bolognatoday.it/,101
@@ -297,13 +297,13 @@ https://nelquotidiano.news/,29
 https://opinione.it/,29
 https://www.cagliaritoday.it/,29
 https://www.calabriadirettanews.com/,29
+https://www.ilfoglio.it/,29
 https://www.ilvibonese.it/,29
 https://www.tusciatimes.eu/,29
 https://riforma.it/,28
 https://wesud.it/,28
 https://www.consiglio.regione.fvg.it/pagineinterne//Portale/,28
 https://www.ilfattonisseno.it/,28
-https://www.ilfoglio.it/,28
 https://www.imgpress.it/,28
 https://www.intoscana.it/,28
 https://www.istat.it/,28
@@ -440,6 +440,7 @@ https://magazine.unibo.it/,20
 https://meiweb.it/,20
 https://mowmag.com/,20
 https://palermo.gds.it/,20
+https://smart.comune.genova.it/,20
 https://voitg.net/,20
 https://www.alfemminile.com/,20
 https://www.bellunopress.it/,20
@@ -465,7 +466,6 @@ https://comunicazioneitaliana.it/,19
 https://e-tv.it/,19
 https://lavoce.hr/,19
 https://newsicilia.it/,19
-https://smart.comune.genova.it/,19
 https://www.carabinieri.it/,19
 https://www.cosmopolitan.com/,19
 https://www.dinamopress.it/,19
@@ -601,6 +601,7 @@ https://lanuovaprovincia.it/,15
 https://lavocedinewyork.com/,15
 https://pagellapolitica.it/,15
 https://quindicinews.it/,15
+https://radiotsn.tv/,15
 https://www.abruzzospeciale.it/,15
 https://www.amnesty.it/,15
 https://www.anci.it/,15
@@ -644,7 +645,6 @@ https://itacanotizie.it/,14
 https://lasesia.vercelli.it/,14
 https://m.cronacheancona.it/,14
 https://primalecco.it/,14
-https://radiotsn.tv/,14
 https://ristretti.org/,14
 https://video.sky.it/,14
 https://www.agro24.it/,14
@@ -923,6 +923,7 @@ https://www.casadonnemilano.it/,10
 https://www.casainternazionaledelledonne.org/,10
 https://www.chiesadimilano.it/,10
 https://www.cittametropolitanaroma.it/,10
+https://www.comune.ragusa.it/,10
 https://www.confinelive.it/,10
 https://www.crotoneok.it/,10
 https://www.donne.it/,10
@@ -1001,7 +1002,6 @@ https://www.bisceglie24.it/,9
 https://www.ciociariaoggi.it/,9
 https://www.citynow.it/,9
 https://www.comune.cesena.fc.it/,9
-https://www.comune.ragusa.it/,9
 https://www.comune.rimini.it/,9
 https://www.comune.vicenza.it/,9
 https://www.confartigianatovicenza.it/,9
@@ -1125,6 +1125,7 @@ https://www.comune.terni.it/,8
 https://www.confinionline.it/,8
 https://www.controluce.it/,8
 https://www.corrierenews.it/,8
+https://www.cronacaonline.it/,8
 https://www.diritto.it/,8
 https://www.doppiadifesa.it/,8
 https://www.elbareport.it/,8
@@ -1250,7 +1251,6 @@ https://www.comune.spoleto.pg.it/,7
 https://www.confesercenti.it/,7
 https://www.corrieredilamezia.it/,7
 https://www.cronacacomune.it/,7
-https://www.cronacaonline.it/,7
 https://www.cuneocronaca.it/,7
 https://www.diocesi.torino.it/,7
 https://www.doctor33.it/,7
@@ -1393,6 +1393,7 @@ https://www.comune.andria.bt.it/,6
 https://www.comune.arco.tn.it/,6
 https://www.comune.cento.fe.it/,6
 https://www.comune.trieste.it/,6
+https://www.confartigianato.ra.it/,6
 https://www.corrierediviterbo.it/,6
 https://www.corrierepeligno.it/,6
 https://www.cronachenuoresi.it/,6
@@ -1587,7 +1588,6 @@ https://www.comune.pordenone.it/,5
 https://www.comune.santarcangelo.rn.it/,5
 https://www.comune.trento.it/,5
 https://www.comune.venezia.it/,5
-https://www.confartigianato.ra.it/,5
 https://www.conmagazine.it/,5
 https://www.corcianonline.it/,5
 https://www.corrieredelconero.it/,5
@@ -2172,6 +2172,7 @@ https://mincioedintorni.com/,3
 https://news.uniroma1.it/,3
 https://notiziaoggi.it/,3
 https://ojs.pensamultimedia.it/,3
+https://omceomi.it/,3
 https://palazzoducale.genova.it/,3
 https://pdregionelombardia.it/,3
 https://podcasters.spotify.com/,3
@@ -2775,7 +2776,6 @@ https://novionline.ilpiccolo.net/,2
 https://ntpluslavoro.ilsole24ore.com/,2
 https://nursetimes.org/,2
 https://odmbologna.it/,2
-https://omceomi.it/,2
 https://ordineavvocatitorino.it/,2
 https://orvieto24.it/,2
 https://osservatoriocpi.unicatt.it/,2
@@ -4325,6 +4325,7 @@ https://podcasts.nu/,1
 https://podisti.net/,1
 https://policlinico.pa.it/,1
 https://polizialocale.org/,1
+https://poliziapenitenziaria.gov.it/,1
 https://polo9.org/,1
 https://pololicealeguerrisigerace.edu.it/,1
 https://portale.comune.gela.cl.it/,1
