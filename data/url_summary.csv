@@ -1,6 +1,6 @@
 fonte,count
-https://www.youtube.com/,2136
-https://www.facebook.com/,2019
+https://www.youtube.com/,2137
+https://www.facebook.com/,2021
 https://www.virgilio.it/,1319
 https://x.com/,1153
 https://www.ansa.it/,931
@@ -14,9 +14,9 @@ https://www.fanpage.it/,513
 https://www.lastampa.it/,507
 https://www.open.online/,437
 https://www.ilgiorno.it/,421
-https://www.repubblica.it/,318
+https://www.repubblica.it/,320
 https://agenparl.eu/,316
-https://www.leggo.it/,272
+https://www.leggo.it/,273
 https://mediasetinfinity.mediaset.it/,261
 https://www.dailymotion.com/,251
 https://www.today.it/,235
@@ -29,7 +29,7 @@ https://www.corriere.it/,221
 https://www.tgcom24.mediaset.it/,213
 https://www.ilsole24ore.com/,211
 https://www.ilmessaggero.it/,209
-https://www.ilmattino.it/,205
+https://www.ilmattino.it/,206
 https://ilmanifesto.it/,195
 https://www.avvenire.it/,190
 https://www.ilgazzettino.it/,183
@@ -50,7 +50,7 @@ https://roma.repubblica.it/,140
 https://www.vanityfair.it/,139
 https://roma.corriere.it/,138
 https://www.quotidiano.net/,135
-https://www.giustiziainsieme.it/,130
+https://www.giustiziainsieme.it/,131
 https://www.rsi.ch/,128
 https://alleyoop.ilsole24ore.com/,123
 https://prefettura.interno.gov.it/,121
@@ -203,6 +203,7 @@ https://www.ilsecoloxix.it/,45
 https://www.iltrafiletto.it/,45
 https://www.veronasera.it/,45
 https://citynotizie.it/,44
+https://liberta.it/,44
 https://telenorba.it/,44
 https://www.gazzettadireggio.it/,44
 https://www.ilgerme.it/,44
@@ -210,7 +211,6 @@ https://www.ilgiornaledivicenza.it/,44
 https://www.ilroma.net/,44
 https://www.secoloditalia.it/,44
 https://alessandria.today/,43
-https://liberta.it/,43
 https://messina.gazzettadelsud.it/,43
 https://torino.corriere.it/,43
 https://www.cgil.it/,43
@@ -239,11 +239,11 @@ https://informareunh.it/,39
 https://palermo.repubblica.it/,39
 https://www.casertanews.it/,39
 https://www.civonline.it/,39
+https://www.labottegadelbarbieri.org/,39
 https://www.zazoom.it/,39
 https://gazzettadellaspezia.com/,38
 https://www.alanews.it/,38
 https://www.arezzo24.net/,38
-https://www.labottegadelbarbieri.org/,38
 https://ecodellojonio.it/,37
 https://libreriamo.it/,37
 https://www.firenzedintorni.it/,37
@@ -711,6 +711,7 @@ https://www.parmadaily.it/,14
 https://www.pianainforma.it/,14
 https://www.provincia.padova.it/,14
 https://www.provincia.perugia.it/,14
+https://www.quotidianolavoce.it/,14
 https://www.quotidianomolise.com/,14
 https://www.radiocittafujiko.it/,14
 https://www.radioroma.it/,14
@@ -772,7 +773,6 @@ https://www.libraccio.it/,13
 https://www.meltingpot.org/,13
 https://www.notiziegeopolitiche.net/,13
 https://www.ntr24.tv/,13
-https://www.quotidianolavoce.it/,13
 https://www.radio5punto9.it/,13
 https://www.radiocolonna.it/,13
 https://www.reggio2000.it/,13
@@ -1179,6 +1179,7 @@ https://www.comune.trieste.it/,8
 https://www.confinionline.it/,8
 https://www.corrieredilamezia.it/,8
 https://www.corrierenews.it/,8
+https://www.cosenzachannel.it/,8
 https://www.cronacaonline.it/,8
 https://www.cuneocronaca.it/,8
 https://www.diritto.it/,8
@@ -1296,7 +1297,6 @@ https://www.consiglio.regione.fvg.it/,7
 https://www.corrieredelconero.it/,7
 https://www.corrierediviterbo.it/,7
 https://www.corsi-ecm.org/,7
-https://www.cosenzachannel.it/,7
 https://www.cronacacomune.it/,7
 https://www.diocesi.torino.it/,7
 https://www.donnealtri.it/,7
@@ -5966,6 +5966,7 @@ https://www.liceoaugustoroma.edu.it/,1
 https://www.liceobelfioremantova.edu.it/,1
 https://www.liceobenedettitommaseo.edu.it/,1
 https://www.liceoboccioni.edu.it/,1
+https://www.liceocanovaforli.edu.it/,1
 https://www.liceocarminesylos.edu.it/,1
 https://www.liceocroce.edu.it/,1
 https://www.liceoeinstein.edu.it/,1
@@ -6219,6 +6220,7 @@ https://www.ordineavvocatimodena.it/,1
 https://www.ordineavvocatimonza.it/,1
 https://www.ordineavvocatiparma.it/,1
 https://www.ordineavvocatiroma.it/,1
+https://www.ordineavvocatismcv.it/,1
 https://www.ordineavvocativerbania.it/,1
 https://www.ordinedeimedici.cb.it/,1
 https://www.ordinefarmacistisavona.it/,1
