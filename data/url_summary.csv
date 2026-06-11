@@ -1,11 +1,11 @@
 fonte,count
-https://www.youtube.com/,2158
+https://www.youtube.com/,2160
 https://www.facebook.com/,2048
 https://www.virgilio.it/,1323
 https://x.com/,1160
 https://www.ansa.it/,946
-https://www.instagram.com/,891
-https://www.ilrestodelcarlino.it/,882
+https://www.instagram.com/,892
+https://www.ilrestodelcarlino.it/,883
 https://www.rainews.it/,857
 https://www.lanazione.it/,673
 https://tg24.sky.it/,623
@@ -13,7 +13,7 @@ https://www.ilfattoquotidiano.it/,555
 https://www.fanpage.it/,518
 https://www.lastampa.it/,513
 https://www.open.online/,440
-https://www.ilgiorno.it/,423
+https://www.ilgiorno.it/,424
 https://www.repubblica.it/,326
 https://agenparl.eu/,318
 https://www.leggo.it/,275
@@ -60,8 +60,8 @@ https://milano.repubblica.it/,116
 https://www.iodonna.it/,116
 https://notizie.tiscali.it/,115
 https://www.lanuovasardegna.it/,109
+https://www.corriereadriatico.it/,107
 https://www.soroptimist.it/,107
-https://www.corriereadriatico.it/,106
 https://torinocronaca.it/,104
 https://www.bolognatoday.it/,103
 https://www.larena.it/,101
@@ -97,11 +97,11 @@ https://www.laprovinciacr.it/,76
 https://corrieredellumbria.it/,75
 https://www.forlitoday.it/,75
 https://www.lasicilia.it/,75
+https://www.torinotoday.it/,75
 https://www.vaticannews.va/,75
 https://milano.corriere.it/,74
 https://www.ilpiacenza.it/,74
 https://www.perugiatoday.it/,74
-https://www.torinotoday.it/,74
 https://ilgiornalepopolare.it/,73
 https://partitodemocratico.it/,72
 https://www.antennasud.com/,70
@@ -109,19 +109,19 @@ https://www.uisp.it/,70
 https://corrieredelveneto.corriere.it/,69
 https://www.cesenatoday.it/,69
 https://www.interno.gov.it/,69
+https://www.salernotoday.it/,69
 https://www.dire.it/,68
-https://www.salernotoday.it/,68
 https://www.borsaitaliana.it/,66
 https://www.cdt.ch/,66
 https://www.lecceprima.it/,66
 https://corrieredibologna.corriere.it/,65
 https://www.collettiva.it/,65
+https://www.agrigentonotizie.it/,64
 https://www.gazzettadimantova.it/,64
 https://www.ilpescara.it/,64
 https://www.liberta.it/,64
 https://www.statoquotidiano.it/,64
 https://napoli.repubblica.it/,63
-https://www.agrigentonotizie.it/,63
 https://www.mattinopadova.it/,63
 https://www.tempostretto.it/,63
 https://27esimaora.corriere.it/,62
@@ -219,6 +219,7 @@ https://www.ildubbio.news/,43
 https://www.veratv.it/,43
 https://m.youtube.com/,42
 https://www.estense.com/,42
+https://www.iltquotidiano.it/,42
 https://www.modenatoday.it/,42
 https://www.valigiablu.it/,42
 https://www2.comune.milano.it/,42
@@ -227,7 +228,6 @@ https://tgverona.telenuovo.it/,41
 https://unionemonregalese.it/,41
 https://www.affaritaliani.it/,41
 https://www.arezzonotizie.it/,41
-https://www.iltquotidiano.it/,41
 https://www.notizie.it/,41
 https://www.sulpanaro.net/,41
 https://www.swissinfo.ch/,41
@@ -804,6 +804,7 @@ https://tarantosera.it/,12
 https://trcmodena.it/,12
 https://wordnews.it/,12
 https://www.alessandria24.com/,12
+https://www.atnews.it/,12
 https://www.burlo.trieste.it/,12
 https://www.chiesadimilano.it/,12
 https://www.ciaocomo.it/,12
@@ -872,7 +873,6 @@ https://servicematica.com/,11
 https://video.milanofinanza.it/,11
 https://www.abruzzoinvideo.tv/,11
 https://www.aics.it/,11
-https://www.atnews.it/,11
 https://www.belvederenews.net/,11
 https://www.bisceglieviva.it/,11
 https://www.calabrianews24.com/,11
@@ -1073,6 +1073,7 @@ https://www.comune.vicenza.it/,9
 https://www.confartigianatovicenza.it/,9
 https://www.controluce.it/,9
 https://www.corrieredirieti.it/,9
+https://www.cosenzachannel.it/,9
 https://www.cronacadiverona.com/,9
 https://www.crotonenews.com/,9
 https://www.direttasicilia.it/,9
@@ -1184,7 +1185,6 @@ https://www.confinionline.it/,8
 https://www.corrieredilamezia.it/,8
 https://www.corrierenews.it/,8
 https://www.corsi-ecm.org/,8
-https://www.cosenzachannel.it/,8
 https://www.cronacaonline.it/,8
 https://www.cuneocronaca.it/,8
 https://www.diocesi.torino.it/,8
@@ -1241,6 +1241,7 @@ https://www.torinoclick.it/,8
 https://www.torinocronaca.it/,8
 https://www.unito.it/,8
 https://www.vetrinatv.it/,8
+https://www.vitadiocesanapinerolese.it/,8
 https://www.viverefermo.it/,8
 https://www.voceapuana.com/,8
 https://www.vocedellascuola.it/,8
@@ -1305,6 +1306,7 @@ https://www.consiglio.regione.fvg.it/,7
 https://www.corrieredelconero.it/,7
 https://www.corrierediviterbo.it/,7
 https://www.cronacacomune.it/,7
+https://www.cronachenuoresi.it/,7
 https://www.donnealtri.it/,7
 https://www.donneierioggiedomani.it/,7
 https://www.ecodelchisone.it/,7
@@ -1381,7 +1383,6 @@ https://www.uslcentro.toscana.it/,7
 https://www.utilitalia.it/,7
 https://www.valseriananews.it/,7
 https://www.valtellinanotizie.com/,7
-https://www.vitadiocesanapinerolese.it/,7
 https://www.volonwrite.org/,7
 https://www.vulturenews.net/,7
 http://www.processopenaleegiustizia.it/,6
@@ -1428,6 +1429,7 @@ https://sicilia.lidentita.it/,6
 https://spettacolomusicasport.com/,6
 https://telequattro.medianordest.it/,6
 https://teleregionetv.it/,6
+https://telesardegna.it/,6
 https://terninrete.it/,6
 https://ticronometro.com/,6
 https://tv12.medianordest.it/,6
@@ -1463,7 +1465,6 @@ https://www.corrieredellosport.it/,6
 https://www.corrieredisaluzzo.it/,6
 https://www.corrierepeligno.it/,6
 https://www.costaviolanews.it/,6
-https://www.cronachenuoresi.it/,6
 https://www.dayitalianews.com/,6
 https://www.digitradio.it/,6
 https://www.edotto.com/,6
@@ -1620,7 +1621,6 @@ https://siulp.it/,5
 https://spicgiltoscana.it/,5
 https://style.corriere.it/,5
 https://taorminanews24.com/,5
-https://telesardegna.it/,5
 https://temponews.it/,5
 https://thesoundcheck.it/,5
 https://tiburno.tv/,5
@@ -2032,6 +2032,7 @@ https://www.lavocedellazio.it/,4
 https://www.lavocedellevalli.it/,4
 https://www.lavocedialba.it/,4
 https://www.lavocedilucca.it/,4
+https://www.lavocedinovara.com/,4
 https://www.lavoro.gov.it/,4
 https://www.legavolley.it/,4
 https://www.leggilanotizia.it/,4
@@ -2504,7 +2505,6 @@ https://www.lavoceassociazioneculturaleasud.it/,3
 https://www.lavocedeimedici.it/,3
 https://www.lavocedelvesuvio.it/,3
 https://www.lavocedimanduria.it/,3
-https://www.lavocedinovara.com/,3
 https://www.lavorofacile.it/,3
 https://www.leccetomorrow.it/,3
 https://www.lecostituzionaliste.it/,3
