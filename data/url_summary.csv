@@ -1,17 +1,17 @@
 fonte,count
-https://www.youtube.com/,2199
-https://www.facebook.com/,2119
+https://www.youtube.com/,2200
+https://www.facebook.com/,2124
 https://www.virgilio.it/,1326
 https://x.com/,1178
 https://www.ansa.it/,957
 https://www.instagram.com/,925
-https://www.ilrestodelcarlino.it/,900
+https://www.ilrestodelcarlino.it/,903
 https://www.rainews.it/,874
 https://www.lanazione.it/,679
 https://tg24.sky.it/,636
 https://www.ilfattoquotidiano.it/,571
 https://www.fanpage.it/,526
-https://www.lastampa.it/,522
+https://www.lastampa.it/,523
 https://www.open.online/,445
 https://www.ilgiorno.it/,432
 https://www.repubblica.it/,331
@@ -30,8 +30,8 @@ https://www.ilsole24ore.com/,217
 https://www.ilmessaggero.it/,214
 https://www.tgcom24.mediaset.it/,214
 https://www.ilmattino.it/,208
+https://ilmanifesto.it/,200
 https://www.avvenire.it/,200
-https://ilmanifesto.it/,199
 https://www.ilgazzettino.it/,184
 https://www.milanotoday.it/,175
 https://questure.poliziadistato.it/,174
@@ -48,7 +48,7 @@ https://www.agensir.it/,153
 https://www.palermotoday.it/,152
 https://www.vanityfair.it/,144
 https://roma.repubblica.it/,143
-https://roma.corriere.it/,141
+https://roma.corriere.it/,142
 https://www.rsi.ch/,140
 https://www.quotidiano.net/,139
 https://www.giustiziainsieme.it/,134
@@ -70,7 +70,7 @@ https://www.tecnicadellascuola.it/,102
 https://www.la7.it/,100
 https://www.sistemapenale.it/,99
 https://www.ilnordest.it/,98
-https://www.giornaledibrescia.it/,95
+https://www.giornaledibrescia.it/,96
 https://www.messinatoday.it/,95
 https://www.agenziagiornalisticaopinione.it/,94
 https://www.napolitoday.it/,94
@@ -86,8 +86,8 @@ https://www.osservatoreromano.va/,85
 https://it.cibercuba.com/,84
 https://www.ravennatoday.it/,84
 https://www.agenzianova.com/,83
+https://www.tiktok.com/,83
 https://www.brindisireport.it/,82
-https://www.tiktok.com/,82
 https://www.ilpost.it/,80
 https://www.giornalelavoce.it/,79
 https://www.lapresse.it/,79
@@ -131,11 +131,11 @@ https://www.vita.it/,63
 https://livesicilia.it/,61
 https://www.ildolomiti.it/,61
 https://www.lidentita.it/,61
+https://www.bergamonews.it/,60
 https://www.elle.com/,60
 https://www.espansionetv.it/,60
 https://www.lametino.it/,60
 https://www.malpensa24.it/,60
-https://www.bergamonews.it/,59
 https://www.corrieredellacalabria.it/,59
 https://buonasera24.it/,58
 https://it.euronews.com/,58
@@ -375,6 +375,7 @@ https://www.informazione.it/,25
 https://www.lacapitale.it/,25
 https://www.laprovinciaunicatv.it/,25
 https://www.lindipendente.online/,25
+https://www.merateonline.it/,25
 https://www.noitv.it/,25
 https://www.savethechildren.it/,25
 https://www.simcarabinieri.it/,25
@@ -394,7 +395,6 @@ https://www.ilcapoluogo.it/,24
 https://www.ilpiccolo.it/,24
 https://www.info-cooperazione.it/,24
 https://www.italpress.com/,24
-https://www.merateonline.it/,24
 https://www.quicomo.it/,24
 https://www.reggionline.com/,24
 https://www.trentotoday.it/,24
@@ -648,6 +648,7 @@ https://etrurianews.it/,15
 https://itacanotizie.it/,15
 https://lanuovaprovincia.it/,15
 https://lasesia.vercelli.it/,15
+https://lavocedeltrentino.it/,15
 https://lavocedinewyork.com/,15
 https://pagellapolitica.it/,15
 https://primalecco.it/,15
@@ -696,7 +697,6 @@ https://femminicidioitalia.info/,14
 https://futura.news/,14
 https://ilglobo.com/,14
 https://informareonline.com/,14
-https://lavocedeltrentino.it/,14
 https://lecconotizie.com/,14
 https://left.it/,14
 https://lepersoneeladignita.corriere.it/,14
@@ -1306,6 +1306,7 @@ https://www.canale74.it/,7
 https://www.casadonne.it/,7
 https://www.casertafocus.net/,7
 https://www.cdls.sm/,7
+https://www.centralcharts.com/,7
 https://www.ciavula.it/,7
 https://www.comune.bagheria.pa.it/,7
 https://www.comune.bra.cn.it/,7
@@ -1456,7 +1457,6 @@ https://www.calabriamagnifica.it/,6
 https://www.canale3.tv/,6
 https://www.cantiereterzosettore.it/,6
 https://www.catanzarochannel.it/,6
-https://www.centralcharts.com/,6
 https://www.centrostudilivatino.it/,6
 https://www.ciranopost.com/,6
 https://www.comune.andria.bt.it/,6
@@ -1999,9 +1999,11 @@ https://www.focus-scuola.it/,4
 https://www.foodaffairs.it/,4
 https://www.forumitalia.info/,4
 https://www.fpi.it/,4
+https://www.frauenhauskoordinierung.de/,4
 https://www.gardaline.it/,4
 https://www.gazzettadinapoli.it/,4
 https://www.gazzettadisalerno.it/,4
+https://www.geniusreview.eu/,4
 https://www.genteditalia.org/,4
 https://www.gionata.org/,4
 https://www.giornaledellamusica.it/,4
@@ -2439,7 +2441,6 @@ https://www.folignooggi.it/,3
 https://www.fondazioneassistentisociali.com/,3
 https://www.fondazionecrt.it/,3
 https://www.francolofrano.it/,3
-https://www.frauenhauskoordinierung.de/,3
 https://www.freenovara.it/,3
 https://www.fremondoweb.com/,3
 https://www.fuoriluogo.it/,3
@@ -2448,7 +2449,6 @@ https://www.gardapost.it/,3
 https://www.gazzettinodelchianti.it/,3
 https://www.gbopera.it/,3
 https://www.gdoweek.it/,3
-https://www.geniusreview.eu/,3
 https://www.genova3000.it/,3
 https://www.genteveneta.it/,3
 https://www.geopop.it/,3
