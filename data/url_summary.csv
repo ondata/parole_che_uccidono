@@ -1,8 +1,8 @@
 fonte,count
 https://www.facebook.com/,2351
-https://www.youtube.com/,2286
+https://www.youtube.com/,2287
 https://www.virgilio.it/,1337
-https://x.com/,1243
+https://x.com/,1244
 https://www.ansa.it/,1022
 https://www.instagram.com/,996
 https://www.ilrestodelcarlino.it/,948
@@ -48,8 +48,8 @@ https://www.palermotoday.it/,161
 https://www.msn.com/,157
 https://roma.corriere.it/,155
 https://www.quotidiano.net/,153
+https://www.giustiziainsieme.it/,152
 https://www.vanityfair.it/,152
-https://www.giustiziainsieme.it/,151
 https://roma.repubblica.it/,146
 https://www.rsi.ch/,146
 https://prefettura.interno.gov.it/,142
@@ -58,15 +58,15 @@ https://www.foggiatoday.it/,129
 https://alleyoop.ilsole24ore.com/,126
 https://www.iodonna.it/,124
 https://milano.repubblica.it/,123
+https://www.corriereadriatico.it/,120
 https://www.lanuovasardegna.it/,120
-https://www.corriereadriatico.it/,119
 https://notizie.tiscali.it/,115
 https://www.lapiazzaweb.it/,114
 https://www.soroptimist.it/,112
 https://www.giornaledibrescia.it/,109
 https://www.tecnicadellascuola.it/,109
 https://www.bolognatoday.it/,108
-https://www.larena.it/,107
+https://www.larena.it/,108
 https://torinocronaca.it/,104
 https://www.sistemapenale.it/,104
 https://www.la7.it/,103
@@ -114,10 +114,10 @@ https://www.luccagiovane.it/,74
 https://corrieredelveneto.corriere.it/,73
 https://www.libero.it/,73
 https://www.cesenatoday.it/,72
+https://www.gazzettadimantova.it/,71
 https://www.interno.gov.it/,71
 https://www.mattinopadova.it/,71
 https://www.dire.it/,70
-https://www.gazzettadimantova.it/,70
 https://www.ilpescara.it/,70
 https://www.salernotoday.it/,70
 https://27esimaora.corriere.it/,67
@@ -368,6 +368,7 @@ https://primamonza.it/,26
 https://risveglioduemila.it/,26
 https://www.calabriainchieste.it/,26
 https://www.castellinotizie.it/,26
+https://www.cuneodice.it/,26
 https://www.frosinonetoday.it/,26
 https://www.ilmediterraneo24.it/,26
 https://www.lacapitale.it/,26
@@ -388,9 +389,9 @@ https://www.ancoraonline.it/,25
 https://www.anteprima24.it/,25
 https://www.basilicatadigitalchannel.com/,25
 https://www.carabinieri.it/,25
+https://www.comune.livorno.it/,25
 https://www.consiglio.puglia.it/,25
 https://www.cosmopolitan.com/,25
-https://www.cuneodice.it/,25
 https://www.donnamoderna.com/,25
 https://www.farmacista33.it/,25
 https://www.galluraoggi.it/,25
@@ -408,7 +409,6 @@ https://euroborsa.it/,24
 https://europaverde.it/,24
 https://palermo.gds.it/,24
 https://tuttoggi.info/,24
-https://www.comune.livorno.it/,24
 https://www.corrierecesenate.it/,24
 https://www.deputatipd.it/,24
 https://www.dinamopress.it/,24
@@ -1054,6 +1054,7 @@ https://www.itvonline.news/,10
 https://www.juorno.it/,10
 https://www.lamiafinanza.it/,10
 https://www.laprovinciadivarese.it/,10
+https://www.lasiritide.it/,10
 https://www.leccenews24.it/,10
 https://www.luccaindiretta.it/,10
 https://www.manfredonianews.it/,10
@@ -1150,7 +1151,6 @@ https://www.ilriformista.it/,9
 https://www.infoans.org/,9
 https://www.invictapalestina.org/,9
 https://www.lamescolanza.com/,9
-https://www.lasiritide.it/,9
 https://www.lecceoggi.com/,9
 https://www.lnd.it/,9
 https://www.medicisenzafrontiere.it/,9
@@ -1203,6 +1203,7 @@ https://laprovinciarieti.it/,8
 https://newsmondo.it/,8
 https://open.spotify.com/,8
 https://orvietosi.it/,8
+https://pariopportunita.gov.it/,8
 https://percorsiconibambini.it/,8
 https://primalamartesana.it/,8
 https://primasaronno.it/,8
@@ -1295,6 +1296,7 @@ https://www.uilca.it/,8
 https://www.unisi.it/,8
 https://www.unito.it/,8
 https://www.utilitalia.it/,8
+https://www.valtellinanotizie.com/,8
 https://www.viverefermo.it/,8
 https://www.voceapuana.com/,8
 https://www.vocedellascuola.it/,8
@@ -1316,7 +1318,6 @@ https://latr3.it/,7
 https://medicoepaziente.it/,7
 https://mondosanita.it/,7
 https://naufraghi.ch/,7
-https://pariopportunita.gov.it/,7
 https://pariopportunita.provincia.bz.it/,7
 https://portale.fnomceo.it/,7
 https://primasettimo.it/,7
@@ -1445,7 +1446,6 @@ https://www.unipd.it/,7
 https://www.unsertirol24.com/,7
 https://www.uslcentro.toscana.it/,7
 https://www.valseriananews.it/,7
-https://www.valtellinanotizie.com/,7
 https://www.verovolley.com/,7
 https://www.vivereancona.it/,7
 https://www.volonwrite.org/,7
@@ -1644,6 +1644,7 @@ https://alessandrianews.ilpiccolo.net/,5
 https://ancilazio.it/,5
 https://calabriapost.net/,5
 https://confprofessioni.eu/,5
+https://corrierepratese.it/,5
 https://corriereuniv.it/,5
 https://cultura.tiscali.it/,5
 https://culture.roma.it/,5
@@ -1899,7 +1900,6 @@ https://comune.messina.it/,4
 https://comunicacity.net/,4
 https://comunicazioneinform.it/,4
 https://consumatori.coop.it/,4
-https://corrierepratese.it/,4
 https://cronacatorino.it/,4
 https://cultura.cervantes.es/,4
 https://cultura.gov.it/,4
@@ -2788,6 +2788,7 @@ https://agrpress.it/,2
 https://almastart.unibo.it/,2
 https://altopascio.info/,2
 https://altrenotizie.org/,2
+https://amp.cosenzachannel.it/,2
 https://amp.ilvibonese.it/,2
 https://amp.mediasetinfinity.mediaset.it/,2
 https://ancicampania.it/,2
@@ -3653,6 +3654,7 @@ https://www.vercellioggi.it/,2
 https://www.veronatomorrow.it/,2
 https://www.vesuviolive.it/,2
 https://www.vglobale.it/,2
+https://www.videotolentino.it/,2
 https://www.viella.it/,2
 https://www.vigevano24.it/,2
 https://www.vitaepensiero.it/,2
@@ -3809,7 +3811,6 @@ https://amblav.it/,1
 https://amblondra.esteri.it/,1
 https://amboslo.esteri.it/,1
 https://amiciziaitalo-palestinese.org/,1
-https://amp.cosenzachannel.it/,1
 https://amp.romatoday.it/,1
 https://an.cna.it/,1
 https://ancitoscana.it/,1
@@ -6815,6 +6816,7 @@ https://www.studiolegaledesia.com/,1
 https://www.studiolegalefois.it/,1
 https://www.studiolegalefoschinipagani.it/,1
 https://www.studiolegalelabonia.it/,1
+https://www.studiolegalemotisi.it/,1
 https://www.suffragettecinema.org/,1
 https://www.suoredonorione.org/,1
 https://www.superguidatv.it/,1
@@ -6971,7 +6973,6 @@ https://www.vesuvianonews.it/,1
 https://www.vicoumbertogagliardi.edu.it/,1
 https://www.videoandria.com/,1
 https://www.videosicilia.com/,1
-https://www.videotolentino.it/,1
 https://www.vietrasportiweb.it/,1
 https://www.vigilanzaprivataonline.com/,1
 https://www.vigilfuoco.it/,1
