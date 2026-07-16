@@ -1,19 +1,19 @@
 fonte,count
-https://www.facebook.com/,2392
+https://www.facebook.com/,2393
 https://www.youtube.com/,2306
 https://www.virgilio.it/,1350
 https://x.com/,1262
 https://www.ansa.it/,1039
 https://www.instagram.com/,1018
-https://www.ilrestodelcarlino.it/,961
+https://www.ilrestodelcarlino.it/,962
 https://www.rainews.it/,934
 https://www.lanazione.it/,716
 https://tg24.sky.it/,667
 https://www.ilfattoquotidiano.it/,604
 https://www.fanpage.it/,560
 https://www.lastampa.it/,559
+https://www.ilgiorno.it/,466
 https://www.open.online/,466
-https://www.ilgiorno.it/,465
 https://www.repubblica.it/,349
 https://agenparl.eu/,331
 https://mediasetinfinity.mediaset.it/,315
@@ -36,7 +36,7 @@ https://www.ilgazzettino.it/,192
 https://www.milanotoday.it/,187
 https://questure.poliziadistato.it/,184
 https://www.editorialedomani.it/,184
-https://it.linkedin.com/,182
+https://it.linkedin.com/,183
 https://www.ilgiornale.it/,177
 https://www.lagazzettadelmezzogiorno.it/,175
 https://www.orizzontescuola.it/,171
@@ -47,7 +47,7 @@ https://www.palermotoday.it/,163
 https://www.agi.it/,162
 https://www.msn.com/,157
 https://roma.corriere.it/,155
-https://www.giustiziainsieme.it/,154
+https://www.giustiziainsieme.it/,155
 https://www.quotidiano.net/,154
 https://www.vanityfair.it/,154
 https://www.rsi.ch/,152
@@ -55,7 +55,7 @@ https://roma.repubblica.it/,146
 https://prefettura.interno.gov.it/,144
 https://www.reddit.com/,135
 https://www.foggiatoday.it/,131
-https://alleyoop.ilsole24ore.com/,128
+https://alleyoop.ilsole24ore.com/,129
 https://www.iodonna.it/,127
 https://milano.repubblica.it/,125
 https://www.corriereadriatico.it/,124
@@ -496,6 +496,7 @@ https://ilpiccolo.org/,20
 https://ledicola.it/,20
 https://magazine.unibo.it/,20
 https://www.alfemminile.com/,20
+https://www.corriereromagna.it/,20
 https://www.corrieresalentino.it/,20
 https://www.cremaonline.it/,20
 https://www.cusanomediaplay.it/,20
@@ -527,7 +528,6 @@ https://siracusapress.it/,19
 https://www.catanzaroinforma.it/,19
 https://www.comune.reggioemilia.it/,19
 https://www.comune.rivadelgarda.tn.it/,19
-https://www.corriereromagna.it/,19
 https://www.differenzadonna.org/,19
 https://www.forli24ore.it/,19
 https://www.friulioggi.it/,19
@@ -612,6 +612,7 @@ https://www.comune.bari.it/,17
 https://www.dagospia.com/,17
 https://www.dedalomultimedia.org/,17
 https://www.docsity.com/,17
+https://www.doppiozero.com/,17
 https://www.eunews.it/,17
 https://www.ilfattovesuviano.it/,17
 https://www.irpinianews.it/,17
@@ -655,7 +656,6 @@ https://videoinformazioni.com/,16
 https://www.borderline24.com/,16
 https://www.calabriareportage.it/,16
 https://www.consiglio.marche.it/,16
-https://www.doppiozero.com/,16
 https://www.ecovicentino.it/,16
 https://www.farodiroma.it/,16
 https://www.ildifforme.it/,16
@@ -1206,6 +1206,7 @@ https://ilcorriere.net/,8
 https://iltirreno.gelocal.it/,8
 https://infobandi.csvnet.it/,8
 https://laprovinciarieti.it/,8
+https://marsicalive.it/,8
 https://newsmondo.it/,8
 https://open.spotify.com/,8
 https://orvietosi.it/,8
@@ -1326,7 +1327,6 @@ https://ilfuturoquotidiano.it/,7
 https://incronaca.unibo.it/,7
 https://lara.viva.cnr.it/,7
 https://latr3.it/,7
-https://marsicalive.it/,7
 https://medicoepaziente.it/,7
 https://mondosanita.it/,7
 https://naufraghi.ch/,7
@@ -2441,6 +2441,7 @@ https://www.bariviva.it/,3
 https://www.basilicata24.it/,3
 https://www.bergamofiera.it/,3
 https://www.bibliotecasalaborsa.it/,3
+https://www.bigodino.it/,3
 https://www.bolognametropolitana.it/Home_Page//001/,3
 https://www.bricomagazine.com/,3
 https://www.cagliaripost.com/,3
@@ -3131,7 +3132,6 @@ https://www.befreecooperativa.org/,2
 https://www.beneventogiornale.com/,2
 https://www.biblioest.it/,2
 https://www.biccy.it/,2
-https://www.bigodino.it/,2
 https://www.binews.it/,2
 https://www.bologna2000.com/,2
 https://www.bolognametropolitana.it/,2
