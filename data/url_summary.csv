@@ -1,13 +1,13 @@
 fonte,count
-https://www.facebook.com/,2401
-https://www.youtube.com/,2313
+https://www.facebook.com/,2402
+https://www.youtube.com/,2315
 https://www.virgilio.it/,1350
 https://x.com/,1264
 https://www.ansa.it/,1040
 https://www.instagram.com/,1025
-https://www.ilrestodelcarlino.it/,966
-https://www.rainews.it/,937
-https://www.lanazione.it/,716
+https://www.ilrestodelcarlino.it/,967
+https://www.rainews.it/,938
+https://www.lanazione.it/,717
 https://tg24.sky.it/,667
 https://www.ilfattoquotidiano.it/,604
 https://www.fanpage.it/,560
@@ -25,8 +25,8 @@ https://www.unionesarda.it/,255
 https://www.adnkronos.com/,249
 https://www.today.it/,241
 https://www.corriere.it/,236
+https://www.avvenire.it/,228
 https://www.ilsole24ore.com/,228
-https://www.avvenire.it/,227
 https://www.tgcom24.mediaset.it/,227
 https://m.facebook.com/,225
 https://www.ilmessaggero.it/,224
@@ -48,8 +48,8 @@ https://www.agi.it/,162
 https://www.msn.com/,157
 https://roma.corriere.it/,156
 https://www.giustiziainsieme.it/,156
+https://www.vanityfair.it/,155
 https://www.quotidiano.net/,154
-https://www.vanityfair.it/,154
 https://www.rsi.ch/,152
 https://roma.repubblica.it/,146
 https://prefettura.interno.gov.it/,144
@@ -136,11 +136,11 @@ https://www.collettiva.it/,65
 https://www.ildolomiti.it/,65
 https://www.laregione.ch/,65
 https://www.varesenews.it/,65
+https://www.bergamonews.it/,64
 https://www.corrieredellacalabria.it/,64
 https://www.liberta.it/,64
 https://www.malpensa24.it/,64
 https://livesicilia.it/,63
-https://www.bergamonews.it/,63
 https://www.lametino.it/,63
 https://www.tempostretto.it/,63
 https://www.espansionetv.it/,62
@@ -660,6 +660,7 @@ https://www.calabriareportage.it/,16
 https://www.consiglio.marche.it/,16
 https://www.ecovicentino.it/,16
 https://www.farodiroma.it/,16
+https://www.geronimo.news/,16
 https://www.ildifforme.it/,16
 https://www.ilgazzettinometropolitano.it/,16
 https://www.ilgiornaledisalerno.it/,16
@@ -704,7 +705,6 @@ https://www.dererker.it/,15
 https://www.ethicasocietas.it/,15
 https://www.fanoinforma.it/,15
 https://www.gazzettadisiena.it/,15
-https://www.geronimo.news/,15
 https://www.ilmamilio.it/,15
 https://www.ilpomeriggio.it/,15
 https://www.iltimone.org/,15
@@ -1098,6 +1098,7 @@ https://www.welforum.it/,10
 https://www.youfoggia.com/,10
 https://www.zoom24.it/,10
 http://agensalute.it/,9
+https://andrialive.it/,9
 https://appunti.substack.com/,9
 https://auser.it/,9
 https://bur.regione.veneto.it/,9
@@ -1199,7 +1200,6 @@ https://www.vitadiocesanapinerolese.it/,9
 https://www.voceapuana.com/,9
 https://zetaluiss.it/,9
 https://algherolive.it/,8
-https://andrialive.it/,8
 https://backend.4live.it/,8
 https://contropiano.org/,8
 https://dabitonto.com/,8
@@ -1317,6 +1317,7 @@ https://www.viverefermo.it/,8
 https://www.vocedellascuola.it/,8
 https://www.zai.net/,8
 http://www.umbriadomani.it/,7
+https://altarimini.it/,7
 https://andi.it/,7
 https://anief.org/,7
 https://bitontolive.it/,7
@@ -1389,6 +1390,7 @@ https://www.gazzettasarda.com/,7
 https://www.glpress.it/,7
 https://www.ideawebtv.it/,7
 https://www.ilcarmagnolese.it/,7
+https://www.ilmetropolitano.it/,7
 https://www.ilvescovado.it/,7
 https://www.informacalabria.it/,7
 https://www.inmp.it/,7
@@ -1459,7 +1461,6 @@ https://www.vivereancona.it/,7
 https://www.volonwrite.org/,7
 https://www.vulturenews.net/,7
 http://www.processopenaleegiustizia.it/,6
-https://altarimini.it/,6
 https://catania.gds.it/,6
 https://change.org/,6
 https://comune.oristano.it/,6
@@ -1563,7 +1564,6 @@ https://www.greenreport.it/,6
 https://www.ilcittadinodirecanati.it/,6
 https://www.ilfilo.net/,6
 https://www.ilgiornaleditrani.net/,6
-https://www.ilmetropolitano.it/,6
 https://www.ilnordestquotidiano.it/,6
 https://www.ilportico.it/,6
 https://www.ilrisveglio-online.it/,6
@@ -2151,6 +2151,7 @@ https://www.messaggeromarittimo.it/,4
 https://www.milleunadonna.it/,4
 https://www.miticochannel.com/,4
 https://www.mn24.it/,4
+https://www.mondodonna-onlus.it/,4
 https://www.myfruit.it/,4
 https://www.mysolution.it/,4
 https://www.nazioneindiana.com/,4
@@ -2632,7 +2633,6 @@ https://www.milanofinanza.it/,3
 https://www.minella.it/,3
 https://www.miticomagazine.com/,3
 https://www.mondadorieducation.it/,3
-https://www.mondodonna-onlus.it/,3
 https://www.mondospettacolo.com/,3
 https://www.monrealepress.it/,3
 https://www.montorioveronese.it/,3
@@ -4560,6 +4560,7 @@ https://orientxxi.info/,1
 https://orizzontegiuridico.com/,1
 https://osimooggi.it/,1
 https://ospedalecristore.it/,1
+https://osservatoriosocialis.it/,1
 https://oubliettemagazine.com/,1
 https://ovadaonline.ilpiccolo.net/,1
 https://padovacultura.padovanet.it/,1
