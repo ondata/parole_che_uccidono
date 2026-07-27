@@ -1,6 +1,6 @@
 fonte,count
-https://www.facebook.com/,2500
-https://www.youtube.com/,2341
+https://www.facebook.com/,2501
+https://www.youtube.com/,2343
 https://www.virgilio.it/,1356
 https://x.com/,1282
 https://www.ansa.it/,1076
@@ -29,8 +29,8 @@ https://www.avvenire.it/,231
 https://www.ilsole24ore.com/,230
 https://www.tgcom24.mediaset.it/,230
 https://www.ilmessaggero.it/,228
+https://www.ilmattino.it/,226
 https://m.facebook.com/,225
-https://www.ilmattino.it/,225
 https://ilmanifesto.it/,212
 https://www.ilgazzettino.it/,195
 https://www.editorialedomani.it/,194
@@ -42,7 +42,7 @@ https://www.lagazzettadelmezzogiorno.it/,177
 https://www.orizzontescuola.it/,176
 https://www.iltirreno.it/,172
 https://www.9colonne.it/,171
-https://www.agensir.it/,170
+https://www.agensir.it/,171
 https://www.palermotoday.it/,166
 https://www.rsi.ch/,165
 https://www.agi.it/,164
@@ -69,8 +69,8 @@ https://www.bolognatoday.it/,110
 https://www.larena.it/,110
 https://www.sistemapenale.it/,109
 https://www.la7.it/,107
+https://www.napolitoday.it/,106
 https://www.cdt.ch/,105
-https://www.napolitoday.it/,105
 https://torinocronaca.it/,104
 https://www.agenziagiornalisticaopinione.it/,103
 https://www.ilnordest.it/,101
@@ -146,8 +146,8 @@ https://www.espansionetv.it/,64
 https://www.liberta.it/,64
 https://www.tempostretto.it/,64
 https://livesicilia.it/,63
+https://www.lidentita.it/,63
 https://www.ferraratoday.it/,62
-https://www.lidentita.it/,62
 https://www.primocanale.it/,62
 https://www.threads.com/,62
 https://www.umbria24.it/,62
@@ -173,6 +173,7 @@ https://www.lanuovacalabria.it/,56
 https://www.polesine24.it/,56
 https://www.reggiotoday.it/,56
 https://luce.lanazione.it/,55
+https://www.bresciaoggi.it/,55
 https://www.comune.napoli.it/,55
 https://www.cremonaoggi.it/,55
 https://www.parmatoday.it/,55
@@ -181,7 +182,6 @@ https://www.senato.it/,55
 https://www.tp24.it/,55
 https://bergamo.corriere.it/,54
 https://calabria7.news/,54
-https://www.bresciaoggi.it/,54
 https://laguida.it/,53
 https://www.altoadige.it/,53
 https://www.chietitoday.it/,53
@@ -274,6 +274,7 @@ https://www.firenzetoday.it/,38
 https://www.rai.it/,38
 https://bari.repubblica.it/,37
 https://ntplusdiritto.ilsole24ore.com/,37
+https://www.cisl.it/,37
 https://www.corrierealpi.it/,37
 https://www.radiopopolare.it/,37
 https://www.rovigo.news/,37
@@ -281,7 +282,6 @@ https://www.stampareggiana.it/,37
 https://latinatu.it/,36
 https://opinione.it/,36
 https://www.africarivista.it/,36
-https://www.cisl.it/,36
 https://www.firstcisl.it/,36
 https://www.liberoquotidiano.it/,36
 https://www.ekuonews.it/,35
@@ -550,6 +550,7 @@ https://www.giornalelora.it/,19
 https://www.ilgiornaledichieti.it/,19
 https://www.ilmoderatore.it/,19
 https://www.italiaoggi.it/,19
+https://www.kalaritanamedia.it/,19
 https://www.lacronaca24.it/,19
 https://www.laprovinciadicomo.it/,19
 https://www.lavocedelpopolo.it/,19
@@ -586,7 +587,6 @@ https://www.coe.int/,18
 https://www.eleonoramattia.it/,18
 https://www.glistatigenerali.com/,18
 https://www.hashtagsicilia.it/,18
-https://www.kalaritanamedia.it/,18
 https://www.laleggepertutti.it/,18
 https://www.lanuovariviera.it/,18
 https://www.lavocedelterritorio.it/,18
@@ -1071,6 +1071,7 @@ https://www.expartibus.it/,10
 https://www.fabi.it/,10
 https://www.fratelli-italia.it/,10
 https://www.frauenhauskoordinierung.de/,10
+https://www.freepressonline.it/,10
 https://www.giornaledelcilento.it/,10
 https://www.giornalesm.com/,10
 https://www.goldwebtv.it/,10
@@ -1173,7 +1174,6 @@ https://www.diocesi.torino.it/,9
 https://www.direttasicilia.it/,9
 https://www.enordest.it/,9
 https://www.filodiritto.com/,9
-https://www.freepressonline.it/,9
 https://www.gazzettadasti.it/,9
 https://www.giornalecentrosicilia.it/,9
 https://www.giovanireporter.org/,9
@@ -1715,6 +1715,7 @@ https://primalariviera.it/,5
 https://primalavaltellina.it/,5
 https://primamilanoovest.it/,5
 https://primapavia.it/,5
+https://ps-ticino.ch/,5
 https://quinlan.it/,5
 https://quotidianocostiera.it/,5
 https://radioaldebaran.it/,5
@@ -1993,7 +1994,6 @@ https://polizialocaledigitale.it/,4
 https://preview.liberta.it/,4
 https://primoweb.it/,4
 https://prolifeinsieme.it/,4
-https://ps-ticino.ch/,4
 https://reportsicilia.it/,4
 https://retelabuso.org/,4
 https://sardies.it/,4
@@ -2573,6 +2573,7 @@ https://www.gofundme.com/,3
 https://www.grandeippicaitaliana.it/,3
 https://www.helpconsumatori.it/,3
 https://www.himeralive.it/,3
+https://www.i400calci.com/,3
 https://www.iacchite.blog/,3
 https://www.icboviocotugno.edu.it/,3
 https://www.ilcarinese.it/,3
@@ -3386,7 +3387,6 @@ https://www.halleyweb.com/,2
 https://www.hoepli.it/,2
 https://www.hopfrog.it/,2
 https://www.hrw.org/,2
-https://www.i400calci.com/,2
 https://www.ialmo.it/,2
 https://www.ialweb.it/,2
 https://www.ibleinews.it/,2
@@ -3996,6 +3996,7 @@ https://casalmaggiore.it/,1
 https://case.univpm.it/,1
 https://casrec.unipd.it/,1
 https://catania.lasicilia.it/,1
+https://catiadiacom.blog/,1
 https://centralino.it/,1
 https://centroacquario.com/,1
 https://centroantiviolenzahara.it/,1
@@ -4617,6 +4618,7 @@ https://pdumbria.it/,1
 https://pedagogiadellespressione.com/,1
 https://periferiamonews.org/,1
 https://pernoiautistici.com/,1
+https://personale.unipr.it/,1
 https://pesaronotizie.com/,1
 https://pg-napoli.giustizia.it/,1
 https://piao.dfp.gov.it/,1
@@ -4960,6 +4962,7 @@ https://www.aboutpharma.com/,1
 https://www.abplive.com/,1
 https://www.abruzzonews24.com/,1
 https://www.accademiadeifolli.com/,1
+https://www.accessosenzalimiti.it/,1
 https://www.acistampa.com/,1
 https://www.acli.it/,1
 https://www.acri.it/,1
@@ -6727,6 +6730,7 @@ https://www.radioincontro.com/,1
 https://www.radioiulm.it/,1
 https://www.radiomovida.it/,1
 https://www.radiompa.it/,1
+https://www.radiopavia.com/,1
 https://www.radioribelle.it/,1
 https://www.radioromacapitale.it/,1
 https://www.radioromasound.it/,1
@@ -6766,6 +6770,7 @@ https://www.rightsreporter.org/,1
 https://www.risorsamobbing.it/,1
 https://www.rivistaaic.it/,1
 https://www.rivistacmi.it/,1
+https://www.rivistaenergia.it/,1
 https://www.rivistaundici.com/,1
 https://www.rockit.it/,1
 https://www.rocknation.it/,1
