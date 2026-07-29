@@ -1,13 +1,13 @@
 fonte,count
-https://www.facebook.com/,2509
+https://www.facebook.com/,2511
 https://www.youtube.com/,2347
 https://www.virgilio.it/,1357
 https://x.com/,1287
 https://www.ansa.it/,1083
 https://www.instagram.com/,1070
-https://www.ilrestodelcarlino.it/,988
+https://www.ilrestodelcarlino.it/,990
 https://www.rainews.it/,960
-https://www.lanazione.it/,736
+https://www.lanazione.it/,737
 https://tg24.sky.it/,675
 https://www.ilfattoquotidiano.it/,620
 https://www.lastampa.it/,571
@@ -25,7 +25,7 @@ https://www.romatoday.it/,259
 https://www.adnkronos.com/,252
 https://www.today.it/,245
 https://www.corriere.it/,240
-https://www.avvenire.it/,233
+https://www.avvenire.it/,234
 https://www.ilsole24ore.com/,231
 https://www.tgcom24.mediaset.it/,230
 https://www.ilmessaggero.it/,229
@@ -117,9 +117,9 @@ https://corrieredellumbria.it/,75
 https://www.antennasud.com/,75
 https://www.cesenatoday.it/,74
 https://www.gazzettadimantova.it/,74
+https://www.ladige.it/,73
 https://www.laregione.ch/,73
 https://www.interno.gov.it/,72
-https://www.ladige.it/,72
 https://www.salernotoday.it/,71
 https://www.statoquotidiano.it/,71
 https://27esimaora.corriere.it/,70
@@ -154,8 +154,8 @@ https://www.umbria24.it/,62
 https://www.huffingtonpost.it/,61
 https://www.lacnews24.it/,61
 https://askanews.it/,60
+https://www.trevisotoday.it/,60
 https://www.pressreader.com/,59
-https://www.trevisotoday.it/,59
 https://buonasera24.it/,58
 https://www.ilcentro.it/,58
 https://www.immediato.net/,58
@@ -391,6 +391,7 @@ https://www.ilpiccolo.it/,26
 https://www.lacapitale.it/,26
 https://www.laprovinciaunicatv.it/,26
 https://www.lindipendente.online/,26
+https://www.osservatoriofamiglia.it/,26
 https://www.quintopotere.it/,26
 https://www.spazio50.org/,26
 https://www.tribunatreviso.it/,26
@@ -411,7 +412,6 @@ https://www.italpress.com/,25
 https://www.lanuovaferrara.it/,25
 https://www.maremmaoggi.net/,25
 https://www.noidonne.org/,25
-https://www.osservatoriofamiglia.it/,25
 https://www.quicomo.it/,25
 https://www.reggionline.com/,25
 https://www.simcarabinieri.it/,25
@@ -505,6 +505,7 @@ https://ilpiccolo.org/,20
 https://ledicola.it/,20
 https://magazine.unibo.it/,20
 https://mediakey.it/,20
+https://radiogold.it/,20
 https://verdisinistra.it/,20
 https://www.cremaonline.it/,20
 https://www.cusanomediaplay.it/,20
@@ -535,7 +536,6 @@ https://corrieredinovara.it/,19
 https://d.repubblica.it/,19
 https://demografica.adnkronos.com/,19
 https://lavoce.hr/,19
-https://radiogold.it/,19
 https://radiotaormina.it/,19
 https://siracusapress.it/,19
 https://umbria7.it/,19
@@ -796,6 +796,7 @@ https://www.regione.basilicata.it/,14
 https://www.salvisjuribus.it/,14
 https://www.siracusanews.it/,14
 https://www.sorrentopress.it/,14
+https://www.superabile.it/,14
 https://www.teleclubitalia.it/,14
 https://www.thedotcultura.it/,14
 https://www.unime.it/,14
@@ -837,7 +838,6 @@ https://www.micromega.net/,13
 https://www.popolis.it/,13
 https://www.sardiniapost.it/,13
 https://www.sassuolo2000.it/,13
-https://www.superabile.it/,13
 https://www.tarantotoday.it/,13
 https://www.teleradio-news.it/,13
 https://www.tvprato.it/,13
@@ -935,6 +935,7 @@ https://inveritas.news/,11
 https://luccatimes.it/,11
 https://manewspiceno.it/,11
 https://messina.gds.it/,11
+https://milanopavia.news/,11
 https://moked.it/,11
 https://news.admin.ch/,11
 https://picchionews.it/,11
@@ -1029,7 +1030,6 @@ https://crema-news.it/,10
 https://gazzettadiplomatica.it/,10
 https://il-catenaccio.it/,10
 https://iltaccodibacco.it/,10
-https://milanopavia.news/,10
 https://news.avvocatoandreani.it/,10
 https://news.robadadonne.it/,10
 https://pagineesteri.it/,10
@@ -1352,6 +1352,7 @@ https://medicoepaziente.it/,7
 https://mondosanita.it/,7
 https://portale.fnomceo.it/,7
 https://quicosenza.it/,7
+https://sap-nazionale.org/,7
 https://temi.camera.it/,7
 https://terninrete.it/,7
 https://trendsanita.it/,7
@@ -1522,7 +1523,6 @@ https://primapadova.it/,6
 https://primavicenza.it/,6
 https://radioblackout.org/,6
 https://reggio.gazzettadelsud.it/,6
-https://sap-nazionale.org/,6
 https://sardegnanotizie24.it/,6
 https://scuola.repubblica.it/,6
 https://sicilia.lidentita.it/,6
@@ -3128,6 +3128,7 @@ https://www.acsi.it/,2
 https://www.adriaticonews.it/,2
 https://www.agendabrindisi.it/,2
 https://www.agenfood.it/,2
+https://www.aggiornamentisociali.it/,2
 https://www.agor.app/,2
 https://www.agoravox.it/,2
 https://www.ainfos.ca/,2
@@ -3165,6 +3166,7 @@ https://www.aslroma5.it/,2
 https://www.aslto3.piemonte.it/,2
 https://www.asp.rg.it/,2
 https://www.aspbasilicata.it/,2
+https://www.aspbologna.it/,2
 https://www.asppalermo.org/,2
 https://www.associazionedreamteam.eu/,2
 https://www.asst-spedalicivili.it/,2
@@ -4210,6 +4212,7 @@ https://fasanolive.com/,1
 https://fashionunited.it/,1
 https://fb.me/,1
 https://federalismi.it/,1
+https://federsanita.anci.fvg.it/,1
 https://federsanitatoscana.it/,1
 https://feiraa.de/,1
 https://feriteamorte.it/,1
@@ -4992,7 +4995,6 @@ https://www.agenda17.it/,1
 https://www.agendaonline.it/,1
 https://www.agensocial.it/,1
 https://www.agenziaeventi.org/,1
-https://www.aggiornamentisociali.it/,1
 https://www.aginazionale.it/,1
 https://www.agisweb.it/,1
 https://www.agoraliceodoria.it/,1
@@ -5113,7 +5115,6 @@ https://www.aslimitaly.it/,1
 https://www.asloristano.it/,1
 https://www.aslroma2.it/,1
 https://www.asnali.org/,1
-https://www.aspbologna.it/,1
 https://www.asphi.it/,1
 https://www.aspicodv.com/,1
 https://www.asroma.com/,1
@@ -6374,6 +6375,7 @@ https://www.marconicivitavecchia.it/,1
 https://www.mareonline.it/,1
 https://www.margheritahackcampibisenzio.edu.it/,1
 https://www.maridacaterini.it/,1
+https://www.mariofurore.it/,1
 https://www.martignaccospazioaperto.it/,1
 https://www.martinasera.it/,1
 https://www.marvalstudios.com/,1
@@ -6605,6 +6607,7 @@ https://www.parlamentiregionali.it/,1
 https://www.parmacalcio1913.com/,1
 https://www.paroledimanagement.it/,1
 https://www.paroleostili.it/,1
+https://www.parteciparte.com/,1
 https://www.partitaiva.it/,1
 https://www.passaggifestival.it/,1
 https://www.passaggilibriecaffe.it/,1
@@ -6955,6 +6958,7 @@ https://www.teatridibari.it/,1
 https://www.teatriincomune.roma.it/,1
 https://www.teatro.it/,1
 https://www.teatroarcobaleno.net/,1
+https://www.teatrocarcano.com/,1
 https://www.teatrocomunalemodena.it/,1
 https://www.teatrodehon.it/,1
 https://www.teatrodeicontrari.com/,1
