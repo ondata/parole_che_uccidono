@@ -1,13 +1,13 @@
 fonte,count
-https://www.facebook.com/,2556
+https://www.facebook.com/,2559
 https://www.youtube.com/,2360
 https://www.virgilio.it/,1364
 https://x.com/,1294
 https://www.ansa.it/,1101
-https://www.instagram.com/,1094
+https://www.instagram.com/,1095
 https://www.ilrestodelcarlino.it/,1006
 https://www.rainews.it/,979
-https://www.lanazione.it/,742
+https://www.lanazione.it/,743
 https://tg24.sky.it/,680
 https://www.ilfattoquotidiano.it/,632
 https://www.lastampa.it/,578
@@ -94,16 +94,16 @@ https://www.giornalelavoce.it/,87
 https://www.greenme.it/,87
 https://www.lasicilia.it/,87
 https://www.cataniatoday.it/,85
+https://www.torinotoday.it/,85
 https://www.forlitoday.it/,84
 https://www.laprovinciacr.it/,84
-https://www.torinotoday.it/,84
 https://www.lapresse.it/,83
+https://www.agrigentonotizie.it/,82
 https://www.ilpiacenza.it/,82
 https://www.lecceprima.it/,82
 https://www.perugiatoday.it/,82
 https://www.vaticannews.va/,82
 https://milano.corriere.it/,81
-https://www.agrigentonotizie.it/,81
 https://www.uisp.it/,81
 https://ilgiornalepopolare.it/,80
 https://www.libero.it/,80
@@ -315,6 +315,7 @@ https://napolitan.it/,32
 https://riforma.it/,32
 https://www.change.org/,32
 https://www.esperienzeconilsud.it/,32
+https://www.istat.it/,32
 https://www.legnanonews.com/,32
 https://www.libertas.sm/,32
 https://www.minori.gov.it/,32
@@ -325,7 +326,6 @@ https://www.vitatrentina.it/,32
 https://wesud.it/,31
 https://www.agenziacult.it/,31
 https://www.bresciatoday.it/,31
-https://www.istat.it/,31
 https://www.laprovinciacv.it/,31
 https://www.sassaritoday.it/,31
 https://www.studocu.com/,31
@@ -404,6 +404,7 @@ https://www.reggionline.com/,26
 https://www.simcarabinieri.it/,26
 https://www.spazio50.org/,26
 https://www.tribunatreviso.it/,26
+https://www.tusciaweb.eu/,26
 https://corrieredisiena.it/,25
 https://ildomaniditalia.eu/,25
 https://movieplayer.it/,25
@@ -420,7 +421,6 @@ https://www.informazione.it/,25
 https://www.lanuovaferrara.it/,25
 https://www.quicomo.it/,25
 https://www.sardegnalive.net/,25
-https://www.tusciaweb.eu/,25
 https://www.umbriacronaca.it/,25
 https://www.uniroma1.it/,25
 https://www.womenews.net/,25
@@ -1162,6 +1162,7 @@ https://radiocassino.it/,9
 https://radiolina.it/,9
 https://unr.edu.ar/,9
 https://www.aifa.gov.it/,9
+https://www.amazon.it/,9
 https://www.anfp.it/,9
 https://www.balarm.it/,9
 https://www.bergamotomorrow.it/,9
@@ -1266,7 +1267,6 @@ https://www.12tvparma.it/,8
 https://www.24emilia.com/,8
 https://www.abruzzonews.eu/,8
 https://www.agenpress.it/,8
-https://www.amazon.it/,8
 https://www.atlanteguerre.it/,8
 https://www.balcanicaucaso.org/,8
 https://www.bellunesinelmondo.info/,8
@@ -1353,6 +1353,7 @@ https://comune.avezzano.aq.it/,7
 https://comunicalo.it/,7
 https://cr.campania.it/,7
 https://ecoaltomolise.net/,7
+https://goldtv.it/,7
 https://group.intesasanpaolo.com/,7
 https://ilfuturoquotidiano.it/,7
 https://inconsiglio.it/,7
@@ -1506,7 +1507,6 @@ https://fishets.it/,6
 https://forum.alfemminile.com/,6
 https://forumcorriere.corriere.it/,6
 https://gdc.ancidigitale.it/,6
-https://goldtv.it/,6
 https://goriziaoggi.news/,6
 https://ilclandestinogiornale.radioroma.it/,6
 https://ilgranchio.it/,6
@@ -2462,6 +2462,7 @@ https://web.uniroma2.it/,3
 https://wildbeimwild.com/,3
 https://www.105.net/,3
 https://www.105tv.it/,3
+https://www.7goldtelepadova.tv/,3
 https://www.abi.it/,3
 https://www.aggiornamentisociali.it/,3
 https://www.agrtv.it/,3
@@ -3139,7 +3140,6 @@ https://wordart.com/,2
 https://www.1caffe.org/,2
 https://www.6libera.org/,2
 https://www.7comunionline.it/,2
-https://www.7goldtelepadova.tv/,2
 https://www.abmreport.it/,2
 https://www.abruzzo24ore.tv/,2
 https://www.abruzzoindependent.it/,2
