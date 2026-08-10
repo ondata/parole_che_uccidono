@@ -1,10 +1,10 @@
 fonte,count
 https://www.facebook.com/,2594
-https://www.youtube.com/,2366
+https://www.youtube.com/,2367
 https://www.virgilio.it/,1379
 https://x.com/,1300
+https://www.ansa.it/,1114
 https://www.instagram.com/,1113
-https://www.ansa.it/,1112
 https://www.ilrestodelcarlino.it/,1017
 https://www.rainews.it/,984
 https://www.lanazione.it/,749
@@ -51,8 +51,8 @@ https://www.quotidiano.net/,165
 https://roma.corriere.it/,163
 https://www.vanityfair.it/,163
 https://www.msn.com/,157
+https://www.reddit.com/,150
 https://roma.repubblica.it/,149
-https://www.reddit.com/,148
 https://prefettura.interno.gov.it/,145
 https://www.foggiatoday.it/,135
 https://www.iodonna.it/,133
@@ -85,8 +85,8 @@ https://tg.la7.it/,96
 https://www.tiktok.com/,94
 https://it.cibercuba.com/,93
 https://www.agenzianova.com/,93
+https://www.torinotoday.it/,92
 https://www.ravennatoday.it/,91
-https://www.torinotoday.it/,91
 https://www.ilpost.it/,90
 https://www.brindisireport.it/,89
 https://www.ecodibergamo.it/,89
@@ -444,6 +444,7 @@ https://www.pordenonetoday.it/,24
 https://www.questionegiustizia.it/,24
 https://www.quotidianopiemontese.it/,24
 https://www.umbriaon.it/,24
+https://www.vipiu.it/,24
 https://www.wired.it/,24
 https://arte.sky.it/,23
 https://corrierediarezzo.it/,23
@@ -462,7 +463,6 @@ https://www.interris.it/,23
 https://www.mondoreale.it/,23
 https://www.ore12.net/,23
 https://www.reggiotv.it/,23
-https://www.vipiu.it/,23
 https://www.vocedipopolo.it/,23
 https://altreconomia.it/,22
 https://consiglio.regione.umbria.it/,22
@@ -1173,6 +1173,7 @@ https://www.anfp.it/,9
 https://www.balarm.it/,9
 https://www.bergamotomorrow.it/,9
 https://www.bisceglie24.it/,9
+https://www.blitzquotidiano.it/,9
 https://www.buonasera24.it/,9
 https://www.camminosiracusa.it/,9
 https://www.canale7.tv/,9
@@ -1279,7 +1280,6 @@ https://www.12tvparma.it/,8
 https://www.24emilia.com/,8
 https://www.atlanteguerre.it/,8
 https://www.bellunesinelmondo.info/,8
-https://www.blitzquotidiano.it/,8
 https://www.brindisitime.it/,8
 https://www.canottaggio.org/,8
 https://www.coldiretti.it/,8
@@ -1315,6 +1315,7 @@ https://www.infoaut.org/,8
 https://www.insidertrend.it/,8
 https://www.italiaonline.news/,8
 https://www.key4biz.it/,8
+https://www.lacittadisalerno.it/,8
 https://www.lapressa.it/,8
 https://www.lavitacattolica.it/,8
 https://www.lavocedigenova.it/,8
@@ -1322,6 +1323,7 @@ https://www.lettera43.it/,8
 https://www.mim.gov.it/,8
 https://www.newmediaeuropeanpress.eu/,8
 https://www.newsbiella.it/,8
+https://www.novetv.com/,8
 https://www.ntacalabria.it/,8
 https://www.nuvola.tv/,8
 https://www.policymakermag.it/,8
@@ -1437,7 +1439,6 @@ https://www.inprimanews.it/,7
 https://www.istruzione.news/,7
 https://www.labussolanews.it/,7
 https://www.lacasadelledonnemodena.it/,7
-https://www.lacittadisalerno.it/,7
 https://www.lafedelta.it/,7
 https://www.lavocedeigiornalisti.com/,7
 https://www.lavocedibolzano.it/,7
@@ -1450,7 +1451,6 @@ https://www.metropolitano.it/,7
 https://www.mosaico-cem.it/,7
 https://www.news-24.it/,7
 https://www.nordest24.it/,7
-https://www.novetv.com/,7
 https://www.nssgclub.com/,7
 https://www.nurse24.it/,7
 https://www.okmugello.it/,7
@@ -1662,6 +1662,7 @@ https://www.pugliain.net/,6
 https://www.quotidianodiragusa.it/,6
 https://www.ragusaoggi.it/,6
 https://www.redazionenews.it/,6
+https://www.reportsicilia.it/,6
 https://www.rivieraoggi.it/,6
 https://www.romadailynews.it/,6
 https://www.rtcquartarete.it/,6
@@ -1923,7 +1924,6 @@ https://www.ragusanews.com/,5
 https://www.regione.calabria.it/,5
 https://www.reportageonline.it/,5
 https://www.reportsardegna24.it/,5
-https://www.reportsicilia.it/,5
 https://www.reportweb.tv/,5
 https://www.researchgate.net/,5
 https://www.rifday.it/,5
@@ -3464,6 +3464,7 @@ https://www.imille.com/,2
 https://www.imperiatv.it/,2
 https://www.inca.it/,2
 https://www.incaer.it/,2
+https://www.indie-eye.it/,2
 https://www.infermieristicamente.it/,2
 https://www.infomessina.it/,2
 https://www.informagiovani.fe.it/,2
@@ -3538,6 +3539,7 @@ https://www.linterferenza.info/,2
 https://www.liquidarte.it/,2
 https://www.lopinionista.it/,2
 https://www.lospaziobianco.it/,2
+https://www.losservatore.com/,2
 https://www.luganolac.ch/,2
 https://www.luiss.it/,2
 https://www.lumsanews.it/,2
@@ -6123,7 +6125,6 @@ https://www.inarzignano.it/,1
 https://www.inbb.it/,1
 https://www.inchiestasicilia.com/,1
 https://www.inchiostroverde.it/,1
-https://www.indie-eye.it/,1
 https://www.indieforbunnies.com/,1
 https://www.indiscreto.org/,1
 https://www.industriaitaliana.it/,1
@@ -6406,7 +6407,6 @@ https://www.lordinenuovo.it/,1
 https://www.loredanacelano.it/,1
 https://www.lorenzoquadri.ch/,1
 https://www.loscribo.it/,1
-https://www.losservatore.com/,1
 https://www.lovevda.it/,1
 https://www.lps.coop/,1
 https://www.ltp.edu.it/,1
