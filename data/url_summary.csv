@@ -1,5 +1,5 @@
 fonte,count
-https://www.facebook.com/,2601
+https://www.facebook.com/,2602
 https://www.youtube.com/,2370
 https://www.virgilio.it/,1380
 https://x.com/,1303
@@ -7,9 +7,9 @@ https://www.ansa.it/,1119
 https://www.instagram.com/,1117
 https://www.ilrestodelcarlino.it/,1019
 https://www.rainews.it/,987
-https://www.lanazione.it/,749
+https://www.lanazione.it/,753
 https://tg24.sky.it/,685
-https://www.ilfattoquotidiano.it/,642
+https://www.ilfattoquotidiano.it/,643
 https://www.lastampa.it/,584
 https://www.fanpage.it/,575
 https://www.ilgiorno.it/,496
@@ -32,7 +32,7 @@ https://www.ilsole24ore.com/,231
 https://www.ilmattino.it/,230
 https://m.facebook.com/,225
 https://ilmanifesto.it/,218
-https://www.ilgiornale.it/,202
+https://www.ilgiornale.it/,203
 https://www.editorialedomani.it/,198
 https://www.ilgazzettino.it/,198
 https://questure.poliziadistato.it/,196
@@ -115,10 +115,10 @@ https://www.borsaitaliana.it/,79
 https://www.cesenatoday.it/,79
 https://corrieredelveneto.corriere.it/,78
 https://www.ladige.it/,77
+https://www.laregione.ch/,76
 https://corrieredellumbria.it/,75
 https://www.antennasud.com/,75
 https://www.interno.gov.it/,75
-https://www.laregione.ch/,75
 https://www.gazzettadimantova.it/,74
 https://27esimaora.corriere.it/,72
 https://www.anconatoday.it/,72
@@ -135,8 +135,8 @@ https://www.malpensa24.it/,70
 https://www.riminitoday.it/,70
 https://www.varesenews.it/,70
 https://it.euronews.com/,69
+https://www.centropagina.it/,69
 https://napoli.repubblica.it/,68
-https://www.centropagina.it/,68
 https://www.collettiva.it/,68
 https://www.corrieredellacalabria.it/,68
 https://www.ildolomiti.it/,67
@@ -578,6 +578,7 @@ https://www.lombardianotizie.online/,19
 https://www.mbnews.it/,19
 https://www.milanopavia.news/,19
 https://www.nordestnews.it/,19
+https://www.quibrescia.it/,19
 https://www.quotidianodelsud.it/,19
 https://www.quotidianolavoce.it/,19
 https://www.radioalfa.fm/,19
@@ -594,6 +595,7 @@ https://marcheinfinite.com/,18
 https://perugiacomunica.comune.perugia.it/,18
 https://secondotempo.cattolicanews.it/,18
 https://www.aibi.it/,18
+https://www.cascinanotizie.it/,18
 https://www.cgilmodena.it/,18
 https://www.coe.int/,18
 https://www.eleonoramattia.it/,18
@@ -612,7 +614,6 @@ https://www.messinaindiretta.it/,18
 https://www.nanotv.it/,18
 https://www.nicolaporro.it/,18
 https://www.orticalab.it/,18
-https://www.quibrescia.it/,18
 https://www.radiobullets.com/,18
 https://www.regione.emilia-romagna.it/,18
 https://www.romasette.it/,18
@@ -641,7 +642,7 @@ https://www.abruzzospeciale.it/,17
 https://www.aics.gov.it/,17
 https://www.borderline24.com/,17
 https://www.cagliaripad.it/,17
-https://www.cascinanotizie.it/,17
+https://www.calabriareportage.it/,17
 https://www.comune.bari.it/,17
 https://www.dagospia.com/,17
 https://www.dalsociale24.it/,17
@@ -682,7 +683,6 @@ https://pagellapolitica.it/,16
 https://primalecco.it/,16
 https://quindicinews.it/,16
 https://ristretti.org/,16
-https://www.calabriareportage.it/,16
 https://www.comingsoon.it/,16
 https://www.consiglio.marche.it/,16
 https://www.fanoinforma.it/,16
@@ -2189,6 +2189,7 @@ https://www.la-notizia.net/,4
 https://www.lacittadelnordmilano.it/,4
 https://www.ladolcevita.tv/,4
 https://www.lafune.eu/,4
+https://www.lagazzettadelcalatino.it/,4
 https://www.lagendanews.com/,4
 https://www.lameziainforma.it/,4
 https://www.lanotiziagiornale.it/,4
@@ -2658,7 +2659,6 @@ https://www.lacerbaonline.it/,3
 https://www.laesse.org/,3
 https://www.lafeltrinelli.it/,3
 https://www.lagazzettaaugustana.it/,3
-https://www.lagazzettadelcalatino.it/,3
 https://www.laltrofemminile.it/,3
 https://www.laltroparlante.it/,3
 https://www.lanotiziapontina.eu/,3
@@ -5574,6 +5574,7 @@ https://www.comune.siena.it/,1
 https://www.comune.silvi.te.it/,1
 https://www.comune.solaro.mi.it/,1
 https://www.comune.stanghella.pd.it/,1
+https://www.comune.suvereto.li.it/,1
 https://www.comune.suzzara.mn.it/,1
 https://www.comune.tarcento.ud.it/,1
 https://www.comune.tavagnacco.ud.it/,1
