@@ -1,17 +1,17 @@
 fonte,count
-https://www.facebook.com/,2608
-https://www.youtube.com/,2371
-https://www.virgilio.it/,1385
-https://x.com/,1306
-https://www.instagram.com/,1121
+https://www.facebook.com/,2610
+https://www.youtube.com/,2372
+https://www.virgilio.it/,1386
+https://x.com/,1307
+https://www.instagram.com/,1123
 https://www.ansa.it/,1120
 https://www.ilrestodelcarlino.it/,1019
 https://www.rainews.it/,987
 https://www.lanazione.it/,756
-https://tg24.sky.it/,685
+https://tg24.sky.it/,686
 https://www.ilfattoquotidiano.it/,646
 https://www.lastampa.it/,585
-https://www.fanpage.it/,576
+https://www.fanpage.it/,577
 https://www.ilgiorno.it/,499
 https://www.open.online/,478
 https://www.repubblica.it/,368
@@ -24,7 +24,7 @@ https://www.romatoday.it/,269
 https://www.unionesarda.it/,267
 https://www.adnkronos.com/,258
 https://www.today.it/,251
-https://www.corriere.it/,247
+https://www.corriere.it/,248
 https://www.avvenire.it/,243
 https://www.ilmessaggero.it/,238
 https://www.tgcom24.mediaset.it/,238
@@ -36,7 +36,7 @@ https://www.ilgiornale.it/,204
 https://www.editorialedomani.it/,199
 https://www.ilgazzettino.it/,198
 https://questure.poliziadistato.it/,196
-https://www.milanotoday.it/,190
+https://www.milanotoday.it/,191
 https://www.lagazzettadelmezzogiorno.it/,188
 https://it.linkedin.com/,187
 https://www.orizzontescuola.it/,185
@@ -51,7 +51,7 @@ https://www.quotidiano.net/,165
 https://roma.corriere.it/,163
 https://www.vanityfair.it/,163
 https://www.msn.com/,157
-https://www.reddit.com/,150
+https://www.reddit.com/,151
 https://roma.repubblica.it/,149
 https://prefettura.interno.gov.it/,147
 https://www.corriereadriatico.it/,135
@@ -96,14 +96,14 @@ https://www.giornalelavoce.it/,88
 https://www.greenme.it/,88
 https://www.lasicilia.it/,88
 https://www.forlitoday.it/,85
+https://www.agrigentonotizie.it/,84
 https://www.laprovinciacr.it/,84
-https://www.agrigentonotizie.it/,83
 https://www.lapresse.it/,83
 https://www.lecceprima.it/,83
+https://www.tio.ch/,83
 https://www.vaticannews.va/,83
 https://www.ilpiacenza.it/,82
 https://www.perugiatoday.it/,82
-https://www.tio.ch/,82
 https://milano.corriere.it/,81
 https://www.libero.it/,81
 https://www.mattinopadova.it/,81
@@ -115,7 +115,7 @@ https://www.borsaitaliana.it/,79
 https://www.cesenatoday.it/,79
 https://corrieredelveneto.corriere.it/,78
 https://www.ladige.it/,77
-https://www.laregione.ch/,76
+https://www.laregione.ch/,77
 https://corrieredellumbria.it/,75
 https://www.antennasud.com/,75
 https://www.interno.gov.it/,75
@@ -300,12 +300,12 @@ https://corrierefiorentino.corriere.it/,34
 https://corriereirpinia.it/,34
 https://genova.repubblica.it/,34
 https://lamilano.it/,34
+https://www.bresciatoday.it/,34
 https://www.cagliaritoday.it/,34
 https://www.ilcittadino.it/,34
 https://www.siracusaoggi.it/,34
 https://napolitan.it/,33
 https://tgpadova.telenuovo.it/,33
-https://www.bresciatoday.it/,33
 https://www.fisac-cgil.it/,33
 https://www.gnewsonline.it/,33
 https://www.marieclaire.it/,33
@@ -583,6 +583,7 @@ https://www.quibrescia.it/,19
 https://www.quotidianodelsud.it/,19
 https://www.quotidianolavoce.it/,19
 https://www.radioalfa.fm/,19
+https://www.radiobullets.com/,19
 https://www.regione.veneto.it/,19
 https://www.settimananews.it/,19
 https://www.teleacras.it/,19
@@ -615,7 +616,6 @@ https://www.messinaindiretta.it/,18
 https://www.nanotv.it/,18
 https://www.nicolaporro.it/,18
 https://www.orticalab.it/,18
-https://www.radiobullets.com/,18
 https://www.regione.emilia-romagna.it/,18
 https://www.romasette.it/,18
 https://www.unipi.it/,18
@@ -765,6 +765,7 @@ https://www.sciscianonotizie.it/,15
 https://www.scuolalink.it/,15
 https://www.spazioapertosalento.it/,15
 https://www.stylo24.it/,15
+https://www.tarantotoday.it/,15
 https://www.trgmedia.it/,15
 https://www.tv33.it/,15
 https://www.umbriajournal.com/,15
@@ -809,7 +810,6 @@ https://www.sicilia24h.it/,14
 https://www.siracusanews.it/,14
 https://www.sorrentopress.it/,14
 https://www.superabile.it/,14
-https://www.tarantotoday.it/,14
 https://www.teleclubitalia.it/,14
 https://www.thedotcultura.it/,14
 https://www.unime.it/,14
@@ -1703,6 +1703,7 @@ https://www.vcoazzurratv.it/,6
 https://www.videolina.it/,6
 https://www.visitbergamo.net/,6
 https://www.vivereroma.org/,6
+https://www.vogheranews.it/,6
 https://zonaromanord.it/,6
 http://www.laregione.ch/,5
 http://www.regioni.it/,5
@@ -1971,7 +1972,6 @@ https://www.vaitaormina.com/,5
 https://www.vareseinforma.it/,5
 https://www.veronanews.net/,5
 https://www.versiliatoday.it/,5
-https://www.vogheranews.it/,5
 https://www.youtvrs.it/,5
 http://www.canturino.com/,4
 http://www.cittametropolitana.torino.it/,4
@@ -3064,6 +3064,7 @@ https://onefootball.com/,2
 https://ordineavvocatitorino.it/,2
 https://ort.org/,2
 https://osservatoriocpi.unicatt.it/,2
+https://ozanews.it/,2
 https://pagamentipa.comune.sanroccoalporto.lo.it/,2
 https://palolive.it/,2
 https://pangeaonlus.org/,2
@@ -3658,6 +3659,7 @@ https://www.qfiumicino.com/,2
 https://www.quadrochiaro.it/,2
 https://www.quimediaset.it/,2
 https://www.quinewsarezzo.it/,2
+https://www.quinewselba.it/,2
 https://www.quisalutedonna.it/,2
 https://www.quotidianomilano.com/,2
 https://www.quotidianosicurezza.it/,2
@@ -3917,6 +3919,7 @@ https://adv.unimib.it/,1
 https://advisoronline.it/,1
 https://aepi-group.it/,1
 https://agenda.infn.it/,1
+https://agensocial.it/,1
 https://agnelli.it/,1
 https://aiaf-veneto.it/,1
 https://aicstorino.it/,1
@@ -4152,6 +4155,7 @@ https://connectingspheres.oxfam.it/,1
 https://conoscigenova.it/,1
 https://conosciroma.it/,1
 https://conpuriane.blog/,1
+https://consiglieradiparita.regione.basilicata.it/,1
 https://consmontreal.esteri.it/,1
 https://consociale.it/,1
 https://consrosario.esteri.it/,1
@@ -4688,7 +4692,6 @@ https://ospedalecristore.it/,1
 https://osservatoriosocialis.it/,1
 https://oubliettemagazine.com/,1
 https://ovadaonline.ilpiccolo.net/,1
-https://ozanews.it/,1
 https://padovacultura.padovanet.it/,1
 https://pagamentipa.comune.corropoli.te.it/,1
 https://pagamentipa.comune.triggiano.ba.it/,1
@@ -6808,7 +6811,6 @@ https://www.qualenergia.it/,1
 https://www.quartieresandonato.it/,1
 https://www.quattroruote.it/,1
 https://www.quiamagazine.it/,1
-https://www.quinewselba.it/,1
 https://www.quinewsvalbisenzio.it/,1
 https://www.quinewsvaldicornia.it/,1
 https://www.quintapagina.eu/,1
