@@ -1,5 +1,5 @@
 fonte,count
-https://www.facebook.com/,2616
+https://www.facebook.com/,2617
 https://www.youtube.com/,2375
 https://www.virgilio.it/,1386
 https://x.com/,1308
@@ -54,7 +54,7 @@ https://www.msn.com/,157
 https://www.reddit.com/,151
 https://roma.repubblica.it/,149
 https://prefettura.interno.gov.it/,147
-https://www.corriereadriatico.it/,135
+https://www.corriereadriatico.it/,137
 https://www.foggiatoday.it/,135
 https://www.iodonna.it/,133
 https://www.lanuovasardegna.it/,133
@@ -85,8 +85,8 @@ https://www.agenzianova.com/,97
 https://www.radioradicale.it/,97
 https://www.tiktok.com/,95
 https://it.cibercuba.com/,93
+https://www.ravennatoday.it/,92
 https://www.torinotoday.it/,92
-https://www.ravennatoday.it/,91
 https://www.ilpost.it/,90
 https://lespresso.it/,89
 https://www.brindisireport.it/,89
@@ -465,6 +465,7 @@ https://www.gazetaexpress.com/,23
 https://www.interris.it/,23
 https://www.mondoreale.it/,23
 https://www.occhioallanotizia.it/,23
+https://www.politicamentecorretto.com/,23
 https://altreconomia.it/,22
 https://aostasera.it/,22
 https://consiglio.regione.umbria.it/,22
@@ -484,12 +485,12 @@ https://www.ildenaro.it/,22
 https://www.infopal.it/,22
 https://www.ladigetto.it/,22
 https://www.larampa.news/,22
-https://www.politicamentecorretto.com/,22
 https://www.radiolaser.it/,22
 https://www.radiondadurto.org/,22
 https://www.sassarioggi.it/,22
 https://www.targatocn.it/,22
 https://www.telemia.it/,22
+https://www.torinocronaca.it/,22
 https://www.tusciaup.com/,22
 https://ilpiccolo.org/,21
 https://ledicola.it/,21
@@ -514,7 +515,6 @@ https://www.pupia.tv/,21
 https://www.raiplaysound.it/,21
 https://www.regione.vda.it/,21
 https://www.ticinonews.ch/,21
-https://www.torinocronaca.it/,21
 https://www.triesteallnews.it/,21
 https://www.vdnews.it/,21
 http://met.cittametropolitana.fi.it/,20
@@ -1169,6 +1169,7 @@ https://puntomagazine.it/,9
 https://quotidianodibari.it/,9
 https://radiocassino.it/,9
 https://radiolina.it/,9
+https://sap-nazionale.org/,9
 https://unr.edu.ar/,9
 https://www.abruzzonews.eu/,9
 https://www.agenpress.it/,9
@@ -1271,7 +1272,6 @@ https://quicosenza.it/,8
 https://quimesagne.it/,8
 https://radionbc.it/,8
 https://radiowow.com/,8
-https://sap-nazionale.org/,8
 https://siciliamedica.com/,8
 https://soundcloud.com/,8
 https://sudtv.net/,8
@@ -1621,6 +1621,7 @@ https://www.giustizianews24.it/,6
 https://www.greenreport.it/,6
 https://www.grossetonotizie.com/,6
 https://www.hellasverona.it/,6
+https://www.iduepunti.it/,6
 https://www.ilcittadinodirecanati.it/,6
 https://www.ilgiornaleditrani.net/,6
 https://www.ilnordestquotidiano.it/,6
@@ -1854,7 +1855,6 @@ https://www.goldoniteatro.it/,5
 https://www.grazia.it/,5
 https://www.h24notizie.com/,5
 https://www.idearadionelmondo.it/,5
-https://www.iduepunti.it/,5
 https://www.ilcineocchio.it/,5
 https://www.ilcuoioindiretta.it/,5
 https://www.ildispariquotidiano.it/,5
@@ -2035,6 +2035,7 @@ https://livornopress.it/,4
 https://loftcultura.it/,4
 https://mag.unitn.it/,4
 https://molfettalive.it/,4
+https://multiplayer.it/,4
 https://musicbiz.rockol.it/,4
 https://news.fidelityhouse.eu/,4
 https://newsroom24.it/,4
@@ -2420,7 +2421,6 @@ https://mappeser.com/,3
 https://marchespettacolo.com/,3
 https://milano.notizie.it/,3
 https://mincioedintorni.com/,3
-https://multiplayer.it/,3
 https://napolipiu.com/,3
 https://news.uniroma1.it/,3
 https://notiziaoggi.it/,3
@@ -3592,6 +3592,7 @@ https://www.oggiconversano.it/,2
 https://www.oggiintv.eu/,2
 https://www.ogginuoro.it/,2
 https://www.oggiscuola.com/,2
+https://www.ok-salute.it/,2
 https://www.okfirenze.com/,2
 https://www.okinawatimes.co.jp/,2
 https://www.olbianotizie.it/,2
@@ -6613,7 +6614,6 @@ https://www.offida.info/,1
 https://www.oggiaiglesias.com/,1
 https://www.oggicronaca.it/,1
 https://www.oggiroma.it/,1
-https://www.ok-salute.it/,1
 https://www.olivelliputelli.edu.it/,1
 https://www.oltrefano.it/,1
 https://www.oltrelecolonne.it/,1
@@ -6934,6 +6934,7 @@ https://www.scherillopirandellosvevo.edu.it/,1
 https://www.scicchitanostudiolegale.it/,1
 https://www.scienzeforensi.net/,1
 https://www.scomunicando.it/,1
+https://www.scosse.org/,1
 https://www.scrittorincitta.it/,1
 https://www.scuola7.it/,1
 https://www.scuolacavourcatania.edu.it/,1
