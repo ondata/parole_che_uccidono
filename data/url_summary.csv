@@ -1,15 +1,15 @@
 fonte,count
-https://www.facebook.com/,2883
+https://www.facebook.com/,2887
 https://www.youtube.com/,2428
 https://www.virgilio.it/,1441
 https://x.com/,1344
 https://www.instagram.com/,1255
 https://www.ansa.it/,1223
 https://www.ilrestodelcarlino.it/,1066
-https://www.rainews.it/,1050
-https://www.lanazione.it/,795
+https://www.rainews.it/,1051
+https://www.lanazione.it/,797
 https://tg24.sky.it/,730
-https://www.ilfattoquotidiano.it/,713
+https://www.ilfattoquotidiano.it/,714
 https://www.lastampa.it/,612
 https://www.fanpage.it/,603
 https://www.ilgiorno.it/,520
@@ -27,7 +27,7 @@ https://www.corriere.it/,270
 https://www.today.it/,261
 https://www.avvenire.it/,260
 https://www.tgcom24.mediaset.it/,258
-https://www.ilmessaggero.it/,256
+https://www.ilmessaggero.it/,257
 https://www.ilsole24ore.com/,238
 https://ilmanifesto.it/,236
 https://www.ilmattino.it/,233
@@ -39,7 +39,7 @@ https://www.lagazzettadelmezzogiorno.it/,207
 https://questure.poliziadistato.it/,206
 https://www.milanotoday.it/,199
 https://www.orizzontescuola.it/,197
-https://it.linkedin.com/,192
+https://it.linkedin.com/,193
 https://www.agensir.it/,186
 https://www.quotidiano.net/,185
 https://www.rsi.ch/,185
@@ -664,6 +664,7 @@ https://abitarearoma.it/,17
 https://anagnia.com/,17
 https://casertaweb.com/,17
 https://catanzaro.gazzettadelsud.it/,17
+https://cinecittanews.it/,17
 https://esgdata.it/,17
 https://etnanews24.it/,17
 https://labusa.info/,17
@@ -705,7 +706,6 @@ https://www.telemontekronio.it/,17
 https://www.torinoggi.it/,17
 https://www.vicenzatoday.it/,17
 https://www.vitacasalese.it/,17
-https://cinecittanews.it/,16
 https://corrieredellaltoadige.corriere.it/,16
 https://cronachesalerno.it/,16
 https://etrurianews.it/,16
@@ -1132,6 +1132,7 @@ https://www.comune.ragusa.it/,10
 https://www.comune.trieste.it/,10
 https://www.comune.vicenza.it/,10
 https://www.corrieredirieti.it/,10
+https://www.corrieredisiena.it/,10
 https://www.crotonenews.com/,10
 https://www.diritto.it/,10
 https://www.economymagazine.it/,10
@@ -1224,7 +1225,6 @@ https://www.comune.pesaro.pu.it/,9
 https://www.confinionline.it/,9
 https://www.controluce.it/,9
 https://www.corrieredelconero.it/,9
-https://www.corrieredisiena.it/,9
 https://www.corrierediviterbo.it/,9
 https://www.cosenzaok.it/,9
 https://www.cronacadiverona.com/,9
@@ -1508,6 +1508,7 @@ https://www.lepocaculturale.it/,7
 https://www.libreriauniversitaria.it/,7
 https://www.manewsfermano.it/,7
 https://www.mediciconlafrica.org/,7
+https://www.mentinfuga.com/,7
 https://www.mosaico-cem.it/,7
 https://www.nev.it/,7
 https://www.news-24.it/,7
@@ -1701,7 +1702,6 @@ https://www.malpensanews.it/,6
 https://www.manduriaoggi.it/,6
 https://www.marigliano.net/,6
 https://www.marsalalive.it/,6
-https://www.mentinfuga.com/,6
 https://www.meridiananotizie.it/,6
 https://www.mescalina.it/,6
 https://www.mi-lorenteggio.com/,6
@@ -2028,6 +2028,7 @@ https://cadmi.org/,4
 https://cagliarinews.it/,4
 https://caseper.it/,4
 https://centroelenacornaro.unipd.it/,4
+https://cittadino.ca/,4
 https://close-up.info/,4
 https://community.omniavis.it/,4
 https://comozero.it/,4
@@ -2115,6 +2116,7 @@ https://www.adhocnews.it/,4
 https://www.agenziaimpress.it/,4
 https://www.altarezianews.it/,4
 https://www.amarantochannel.it/,4
+https://www.amazon.in/,4
 https://www.anciabruzzo.it/,4
 https://www.antimafiaduemila.com/,4
 https://www.araldolomellino.it/,4
@@ -2413,7 +2415,6 @@ https://chiaraeditrice.com/,3
 https://cilentopost.tv/,3
 https://cislmarche.it/,3
 https://citizens.al/,3
-https://cittadino.ca/,3
 https://comune.limbiate.mb.it/,3
 https://comune.sondrio.it/,3
 https://comune.viterbo.it/,3
@@ -2545,7 +2546,6 @@ https://www.almablog.it/,3
 https://www.alqamah.it/,3
 https://www.altramantova.it/,3
 https://www.altroquotidiano.it/,3
-https://www.amazon.in/,3
 https://www.ambitoterritorialecerignola.it/,3
 https://www.amica.it/,3
 https://www.ancilazio.it/,3
@@ -6644,6 +6644,7 @@ https://www.mulino.it/,1
 https://www.musei.umbria.beniculturali.it/,1
 https://www.museoartecontemporanea.it/,1
 https://www.museoetru.it/,1
+https://www.museofratellicozzi.com/,1
 https://www.museoomero.it/,1
 https://www.musictraks.com/,1
 https://www.mveventi.com/,1
@@ -7197,6 +7198,7 @@ https://www.topdoctors.it/,1
 https://www.torinocintura.it/,1
 https://www.torinomagazine.it/,1
 https://www.torrechannel.it/,1
+https://www.toscanapost.net/,1
 https://www.tpi.it/,1
 https://www.tpnews.it/,1
 https://www.trasimenooggi.it/,1
@@ -7341,6 +7343,7 @@ https://www.vocenews.it/,1
 https://www.vocidallisola.it/,1
 https://www.vociingioco.com/,1
 https://www.vogheraseitu.it/,1
+https://www.voglinoeditrice.it/,1
 https://www.vogue.com/,1
 https://www.volint.it/,1
 https://www.voltafr.edu.it/,1
