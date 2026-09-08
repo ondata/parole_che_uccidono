@@ -1,14 +1,14 @@
 fonte,count
-https://www.facebook.com/,2927
+https://www.facebook.com/,2929
 https://www.youtube.com/,2437
 https://www.virgilio.it/,1442
-https://x.com/,1345
-https://www.instagram.com/,1273
+https://x.com/,1346
+https://www.instagram.com/,1274
 https://www.ansa.it/,1234
-https://www.ilrestodelcarlino.it/,1071
-https://www.rainews.it/,1055
+https://www.ilrestodelcarlino.it/,1073
+https://www.rainews.it/,1057
 https://www.lanazione.it/,801
-https://tg24.sky.it/,734
+https://tg24.sky.it/,735
 https://www.ilfattoquotidiano.it/,720
 https://www.lastampa.it/,615
 https://www.fanpage.it/,603
@@ -107,9 +107,9 @@ https://www.agrigentonotizie.it/,88
 https://www.libero.it/,87
 https://www.forlitoday.it/,86
 https://www.perugiatoday.it/,86
+https://partitodemocratico.it/,85
 https://www.ilpiacenza.it/,85
 https://milano.corriere.it/,84
-https://partitodemocratico.it/,84
 https://www.luccagiovane.it/,84
 https://ilgiornalepopolare.it/,83
 https://www.veneziatoday.it/,83
@@ -120,11 +120,11 @@ https://www.corrieredellacalabria.it/,79
 https://www.ladige.it/,79
 https://www.gazzettadimantova.it/,78
 https://www.varesenews.it/,78
+https://www.vita.it/,77
 https://it.euronews.com/,76
 https://www.antennasud.com/,76
 https://www.collettiva.it/,76
 https://www.ilpescara.it/,76
-https://www.vita.it/,76
 https://corrieredellumbria.it/,75
 https://www.anconatoday.it/,75
 https://www.elle.com/,75
@@ -356,6 +356,7 @@ https://www.cuneodice.it/,31
 https://www.ilfattonisseno.it/,31
 https://www.imgpress.it/,31
 https://www.laprovinciacv.it/,31
+https://www.oglioponews.it/,31
 https://www.piacenzasera.it/,31
 http://www.comune.torino.it/,30
 https://firenze.repubblica.it/,30
@@ -364,7 +365,6 @@ https://risveglioduemila.it/,30
 https://smart.comune.genova.it/,30
 https://www.castellinotizie.it/,30
 https://www.maremmaoggi.net/,30
-https://www.oglioponews.it/,30
 https://www.savethechildren.it/,30
 https://www.simcarabinieri.it/,30
 https://www.triesteprima.it/,30
@@ -390,6 +390,7 @@ https://folhadolitoral.com.br/,28
 https://newsicilia.it/,28
 https://trcgiornale.it/,28
 https://tuttoggi.info/,28
+https://www.controradio.it/,28
 https://www.corrierenazionale.net/,28
 https://www.cremaoggi.it/,28
 https://www.gruppotv7.com/,28
@@ -407,7 +408,6 @@ https://cremonasera.it/,27
 https://edunews24.it/,27
 https://meridionews.it/,27
 https://volontariatolazio.it/,27
-https://www.controradio.it/,27
 https://www.dinamopress.it/,27
 https://www.gaeta.it/,27
 https://www.ildenaro.it/,27
@@ -1999,6 +1999,7 @@ https://www.tuttosanita.com/,5
 https://www.tuttosport.com/,5
 https://www.tvrteleitalia.it/,5
 https://www.tvsei.it/,5
+https://www.udg.mx/,5
 https://www.udibologna.it/,5
 https://www.ultimenotizieflash.com/,5
 https://www.un-industria.it/,5
@@ -2127,6 +2128,7 @@ https://www.anciabruzzo.it/,4
 https://www.antimafiaduemila.com/,4
 https://www.araldolomellino.it/,4
 https://www.ariannaeditrice.it/,4
+https://www.artemisiacentroantiviolenza.it/,4
 https://www.ascomtorino.it/,4
 https://www.asgi.it/,4
 https://www.aspbologna.it/,4
@@ -2353,7 +2355,6 @@ https://www.ttv.it/,4
 https://www.turismofvg.it/,4
 https://www.tuteladonne.it/,4
 https://www.tvblog.it/,4
-https://www.udg.mx/,4
 https://www.uilpolizia.com/,4
 https://www.ulisseonline.it/,4
 https://www.ultimaoralive.it/,4
@@ -2559,7 +2560,6 @@ https://www.anmvioggi.it/,3
 https://www.arci.it/,3
 https://www.areaonline.ch/,3
 https://www.armandoeditore.it/,3
-https://www.artemisiacentroantiviolenza.it/,3
 https://www.assisinews.it/,3
 https://www.asst-lodi.it/,3
 https://www.asst-settelaghi.it/,3
@@ -5013,6 +5013,7 @@ https://taccuinocentese.it/,1
 https://talkingta.com/,1
 https://tangoygotan.faitango.it/,1
 https://tazzina.substack.com/,1
+https://teatroduse.it/,1
 https://teatrolacucina.org/,1
 https://teatrosocialecomo.it/,1
 https://teleborsa.ansa.it/,1
