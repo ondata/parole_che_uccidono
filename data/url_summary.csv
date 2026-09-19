@@ -1,11 +1,11 @@
 fonte,count
 https://www.facebook.com/,3115
-https://www.youtube.com/,2486
+https://www.youtube.com/,2487
 https://www.virgilio.it/,1463
 https://x.com/,1363
 https://www.instagram.com/,1343
 https://www.ansa.it/,1258
-https://www.ilrestodelcarlino.it/,1094
+https://www.ilrestodelcarlino.it/,1095
 https://www.rainews.it/,1083
 https://www.lanazione.it/,825
 https://tg24.sky.it/,761
@@ -13,7 +13,7 @@ https://www.ilfattoquotidiano.it/,747
 https://www.lastampa.it/,625
 https://www.fanpage.it/,613
 https://www.open.online/,538
-https://www.ilgiorno.it/,531
+https://www.ilgiorno.it/,532
 https://mediasetinfinity.mediaset.it/,416
 https://www.repubblica.it/,402
 https://agenparl.eu/,354
@@ -49,7 +49,7 @@ https://www.agi.it/,180
 https://www.9colonne.it/,178
 https://roma.corriere.it/,175
 https://www.palermotoday.it/,175
-https://www.giustiziainsieme.it/,171
+https://www.giustiziainsieme.it/,172
 https://www.reddit.com/,163
 https://roma.repubblica.it/,157
 https://www.msn.com/,157
@@ -100,7 +100,7 @@ https://www.ravennatoday.it/,95
 https://www.greenme.it/,93
 https://www.tio.ch/,93
 https://www.lapresse.it/,91
-https://www.laregione.ch/,90
+https://www.laregione.ch/,91
 https://www.mattinopadova.it/,90
 https://www.perugiatoday.it/,90
 https://www.libero.it/,89
@@ -515,11 +515,13 @@ https://unipd-centrodirittiumani.it/,22
 https://www.bellunopress.it/,22
 https://www.cr.campania.it/,22
 https://www.ilcrotonese.it/,22
+https://www.illibraio.it/,22
 https://www.infopal.it/,22
 https://www.larampa.news/,22
 https://www.leggocassino.it/,22
 https://www.puglialive.net/,22
 https://www.quotidianolavoce.it/,22
+https://www.regione.sicilia.it/,22
 https://www.sassarioggi.it/,22
 https://www.targatocn.it/,22
 https://www.tusciaup.com/,22
@@ -541,7 +543,6 @@ https://webtv.camera.it/,21
 https://www.friulioggi.it/,21
 https://www.gazzettadalba.it/,21
 https://www.gazzettaufficiale.it/,21
-https://www.illibraio.it/,21
 https://www.isnews.it/,21
 https://www.lameziaterme.it/,21
 https://www.laprovinciadicomo.it/,21
@@ -551,7 +552,6 @@ https://www.napolivillage.com/,21
 https://www.orticalab.it/,21
 https://www.pupia.tv/,21
 https://www.radiobullets.com/,21
-https://www.regione.sicilia.it/,21
 https://www.regione.veneto.it/,21
 https://www.ufficiostampa.provincia.tn.it/,21
 https://www.umbriadomani.it/,21
@@ -778,6 +778,7 @@ https://www.cinemaitaliano.info/,15
 https://www.clebs.it/,15
 https://www.cnpadc.it/,15
 https://www.comune.brescia.it/,15
+https://www.comune.modena.it/,15
 https://www.crotoneok.it/,15
 https://www.ilgallo.it/,15
 https://www.ilgoriziano.it/,15
@@ -833,9 +834,9 @@ https://www.canalesicilia.it/,14
 https://www.caritas.it/,14
 https://www.casainternazionaledelledonne.org/,14
 https://www.casateonline.it/,14
-https://www.comune.modena.it/,14
 https://www.comune.rho.mi.it/,14
 https://www.corriereditaranto.it/,14
+https://www.culturabologna.it/,14
 https://www.cuneo24.it/,14
 https://www.easynewsweb.com/,14
 https://www.flcgil.it/,14
@@ -890,7 +891,6 @@ https://www.comune.bologna.it/,13
 https://www.comune.rimini.it/,13
 https://www.corrieredisiena.it/,13
 https://www.cosenzachannel.it/,13
-https://www.culturabologna.it/,13
 https://www.dentrosalerno.it/,13
 https://www.elbareport.it/,13
 https://www.fnsi.it/,13
@@ -1719,6 +1719,7 @@ https://www.localteam.it/,6
 https://www.lsdmagazine.com/,6
 https://www.malpensanews.it/,6
 https://www.manduriaoggi.it/,6
+https://www.marcoaurelio.comune.roma.it/,6
 https://www.marigliano.net/,6
 https://www.marsalalive.it/,6
 https://www.meridiananotizie.it/,6
@@ -1960,7 +1961,6 @@ https://www.loradibrindisi.it/,5
 https://www.luceraweb.eu/,5
 https://www.lumsanews.it/,5
 https://www.magazine.unimore.it/,5
-https://www.marcoaurelio.comune.roma.it/,5
 https://www.media2000.it/,5
 https://www.messaggeromarittimo.it/,5
 https://www.messinaoggi.it/,5
@@ -4513,6 +4513,7 @@ https://icotlatina.it/,1
 https://icsmolteno.edu.it/,1
 https://ictongiorgi.edu.it/,1
 https://ictorracalavista.edu.it/,1
+https://icvalmaggia.edu.it/,1
 https://icvecellio.edu.it/,1
 https://icvirgilio.edu.it/,1
 https://icwojtyla-dafioreisola.edu.it/,1
@@ -4561,6 +4562,7 @@ https://intals.it/,1
 https://invececoncita.blogautore.repubblica.it/,1
 https://invimalau.blog/,1
 https://iovivobene.it/,1
+https://ipceinaudivarese.edu.it/,1
 https://ipsico.it/,1
 https://iris.unical.it/,1
 https://iris.unina.it/,1
