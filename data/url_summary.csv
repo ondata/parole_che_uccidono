@@ -1,9 +1,9 @@
 fonte,count
-https://www.facebook.com/,3126
+https://www.facebook.com/,3127
 https://www.youtube.com/,2490
 https://www.virgilio.it/,1464
 https://x.com/,1366
-https://www.instagram.com/,1345
+https://www.instagram.com/,1347
 https://www.ansa.it/,1260
 https://www.ilrestodelcarlino.it/,1097
 https://www.rainews.it/,1084
@@ -13,7 +13,7 @@ https://www.ilfattoquotidiano.it/,749
 https://www.lastampa.it/,626
 https://www.fanpage.it/,614
 https://www.open.online/,539
-https://www.ilgiorno.it/,532
+https://www.ilgiorno.it/,533
 https://mediasetinfinity.mediaset.it/,420
 https://www.repubblica.it/,402
 https://agenparl.eu/,354
@@ -50,7 +50,7 @@ https://www.9colonne.it/,178
 https://roma.corriere.it/,175
 https://www.palermotoday.it/,175
 https://www.giustiziainsieme.it/,172
-https://www.reddit.com/,163
+https://www.reddit.com/,164
 https://roma.repubblica.it/,157
 https://www.msn.com/,157
 https://prefettura.interno.gov.it/,155
@@ -58,8 +58,8 @@ https://www.foggiatoday.it/,146
 https://www.iodonna.it/,144
 https://www.corriereadriatico.it/,142
 https://www.lanuovasardegna.it/,142
+https://milano.repubblica.it/,138
 https://www.tecnicadellascuola.it/,137
-https://milano.repubblica.it/,136
 https://alleyoop.ilsole24ore.com/,135
 https://www.la7.it/,131
 https://www.giornaledibrescia.it/,129
@@ -303,6 +303,7 @@ https://www.studocu.com/,38
 https://www.bresciatoday.it/,37
 https://www.cisl.it/,37
 https://www.gnewsonline.it/,37
+https://www.intoscana.it/,37
 https://www.istat.it/,37
 https://www.newsrimini.it/,37
 https://www.viterbotoday.it/,37
@@ -317,7 +318,6 @@ https://www.calabriadirettanews.com/,35
 https://www.frosinonetoday.it/,35
 https://www.giurisprudenzapenale.com/,35
 https://www.ilvibonese.it/,35
-https://www.intoscana.it/,35
 https://www.mondadoristore.it/,35
 https://www.oglioponews.it/,35
 https://www.quotidianosanita.it/,35
@@ -436,6 +436,7 @@ https://lasentinella.gelocal.it/,26
 https://movieplayer.it/,26
 https://primamonza.it/,26
 https://primatreviglio.it/,26
+https://radiogold.it/,26
 https://voitg.net/,26
 https://www.calabriainchieste.it/,26
 https://www.cittagora.it/,26
@@ -451,7 +452,6 @@ https://cn24tv.it/,25
 https://corrieredisiena.it/,25
 https://e-tv.it/,25
 https://norbaonline.it/,25
-https://radiogold.it/,25
 https://www.anteprima24.it/,25
 https://www.consiglio.puglia.it/,25
 https://www.corrierecesenate.it/,25
@@ -491,6 +491,7 @@ https://www.wired.it/,24
 http://met.cittametropolitana.fi.it/,23
 https://consiglio.regione.umbria.it/,23
 https://corrierediarezzo.it/,23
+https://corrieredinovara.it/,23
 https://lokkio.it/,23
 https://pagellapolitica.it/,23
 https://unipd-centrodirittiumani.it/,23
@@ -509,7 +510,6 @@ https://www.telemia.it/,23
 https://www.triesteallnews.it/,23
 https://altreconomia.it/,22
 https://aostasera.it/,22
-https://corrieredinovara.it/,22
 https://farmaciavirtuale.it/,22
 https://onuitalia.com/,22
 https://www.bellunopress.it/,22
@@ -2101,6 +2101,7 @@ https://livornopress.it/,4
 https://loftcultura.it/,4
 https://mag.unitn.it/,4
 https://marchespettacolo.com/,4
+https://milano.notizie.it/,4
 https://multiplayer.it/,4
 https://musicbiz.rockol.it/,4
 https://news.fidelityhouse.eu/,4
@@ -2500,7 +2501,6 @@ https://m.cronachepicene.it/,3
 https://mag2.it/,3
 https://mappeser.com/,3
 https://mediacentre.uniupo.it/,3
-https://milano.notizie.it/,3
 https://mincioedintorni.com/,3
 https://napolipiu.com/,3
 https://news.uniroma1.it/,3
@@ -4189,6 +4189,7 @@ https://case.univpm.it/,1
 https://casrec.unipd.it/,1
 https://catania.lasicilia.it/,1
 https://catiadiacom.blog/,1
+https://cavevisioni.it/,1
 https://centralino.it/,1
 https://centroacquario.com/,1
 https://centroantiviolenzahara.it/,1
@@ -6487,6 +6488,7 @@ https://www.lecodellaverita.it/,1
 https://www.ledonneresistenti.it/,1
 https://www.leenergie.it/,1
 https://www.legacoopestense.coop/,1
+https://www.legal500.com/,1
 https://www.leganavale.mi.it/,1
 https://www.legasalvinitrentino.it/,1
 https://www.leggotenerife.com/,1
@@ -6752,6 +6754,7 @@ https://www.notesmagazine.org/,1
 https://www.noteverticali.it/,1
 https://www.notiziarioeolie.it/,1
 https://www.notiziariofinanziario.com/,1
+https://www.notiziarioisoleolie.it/,1
 https://www.notizieaudaci.it/,1
 https://www.notizieromane.com/,1
 https://www.notruefeminist.com/,1
