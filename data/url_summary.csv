@@ -1,12 +1,12 @@
 fonte,count
-https://www.facebook.com/,3155
+https://www.facebook.com/,3159
 https://www.youtube.com/,2493
 https://www.virgilio.it/,1470
 https://x.com/,1371
-https://www.instagram.com/,1356
+https://www.instagram.com/,1358
 https://www.ansa.it/,1266
-https://www.ilrestodelcarlino.it/,1098
-https://www.rainews.it/,1087
+https://www.ilrestodelcarlino.it/,1100
+https://www.rainews.it/,1088
 https://www.lanazione.it/,834
 https://tg24.sky.it/,764
 https://www.ilfattoquotidiano.it/,755
@@ -14,7 +14,7 @@ https://www.lastampa.it/,630
 https://www.fanpage.it/,616
 https://www.open.online/,539
 https://www.ilgiorno.it/,533
-https://mediasetinfinity.mediaset.it/,434
+https://mediasetinfinity.mediaset.it/,436
 https://www.repubblica.it/,404
 https://agenparl.eu/,354
 https://www.leggo.it/,318
@@ -37,7 +37,7 @@ https://www.ilgazzettino.it/,217
 https://www.lagazzettadelmezzogiorno.it/,215
 https://questure.poliziadistato.it/,213
 https://www.ilgiornale.it/,213
-https://www.orizzontescuola.it/,209
+https://www.orizzontescuola.it/,210
 https://www.milanotoday.it/,207
 https://it.linkedin.com/,196
 https://www.agensir.it/,195
@@ -53,7 +53,7 @@ https://www.giustiziainsieme.it/,173
 https://www.reddit.com/,164
 https://roma.repubblica.it/,157
 https://www.msn.com/,157
-https://prefettura.interno.gov.it/,155
+https://prefettura.interno.gov.it/,156
 https://www.foggiatoday.it/,148
 https://www.iodonna.it/,145
 https://www.lanuovasardegna.it/,143
@@ -217,11 +217,11 @@ https://www.affaritaliani.it/,52
 https://www.ilroma.net/,52
 https://www.pariopportunita.gov.it/,52
 https://infomedianews.com/,51
+https://torino.repubblica.it/,51
 https://www.corrierealpi.it/,51
 https://www.direcontrolaviolenza.it/,51
 https://www.sulpanaro.net/,51
 https://laprovinciapavese.gelocal.it/,50
-https://torino.repubblica.it/,50
 https://www.altalex.com/,50
 https://www.comune.milano.it/,50
 https://www.iltquotidiano.it/,50
@@ -236,11 +236,11 @@ https://www.zazoom.it/,49
 https://liberta.it/,48
 https://messina.gazzettadelsud.it/,48
 https://www.arcigay.it/,48
+https://www.modenatoday.it/,48
 https://comunicazione.camera.it/,47
 https://telenord.it/,47
 https://tgverona.telenuovo.it/,47
 https://www.camera.it/,47
-https://www.modenatoday.it/,47
 https://www.veratv.it/,47
 https://www2.comune.milano.it/,47
 https://friulisera.it/,46
@@ -297,13 +297,13 @@ https://www.liberoquotidiano.it/,39
 https://etvmarche.it/,38
 https://latinatu.it/,38
 https://opinione.it/,38
+https://www.intoscana.it/,38
 https://www.lavocedelpatriota.it/,38
 https://www.sondriotoday.it/,38
 https://www.studocu.com/,38
 https://www.bresciatoday.it/,37
 https://www.cisl.it/,37
 https://www.gnewsonline.it/,37
-https://www.intoscana.it/,37
 https://www.istat.it/,37
 https://www.newsrimini.it/,37
 https://www.viterbotoday.it/,37
@@ -517,6 +517,7 @@ https://otticheparallelemagazine.com/,22
 https://www.bellunopress.it/,22
 https://www.cr.campania.it/,22
 https://www.democrata.es/,22
+https://www.glistatigenerali.com/,22
 https://www.ilcrotonese.it/,22
 https://www.infopal.it/,22
 https://www.laprovinciadicomo.it/,22
@@ -548,7 +549,6 @@ https://www.catanzaroinforma.it/,21
 https://www.friulioggi.it/,21
 https://www.gazzettadalba.it/,21
 https://www.gazzettaufficiale.it/,21
-https://www.glistatigenerali.com/,21
 https://www.hashtagsicilia.it/,21
 https://www.isnews.it/,21
 https://www.lameziaterme.it/,21
@@ -765,6 +765,7 @@ https://www.vicenzareport.it/,16
 https://www.viterbonews24.it/,16
 https://www.weworld.it/,16
 https://abruzzolive.it/,15
+https://cesvmessina.org/,15
 https://ennapress.it/,15
 https://informareonline.com/,15
 https://it.globalvoices.org/,15
@@ -794,6 +795,7 @@ https://www.insalutenews.it/,15
 https://www.irno24.it/,15
 https://www.leccenews24.it/,15
 https://www.mentelocale.it/,15
+https://www.mondosanita.it/,15
 https://www.nigrizia.it/,15
 https://www.oggitreviso.it/,15
 https://www.ondanews.it/,15
@@ -818,7 +820,6 @@ https://www.unionemonregalese.it/,15
 https://www.uslsudest.toscana.it/,15
 https://www.vocecamuna.it/,15
 https://www.vrsicilia.it/,15
-https://cesvmessina.org/,14
 https://corrieredeltrentino.corriere.it/,14
 https://corrieretoscano.it/,14
 https://cultura.comune.fi.it/,14
@@ -850,7 +851,6 @@ https://www.lavalleenotizie.it/,14
 https://www.micromega.net/,14
 https://www.molisenetwork.net/,14
 https://www.molisetabloid.it/,14
-https://www.mondosanita.it/,14
 https://www.novaradio.info/,14
 https://www.ondawebtv.it/,14
 https://www.popolis.it/,14
@@ -891,6 +891,7 @@ https://www.abogacia.es/,13
 https://www.abruzzoinvideo.tv/,13
 https://www.aduc.it/,13
 https://www.anci.piemonte.it/,13
+https://www.bisceglieviva.it/,13
 https://www.calabrianews24.com/,13
 https://www.comune.bologna.it/,13
 https://www.comune.rimini.it/,13
@@ -953,7 +954,6 @@ https://www.alessandria24.com/,12
 https://www.altovicentinonline.it/,12
 https://www.belvederenews.net/,12
 https://www.bestmovie.it/,12
-https://www.bisceglieviva.it/,12
 https://www.buongiornosuedtirol.it/,12
 https://www.burlo.trieste.it/,12
 https://www.chiesadimilano.it/,12
@@ -1314,6 +1314,7 @@ https://backend.4live.it/,8
 https://comune.avezzano.aq.it/,8
 https://comunicalo.it/,8
 https://contropiano.org/,8
+https://corriereuniv.it/,8
 https://dabitonto.com/,8
 https://documenti.camera.it/,8
 https://fasi.eu/,8
@@ -1428,7 +1429,6 @@ https://agensalute.it/,7
 https://andi.it/,7
 https://anief.org/,7
 https://bitontolive.it/,7
-https://corriereuniv.it/,7
 https://cr.campania.it/,7
 https://ecoaltomolise.net/,7
 https://forum.alfemminile.com/,7
@@ -2261,6 +2261,7 @@ https://www.iowebbo.it/,4
 https://www.iqnotizie.it/,4
 https://www.italiareportusa.com/,4
 https://www.italynews.org.uk/,4
+https://www.jobijoba.it/,4
 https://www.juliet-artmagazine.com/,4
 https://www.la-notizia.net/,4
 https://www.lacittadelnordmilano.it/,4
@@ -2737,7 +2738,6 @@ https://www.istitutopsicoterapie.com/,3
 https://www.istituzioni24.it/,3
 https://www.istruzioneer.gov.it/,3
 https://www.italianopercaso.it/,3
-https://www.jobijoba.it/,3
 https://www.kiwanis.it/,3
 https://www.korazym.org/,3
 https://www.kvennaathvarf.is/,3
@@ -6669,6 +6669,7 @@ https://www.mediatrends.it/,1
 https://www.medicalexcellencetv.it/,1
 https://www.medicinadelladolescenza.com/,1
 https://www.medicinademocratica.org/,1
+https://www.medicinaregionelazio.it/,1
 https://www.medicinasperimentale.unicampania.it/,1
 https://www.medicitalia.it/,1
 https://www.mediobanca.com/,1
