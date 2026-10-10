@@ -1,11 +1,11 @@
 fonte,count
-https://www.facebook.com/,3354
-https://www.youtube.com/,2541
+https://www.facebook.com/,3355
+https://www.youtube.com/,2542
 https://www.virgilio.it/,1494
 https://www.instagram.com/,1445
 https://x.com/,1394
-https://www.ansa.it/,1330
-https://www.ilrestodelcarlino.it/,1140
+https://www.ansa.it/,1331
+https://www.ilrestodelcarlino.it/,1142
 https://www.rainews.it/,1131
 https://www.lanazione.it/,874
 https://tg24.sky.it/,800
@@ -46,7 +46,7 @@ https://www.quotidiano.net/,197
 https://www.vanityfair.it/,191
 https://www.iltirreno.it/,187
 https://www.9colonne.it/,185
-https://www.giustiziainsieme.it/,182
+https://www.giustiziainsieme.it/,183
 https://www.agi.it/,181
 https://www.palermotoday.it/,179
 https://roma.corriere.it/,177
@@ -101,8 +101,8 @@ https://www.lasicilia.it/,97
 https://lespresso.it/,96
 https://www.mattinopadova.it/,96
 https://www.perugiatoday.it/,96
+https://www.vaticannews.va/,95
 https://www.greenme.it/,94
-https://www.vaticannews.va/,94
 https://www.agrigentonotizie.it/,93
 https://www.lapresse.it/,93
 https://milano.corriere.it/,91
@@ -183,10 +183,10 @@ https://calabria7.news/,60
 https://qds.it/,60
 https://telenorba.it/,60
 https://www.comune.napoli.it/,60
+https://www.estense.com/,60
 https://www.poliziadistato.it/,60
 https://www.senato.it/,60
 https://m.youtube.com/,59
-https://www.estense.com/,59
 https://www.parmatoday.it/,59
 https://buonasera24.it/,58
 https://torino.corriere.it/,58
@@ -317,6 +317,7 @@ https://www.newsrimini.it/,37
 https://www.viterbotoday.it/,37
 https://live.comune.venezia.it/,36
 https://mantovauno.it/,36
+https://riforma.it/,36
 https://www.ekuonews.it/,36
 https://www.giurisprudenzapenale.com/,36
 https://www.legnanonews.com/,36
@@ -328,7 +329,6 @@ https://www.tusciatimes.eu/,36
 https://www.vitatrentina.it/,36
 https://firenze.repubblica.it/,35
 https://napolitan.it/,35
-https://riforma.it/,35
 https://www.basilicatadigitalchannel.com/,35
 https://www.calabriadirettanews.com/,35
 https://www.frosinonetoday.it/,35
@@ -718,6 +718,7 @@ https://www.calabriareportage.it/,17
 https://www.ciociariaoggi.it/,17
 https://www.comingsoon.it/,17
 https://www.conibambini.org/,17
+https://www.culturabologna.it/,17
 https://www.dagospia.com/,17
 https://www.dalsociale24.it/,17
 https://www.dererker.it/,17
@@ -759,7 +760,6 @@ https://www.comune.bologna.it/,16
 https://www.comune.modena.it/,16
 https://www.consiglio.marche.it/,16
 https://www.crotoneok.it/,16
-https://www.culturabologna.it/,16
 https://www.fanoinforma.it/,16
 https://www.foggiareporter.it/,16
 https://www.giornaleadige.it/,16
@@ -863,6 +863,7 @@ https://www.caritas.it/,14
 https://www.casateonline.it/,14
 https://www.comune.rimini.it/,14
 https://www.corriereditaranto.it/,14
+https://www.cronacacomune.it/,14
 https://www.cuneo24.it/,14
 https://www.flcgil.it/,14
 https://www.ilriformista.it/,14
@@ -917,7 +918,6 @@ https://www.comune.ragusa.it/,13
 https://www.confartigianatovicenza.it/,13
 https://www.corrieredisiena.it/,13
 https://www.cosenzachannel.it/,13
-https://www.cronacacomune.it/,13
 https://www.dentrosalerno.it/,13
 https://www.elbareport.it/,13
 https://www.formatrieti.it/,13
@@ -1297,6 +1297,7 @@ https://www.forlinotizie.net/,9
 https://www.frosinonenews.eu/,9
 https://www.garanteinfanzia.org/,9
 https://www.gazzettadasti.it/,9
+https://www.giornalediplomatico.it/,9
 https://www.giovanireporter.org/,9
 https://www.heraldo.it/,9
 https://www.ilcittadinoonline.it/,9
@@ -1366,6 +1367,7 @@ https://vtrend.it/,8
 https://www.100torri.it/,8
 https://www.agendapolitica.it/,8
 https://www.amolivenews.it/,8
+https://www.arte.tv/,8
 https://www.atlanteguerre.it/,8
 https://www.bigodino.it/,8
 https://www.cdls.sm/,8
@@ -1390,7 +1392,6 @@ https://www.ecodelchisone.it/,8
 https://www.entilocali-online.it/,8
 https://www.eventbrite.it/,8
 https://www.ftaonline.com/,8
-https://www.giornalediplomatico.it/,8
 https://www.giornaleradiosociale.it/,8
 https://www.giornaletrentino.it/,8
 https://www.glpress.it/,8
@@ -1508,7 +1509,6 @@ https://www.amnotizie.it/,7
 https://www.andriaviva.it/,7
 https://www.apg23.org/,7
 https://www.artapartofculture.net/,7
-https://www.arte.tv/,7
 https://www.asianews.it/,7
 https://www.avvisopubblico.it/,7
 https://www.bancaetica.it/,7
@@ -1736,11 +1736,14 @@ https://www.gruppopdbologna.it/,6
 https://www.idearadionelmondo.it/,6
 https://www.iduepunti.it/,6
 https://www.ilcittadinodirecanati.it/,6
+https://www.ilfarmacistaonline.it/,6
 https://www.ilgiornaleditrani.net/,6
 https://www.ilnordestquotidiano.it/,6
 https://www.ilnotiziario.net/,6
 https://www.iltelegrafolivorno.it/,6
 https://www.indire.it/,6
+https://www.inferrara.it/,6
+https://www.informagiovani.fe.it/,6
 https://www.irpiniaoggi.it/,6
 https://www.iss.it/,6
 https://www.italiachecambia.org/,6
@@ -1972,7 +1975,6 @@ https://www.ilcineocchio.it/,5
 https://www.ilcittadinodimessina.it/,5
 https://www.ilcuoioindiretta.it/,5
 https://www.ildispariquotidiano.it/,5
-https://www.ilfarmacistaonline.it/,5
 https://www.ilgazzettinobr.it/,5
 https://www.ilgiornaledelmolise.it/,5
 https://www.ilmoscone.it/,5
@@ -1980,8 +1982,6 @@ https://www.ilnuovodiario.com/,5
 https://www.ilnuovogiornaleweb.it/,5
 https://www.ilquotidianodellazio.it/,5
 https://www.iltempionews.com/,5
-https://www.inferrara.it/,5
-https://www.informagiovani.fe.it/,5
 https://www.informazionescuola.it/,5
 https://www.inps.it/,5
 https://www.iris.unina.it/,5
@@ -3060,6 +3060,7 @@ https://bruxelles.regione.campania.it/,2
 https://bsnews.it/,2
 https://calabria.live/,2
 https://cantierebologna.com/,2
+https://capovolte.it/,2
 https://caragarbatella.it/,2
 https://careonline.it/,2
 https://carolinamorace.it/,2
@@ -4258,7 +4259,6 @@ https://canale58.com/,1
 https://canale81lazio.it/,1
 https://canavesenews.it/,1
 https://canosaweb.it/,1
-https://capovolte.it/,1
 https://cardiologianegliospedali.it/,1
 https://carnetverona.it/,1
 https://carraresecalcio1908.it/,1
@@ -4280,6 +4280,7 @@ https://centropime.org/,1
 https://centroriformastato.it/,1
 https://cercoeventi.it/,1
 https://cesena.emiliaromagnateatro.com/,1
+https://cesie.org/,1
 https://charlottematteini.substack.com/,1
 https://chiaraboracchi.substack.com/,1
 https://chiesavaldese.org/,1
@@ -4654,6 +4655,7 @@ https://invececoncita.blogautore.repubblica.it/,1
 https://invimalau.blog/,1
 https://iovivobene.it/,1
 https://ipceinaudivarese.edu.it/,1
+https://iperborea.com/,1
 https://ipsico.it/,1
 https://iris.unical.it/,1
 https://iris.unina.it/,1
@@ -5982,6 +5984,7 @@ https://www.csvlecce.it/,1
 https://www.csvmarche.it/,1
 https://www.csvsardegna.com/,1
 https://www.csvterrestensi.it/,1
+https://www.cug.unina.it/,1
 https://www.culturaveneto.it/,1
 https://www.cuoreeconomico.com/,1
 https://www.cvcs.it/,1
