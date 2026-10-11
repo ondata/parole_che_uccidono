@@ -1,19 +1,19 @@
 fonte,count
-https://www.facebook.com/,3361
+https://www.facebook.com/,3362
 https://www.youtube.com/,2544
-https://www.virgilio.it/,1497
+https://www.virgilio.it/,1498
 https://www.instagram.com/,1445
 https://x.com/,1395
 https://www.ansa.it/,1336
-https://www.ilrestodelcarlino.it/,1144
+https://www.ilrestodelcarlino.it/,1145
 https://www.rainews.it/,1133
 https://www.lanazione.it/,876
 https://tg24.sky.it/,801
 https://www.ilfattoquotidiano.it/,781
 https://www.lastampa.it/,654
-https://www.fanpage.it/,635
+https://www.fanpage.it/,636
 https://www.open.online/,561
-https://www.ilgiorno.it/,552
+https://www.ilgiorno.it/,553
 https://mediasetinfinity.mediaset.it/,442
 https://www.repubblica.it/,412
 https://agenparl.eu/,363
@@ -32,8 +32,8 @@ https://www.ilsole24ore.com/,256
 https://ilmanifesto.it/,249
 https://www.ilmattino.it/,245
 https://m.facebook.com/,225
+https://www.lagazzettadelmezzogiorno.it/,224
 https://www.ilgazzettino.it/,223
-https://www.lagazzettadelmezzogiorno.it/,223
 https://www.editorialedomani.it/,222
 https://questure.poliziadistato.it/,218
 https://www.ilgiornale.it/,218
@@ -57,8 +57,8 @@ https://www.msn.com/,157
 https://www.iodonna.it/,152
 https://www.foggiatoday.it/,149
 https://milano.repubblica.it/,148
+https://www.corriereadriatico.it/,147
 https://www.lanuovasardegna.it/,147
-https://www.corriereadriatico.it/,146
 https://www.la7.it/,144
 https://www.giornaledibrescia.it/,142
 https://alleyoop.ilsole24ore.com/,141
@@ -165,8 +165,8 @@ https://www.umbria24.it/,67
 https://www.lanuovacalabria.it/,66
 https://www.ottopagine.it/,66
 https://www.baritoday.it/,65
+https://www.famigliacristiana.it/,65
 https://www.chietitoday.it/,64
-https://www.famigliacristiana.it/,64
 https://www.lacnews24.it/,64
 https://www.laquilablog.it/,64
 https://video.corriere.it/,63
@@ -200,6 +200,7 @@ https://www.cgil.it/,57
 https://www.civonline.it/,57
 https://www.firenzedintorni.it/,57
 https://ecodellojonio.it/,56
+https://www.affaritaliani.it/,56
 https://www.ilfoglio.it/,56
 https://www.secoloditalia.it/,56
 https://www.veronasera.it/,56
@@ -209,7 +210,6 @@ https://laguida.it/,55
 https://luce.lanazione.it/,55
 https://palermo.repubblica.it/,55
 https://torino.repubblica.it/,55
-https://www.affaritaliani.it/,55
 https://www.messaggeroveneto.it/,55
 https://www.altalex.com/,54
 https://www.corrierealpi.it/,54
@@ -732,6 +732,7 @@ https://www.ilmeridianonews.it/,17
 https://www.leccenews24.it/,17
 https://www.letteraemme.it/,17
 https://www.linkedin.com/,17
+https://www.notiziegeopolitiche.net/,17
 https://www.odg.it/,17
 https://www.oggitreviso.it/,17
 https://www.opl.it/,17
@@ -774,7 +775,6 @@ https://www.iltascabile.com/,16
 https://www.italiannetwork.it/,16
 https://www.laprovinciadifermo.com/,16
 https://www.nigrizia.it/,16
-https://www.notiziegeopolitiche.net/,16
 https://www.ondanews.it/,16
 https://www.parmadaily.it/,16
 https://www.provitaefamiglia.it/,16
@@ -2725,6 +2725,7 @@ https://www.donnapop.it/,3
 https://www.dottrinalavoro.it/,3
 https://www.elbapress.it/,3
 https://www.eprice.it/,3
+https://www.ergotv.it/,3
 https://www.eroicafenice.com/,3
 https://www.esperia.tv/,3
 https://www.eurolibri.com/,3
@@ -3553,7 +3554,6 @@ https://www.epicentro.iss.it/,2
 https://www.epochtimes.it/,2
 https://www.eppgroup.eu/,2
 https://www.erbanotizie.com/,2
-https://www.ergotv.it/,2
 https://www.esg360.it/,2
 https://www.essenotizie.it/,2
 https://www.eticanews.it/,2
@@ -4962,6 +4962,7 @@ https://politicamag.it/,1
 https://polizialocale.org/,1
 https://poliziapenitenziaria.gov.it/,1
 https://polo9.org/,1
+https://polobasilicatasbn.sebina.it/,1
 https://pololicealeguerrisigerace.edu.it/,1
 https://portale.comune.gela.cl.it/,1
 https://portale.unibas.it/,1
