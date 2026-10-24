@@ -1,5 +1,5 @@
 fonte,count
-https://www.facebook.com/,3473
+https://www.facebook.com/,3476
 https://www.youtube.com/,2599
 https://www.virgilio.it/,1519
 https://www.instagram.com/,1481
@@ -12,7 +12,7 @@ https://tg24.sky.it/,826
 https://www.ilfattoquotidiano.it/,807
 https://www.lastampa.it/,667
 https://www.fanpage.it/,650
-https://www.ilgiorno.it/,586
+https://www.ilgiorno.it/,587
 https://www.open.online/,576
 https://mediasetinfinity.mediaset.it/,449
 https://www.repubblica.it/,423
@@ -132,10 +132,10 @@ https://www.vita.it/,82
 https://www.huffingtonpost.it/,81
 https://27esimaora.corriere.it/,80
 https://corrieredibologna.corriere.it/,80
+https://www.antennasud.com/,80
 https://www.lidentita.it/,80
 https://it.euronews.com/,79
 https://www.anconatoday.it/,79
-https://www.antennasud.com/,79
 https://www.statoquotidiano.it/,79
 https://www.collettiva.it/,78
 https://www.malpensa24.it/,78
@@ -171,8 +171,8 @@ https://www.castedduonline.it/,66
 https://www.chietitoday.it/,66
 https://www.cremonaoggi.it/,66
 https://www.laquilablog.it/,66
+https://www.immediato.net/,65
 https://m.youtube.com/,64
-https://www.immediato.net/,64
 https://www.lacnews24.it/,64
 https://www.senato.it/,64
 https://www.avellinotoday.it/,63
@@ -540,6 +540,7 @@ https://www.regione.veneto.it/,23
 https://www.sassarioggi.it/,23
 https://www.telemia.it/,23
 https://www.tusciaup.com/,23
+https://www.unipi.it/,23
 https://www.victorialibertas.it/,23
 https://www.vitawebtv.it/,23
 https://aostasera.it/,22
@@ -567,7 +568,6 @@ https://www.stampaparlamento.it/,22
 https://www.torinoggi.it/,22
 https://www.umbriadomani.it/,22
 https://www.unicef.it/,22
-https://www.unipi.it/,22
 https://www.vdnews.it/,22
 https://canaledieci.it/,21
 https://cinecittanews.it/,21
@@ -1000,6 +1000,7 @@ https://www.arezzoinforma.it/,12
 https://www.belvederenews.net/,12
 https://www.bestmovie.it/,12
 https://www.buongiornosuedtirol.it/,12
+https://www.casadonnemilano.it/,12
 https://www.casertafocus.net/,12
 https://www.ciaocomo.it/,12
 https://www.cittametropolitanaroma.it/,12
@@ -1093,7 +1094,6 @@ https://www.besicilymag.it/,11
 https://www.bologna24ore.it/,11
 https://www.canicattiweb.com/,11
 https://www.casadonne.it/,11
-https://www.casadonnemilano.it/,11
 https://www.civitanovalive.it/,11
 https://www.comune.cesena.fc.it/,11
 https://www.comune.palermo.it/,11
@@ -1170,6 +1170,7 @@ https://pariopportunita.gov.it/,10
 https://percorsiconibambini.it/,10
 https://piazzamartirinews.com/,10
 https://podcasts.apple.com/,10
+https://portale.units.it/,10
 https://primacomo.it/,10
 https://primamerate.it/,10
 https://primasaronno.it/,10
@@ -1279,7 +1280,6 @@ https://fasi.eu/,9
 https://inconsiglio.it/,9
 https://laprovinciarieti.it/,9
 https://lentepubblica.it/,9
-https://portale.units.it/,9
 https://primamilanoovest.it/,9
 https://progettotouring.it/,9
 https://puntomagazine.it/,9
@@ -1650,6 +1650,7 @@ http://www.processopenaleegiustizia.it/,6
 https://alessandrianews.ilpiccolo.net/,6
 https://amp.today.it/,6
 https://azinforma.com/,6
+https://casertace.net/,6
 https://catania.gds.it/,6
 https://change.org/,6
 https://cittadino.ca/,6
@@ -1760,6 +1761,7 @@ https://www.giornaleditaranto.com/,6
 https://www.giustizianews24.it/,6
 https://www.goamagazine.it/,6
 https://www.gruppopdbologna.it/,6
+https://www.guidapsicologi.it/,6
 https://www.iacchite.blog/,6
 https://www.idearadionelmondo.it/,6
 https://www.iduepunti.it/,6
@@ -1855,7 +1857,6 @@ https://ancilazio.it/,5
 https://baraondanews.it/,5
 https://cagliarinews.it/,5
 https://calabriapost.net/,5
-https://casertace.net/,5
 https://cavalierenews.it/,5
 https://cesvi.org/,5
 https://comozero.it/,5
@@ -1999,7 +2000,6 @@ https://www.giovannidonzelli.it/,5
 https://www.giraffaonlus.it/,5
 https://www.globusmagazine.it/,5
 https://www.goldoniteatro.it/,5
-https://www.guidapsicologi.it/,5
 https://www.h24notizie.com/,5
 https://www.ilcineocchio.it/,5
 https://www.ilcittadinodimessina.it/,5
@@ -6524,6 +6524,7 @@ https://www.imolaoggi.it/,1
 https://www.imoviez.it/,1
 https://www.imperiapost.it/,1
 https://www.imprenditoriafemminile.camcom.it/,1
+https://www.imprenditoriafemminile.gov.it/,1
 https://www.impresamia.com/,1
 https://www.improntaetica.org/,1
 https://www.inarzignano.it/,1
