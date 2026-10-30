@@ -1,12 +1,12 @@
 fonte,count
-https://www.facebook.com/,3546
+https://www.facebook.com/,3547
 https://www.youtube.com/,2619
 https://www.virgilio.it/,1530
-https://www.instagram.com/,1512
+https://www.instagram.com/,1513
 https://x.com/,1426
 https://www.ansa.it/,1414
 https://www.rainews.it/,1205
-https://www.ilrestodelcarlino.it/,1193
+https://www.ilrestodelcarlino.it/,1194
 https://www.lanazione.it/,921
 https://tg24.sky.it/,844
 https://www.ilfattoquotidiano.it/,816
@@ -14,7 +14,7 @@ https://www.lastampa.it/,673
 https://www.fanpage.it/,654
 https://www.ilgiorno.it/,603
 https://www.open.online/,579
-https://mediasetinfinity.mediaset.it/,456
+https://mediasetinfinity.mediaset.it/,457
 https://www.repubblica.it/,428
 https://agenparl.eu/,369
 https://www.leggo.it/,346
@@ -31,7 +31,7 @@ https://www.ilmessaggero.it/,280
 https://www.ilsole24ore.com/,265
 https://ilmanifesto.it/,254
 https://www.ilmattino.it/,254
-https://www.lagazzettadelmezzogiorno.it/,234
+https://www.lagazzettadelmezzogiorno.it/,235
 https://www.ilgiornale.it/,233
 https://www.milanotoday.it/,230
 https://www.editorialedomani.it/,229
@@ -115,8 +115,8 @@ https://www.veneziatoday.it/,94
 https://www.borsaitaliana.it/,93
 https://partitodemocratico.it/,91
 https://www.ilsecoloxix.it/,89
+https://www.cesenatoday.it/,88
 https://www.ilpiacenza.it/,88
-https://www.cesenatoday.it/,87
 https://www.elle.com/,87
 https://www.ildolomiti.it/,87
 https://www.ilpescara.it/,87
@@ -330,6 +330,7 @@ https://www.reggionline.com/,37
 https://www.tusciatimes.eu/,37
 https://riforma.it/,36
 https://www.ekuonews.it/,36
+https://www.esperienzeconilsud.it/,36
 https://www.giurisprudenzapenale.com/,36
 https://www.marieclaire.it/,36
 https://www.quotidianosanita.it/,36
@@ -344,7 +345,6 @@ https://news-town.it/,35
 https://www.basilicatadigitalchannel.com/,35
 https://www.calabriadirettanews.com/,35
 https://www.chioggianotizie.it/,35
-https://www.esperienzeconilsud.it/,35
 https://www.frosinonetoday.it/,35
 https://www.ilcapoluogo.it/,35
 https://www.maremmaoggi.net/,35
@@ -2722,6 +2722,7 @@ https://www.bariviva.it/,3
 https://www.beautybiz.it/,3
 https://www.bergamofiera.it/,3
 https://www.bolognametropolitana.it/Home_Page//001/,3
+https://www.bookcitymilano.it/,3
 https://www.bricomagazine.com/,3
 https://www.cagliaripost.com/,3
 https://www.calabrianews.it/,3
@@ -3033,6 +3034,7 @@ https://www.unimpresa.it/,3
 https://www.unipv.news/,3
 https://www.unirsm.sm/,3
 https://www.usarci.it/,3
+https://www.usi.ch/,3
 https://www.vaccarinews.it/,3
 https://www.valtellinanews.it/,3
 https://www.vatican.va/,3
@@ -3482,7 +3484,6 @@ https://www.bologna.bo/,2
 https://www.bologna2000.com/,2
 https://www.bolognametropolitana.it/,2
 https://www.bolognawelcome.com/,2
-https://www.bookcitymilano.it/,2
 https://www.boomcrescereneilibri.it/,2
 https://www.bpp.it/,2
 https://www.bppb.it/,2
@@ -4042,7 +4043,6 @@ https://www.unmondoditaliani.com/,2
 https://www.uominibeta.org/,2
 https://www.uominietrasporti.it/,2
 https://www.uruguayaldia.com.uy/,2
-https://www.usi.ch/,2
 https://www.usigrai.it/,2
 https://www.uslumbria2.it/,2
 https://www.uspsi.it/,2
@@ -5645,6 +5645,7 @@ https://www.bianchinifilosi.edu.it/,1
 https://www.bibliomanie.it/,1
 https://www.biblionedizioni.it/,1
 https://www.biblioteche.comune.parma.it/,1
+https://www.bibliotechebologna.it/,1
 https://www.bibliotechedigenova.it/,1
 https://www.bibliotechedimaremma.it/,1
 https://www.bibliotechediroma.it/,1
@@ -5794,6 +5795,7 @@ https://www.cinemotore.com/,1
 https://www.cinespettacolo.it/,1
 https://www.cinezapping.com/,1
 https://www.cinquantamila.it/,1
+https://www.cinquerighe.it/,1
 https://www.cipm.it/,1
 https://www.cipmliguria.it/,1
 https://www.circeonews.it/,1
@@ -7268,6 +7270,7 @@ https://www.quotidianonapoli.it/,1
 https://www.radioascoli.it/,1
 https://www.radiobruno.it/,1
 https://www.radiocittadella.it/,1
+https://www.radiodolcevita.it/,1
 https://www.radioflash.fm/,1
 https://www.radiofm.biz/,1
 https://www.radiogold.tv/,1
