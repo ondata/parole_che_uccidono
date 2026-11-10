@@ -1,16 +1,16 @@
 fonte,count
-https://www.facebook.com/,3664
-https://www.youtube.com/,2638
-https://www.instagram.com/,1571
+https://www.facebook.com/,3667
+https://www.youtube.com/,2639
+https://www.instagram.com/,1572
 https://www.virgilio.it/,1546
 https://www.ansa.it/,1449
 https://x.com/,1439
 https://www.rainews.it/,1258
-https://www.ilrestodelcarlino.it/,1224
+https://www.ilrestodelcarlino.it/,1225
 https://www.lanazione.it/,952
 https://tg24.sky.it/,853
 https://www.ilfattoquotidiano.it/,835
-https://www.lastampa.it/,683
+https://www.lastampa.it/,684
 https://www.fanpage.it/,667
 https://www.ilgiorno.it/,618
 https://www.open.online/,593
@@ -63,8 +63,8 @@ https://www.corriereadriatico.it/,153
 https://www.la7.it/,147
 https://alleyoop.ilsole24ore.com/,146
 https://www.tecnicadellascuola.it/,144
+https://www.lapiazzaweb.it/,141
 https://www.cdt.ch/,140
-https://www.lapiazzaweb.it/,140
 https://www.bolognatoday.it/,139
 https://www.larena.it/,139
 https://www.tiktok.com/,137
@@ -101,9 +101,9 @@ https://www.agrigentonotizie.it/,104
 https://www.cataniatoday.it/,104
 https://www.giornalelavoce.it/,104
 https://www.perugiatoday.it/,104
+https://www.varesenews.it/,104
 https://www.lasicilia.it/,103
 https://www.prealpina.it/,103
-https://www.varesenews.it/,103
 https://www.tio.ch/,102
 https://www.forlitoday.it/,100
 https://www.vaticannews.va/,98
@@ -150,9 +150,9 @@ https://www.dire.it/,76
 https://www.espansionetv.it/,76
 https://www.polesine24.it/,76
 https://corrieredellumbria.it/,75
+https://www.ferraratoday.it/,75
 https://video.corriere.it/,74
 https://www.baritoday.it/,74
-https://www.ferraratoday.it/,74
 https://www.ilcentro.it/,74
 https://bergamo.corriere.it/,73
 https://napoli.repubblica.it/,73
@@ -417,6 +417,7 @@ https://www.noidonne.org/,30
 https://www.quotidianolavoce.it/,30
 https://www.radiolaser.it/,30
 https://www.sbircialanotizia.it/,30
+https://www.umbriaon.it/,30
 https://corrieredinovara.it/,29
 https://e-tv.it/,29
 https://www.consiglio.puglia.it/,29
@@ -437,7 +438,6 @@ https://www.quicomo.it/,29
 https://www.radiolombardia.it/,29
 https://www.reggiotv.it/,29
 https://www.startupbusiness.it/,29
-https://www.umbriaon.it/,29
 https://www.uniroma1.it/,29
 https://abruzzosera.it/,28
 https://folhadolitoral.com.br/,28
@@ -447,6 +447,7 @@ https://www.dinamopress.it/,28
 https://www.farmacista33.it/,28
 https://www.quintopotere.it/,28
 https://www.quotidianodelsud.it/,28
+https://www.targatocn.it/,28
 https://www.telefriuli.it/,28
 https://www.trentotoday.it/,28
 https://agr.regione.basilicata.it/,27
@@ -468,7 +469,6 @@ https://www.puglialive.net/,27
 https://www.raiplaysound.it/,27
 https://www.sardegnalive.net/,27
 https://www.strettoweb.com/,27
-https://www.targatocn.it/,27
 https://www.vocedipopolo.it/,27
 http://www.msn.com/,26
 https://anci.lombardia.it/,26
@@ -1095,6 +1095,7 @@ https://www.trnews.it/,12
 https://www.uslnordovest.toscana.it/,12
 https://www.webmarte.tv/,12
 https://amp.lacnews24.it/,11
+https://andrialive.it/,11
 https://barlettalive.it/,11
 https://calabria.gazzettadelsud.it/,11
 https://catania.liveuniversity.it/,11
@@ -1175,7 +1176,6 @@ https://www.vocedellascuola.it/,11
 https://www.youfoggia.com/,11
 https://altarimini.it/,10
 https://amp.today.it/,10
-https://andrialive.it/,10
 https://auser.it/,10
 https://bari.corriere.it/,10
 https://cgiltoscana.it/,10
@@ -1373,6 +1373,7 @@ https://www.newmediaeuropeanpress.eu/,9
 https://www.nonsoloflaminia.it/,9
 https://www.notix.it/,9
 https://www.odysseo.it/,9
+https://www.oltrefreepress.com/,9
 https://www.policymakermag.it/,9
 https://www.polito.it/,9
 https://www.quiantella.it/,9
@@ -1657,7 +1658,6 @@ https://www.mosaico-cem.it/,7
 https://www.news-24.it/,7
 https://www.obiettivoeuropa.com/,7
 https://www.okmugello.it/,7
-https://www.oltrefreepress.com/,7
 https://www.ondacinema.it/,7
 https://www.ontuscia.it/,7
 https://www.openpolis.it/,7
@@ -2179,6 +2179,7 @@ http://www.cittametropolitana.torino.it/,4
 http://www.lunanuova.it/,4
 http://www.news.admin.ch/,4
 https://24live.it/,4
+https://365.rtvslo.si/,4
 https://agensocial.it/,4
 https://agricolae.eu/,4
 https://agrigento.lasicilia.it/,4
@@ -2555,7 +2556,6 @@ http://www.regione.abruzzo.it/,3
 http://www.residenceleriviere.it/,3
 http://www.studocu.com/,3
 http://www.terronianmagazine.com/,3
-https://365.rtvslo.si/,3
 https://41esimoparallelo.it/,3
 https://agrpress.it/,3
 https://aiaf-avvocati.it/,3
@@ -5417,6 +5417,7 @@ https://tv.alanews.it/,1
 https://tvmag.lefigaro.fr/,1
 https://uaumagazine.com/,1
 https://ucipem.com/,1
+https://udinazionale.org/,1
 https://uildm.org/,1
 https://uilrieti.it/,1
 https://uilromalazio.com/,1
